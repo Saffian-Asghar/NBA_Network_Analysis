@@ -19,6 +19,7 @@ In this folder are located the clean files and results found on the analysis.
 In this folder you will be able to find the final presentation of the project.
 
 ## Resources
-<a href="https://github.com/swar/nba_api">NBA API</a>
- https://www.researchgate.net/publication/316709317_Social_network_analysis_in_sport_research_an_emerging_paradigm
- https://www.researchgate.net/publication/313728507_Team_Sports_Performance_Analysed_Through_the_Lens_of_Social_Network_Theory_Implications_for_Research_and_Practice
+
+- <a href="https://github.com/swar/nba_api">NBA API</a>
+- https://www.researchgate.net/publication/316709317_Social_network_analysis_in_sport_research_an_emerging_paradigm
+- https://www.researchgate.net/publication/313728507_Team_Sports_Performance_Analysed_Through_the_Lens_of_Social_Network_Theory_Implications_for_Research_and_Practice
