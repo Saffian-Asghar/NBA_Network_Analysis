@@ -1,0 +1,194 @@
+Source,Target
+Jordan Poole,Donte DiVincenzo
+Jordan Poole,Klay Thompson
+Jordan Poole,Robert Williams III
+Jordan Poole,Derrick White
+Jordan Poole,Stephen Curry
+Jordan Poole,Grant Williams
+Jordan Poole,Jayson Tatum
+Jordan Poole,Al Horford
+Jordan Poole,Andrew Wiggins
+Jordan Poole,Malcolm Brogdon
+Jordan Poole,Jaylen Brown
+Jordan Poole,Kevon Looney
+Jordan Poole,Jordan Poole
+Jordan Poole,Draymond Green
+Jordan Poole,Anthony Lamb
+Donte DiVincenzo,Jaylen Brown
+Donte DiVincenzo,Marcus Smart
+Donte DiVincenzo,Derrick White
+Donte DiVincenzo,Jayson Tatum
+Donte DiVincenzo,Jordan Poole
+Donte DiVincenzo,Al Horford
+Donte DiVincenzo,Andrew Wiggins
+Jaylen Brown,Robert Williams III
+Jaylen Brown,Andrew Wiggins
+Jaylen Brown,Marcus Smart
+Jaylen Brown,Jaylen Brown
+Jaylen Brown,Klay Thompson
+Jaylen Brown,Draymond Green
+Jaylen Brown,Stephen Curry
+Jaylen Brown,Malcolm Brogdon
+Jaylen Brown,Jordan Poole
+Jaylen Brown,Jayson Tatum
+Jaylen Brown,Al Horford
+Jaylen Brown,Kevon Looney
+Klay Thompson,Stephen Curry
+Klay Thompson,Draymond Green
+Klay Thompson,Jordan Poole
+Klay Thompson,Klay Thompson
+Klay Thompson,Jayson Tatum
+Klay Thompson,Derrick White
+Klay Thompson,Jaylen Brown
+Klay Thompson,Grant Williams
+Klay Thompson,Malcolm Brogdon
+Klay Thompson,Anthony Lamb
+Klay Thompson,Al Horford
+Klay Thompson,Andrew Wiggins
+Klay Thompson,Marcus Smart
+Klay Thompson,Kevon Looney
+Stephen Curry,Stephen Curry
+Stephen Curry,Jayson Tatum
+Stephen Curry,Al Horford
+Stephen Curry,Donte DiVincenzo
+Stephen Curry,Jordan Poole
+Stephen Curry,Grant Williams
+Stephen Curry,Robert Williams III
+Stephen Curry,Malcolm Brogdon
+Stephen Curry,Andrew Wiggins
+Stephen Curry,Jaylen Brown
+Stephen Curry,Klay Thompson
+Stephen Curry,Derrick White
+Stephen Curry,Draymond Green
+Jayson Tatum,Stephen Curry
+Jayson Tatum,Jaylen Brown
+Jayson Tatum,Kevon Looney
+Jayson Tatum,Andrew Wiggins
+Jayson Tatum,Jordan Poole
+Jayson Tatum,Klay Thompson
+Jayson Tatum,Marcus Smart
+Jayson Tatum,Draymond Green
+Jayson Tatum,Jayson Tatum
+Jayson Tatum,Al Horford
+Jayson Tatum,Robert Williams III
+Jayson Tatum,Anthony Lamb
+Jayson Tatum,Donte DiVincenzo
+Jayson Tatum,Grant Williams
+Al Horford,Kevon Looney
+Al Horford,Draymond Green
+Al Horford,Al Horford
+Al Horford,Marcus Smart
+Al Horford,Grant Williams
+Al Horford,Robert Williams III
+Al Horford,Jaylen Brown
+Al Horford,Andrew Wiggins
+Al Horford,Jordan Poole
+Al Horford,Stephen Curry
+Al Horford,Donte DiVincenzo
+Al Horford,Klay Thompson
+Al Horford,Jayson Tatum
+Al Horford,Malcolm Brogdon
+Al Horford,Anthony Lamb
+Kevon Looney,Derrick White
+Kevon Looney,Andrew Wiggins
+Kevon Looney,Jayson Tatum
+Kevon Looney,Malcolm Brogdon
+Kevon Looney,Kevon Looney
+Kevon Looney,Marcus Smart
+Kevon Looney,Jaylen Brown
+Kevon Looney,Robert Williams III
+Kevon Looney,Draymond Green
+Kevon Looney,Jordan Poole
+Kevon Looney,Al Horford
+Derrick White,Malcolm Brogdon
+Derrick White,Jaylen Brown
+Derrick White,Jordan Poole
+Derrick White,Draymond Green
+Derrick White,Klay Thompson
+Derrick White,Marcus Smart
+Derrick White,Jayson Tatum
+Derrick White,Stephen Curry
+Malcolm Brogdon,Malcolm Brogdon
+Malcolm Brogdon,Jayson Tatum
+Malcolm Brogdon,Jordan Poole
+Malcolm Brogdon,Andrew Wiggins
+Malcolm Brogdon,Kevon Looney
+Malcolm Brogdon,Grant Williams
+Malcolm Brogdon,Jaylen Brown
+Malcolm Brogdon,Stephen Curry
+Malcolm Brogdon,Draymond Green
+Malcolm Brogdon,Klay Thompson
+Malcolm Brogdon,Anthony Lamb
+Robert Williams III,Malcolm Brogdon
+Robert Williams III,Robert Williams III
+Robert Williams III,Jayson Tatum
+Robert Williams III,Draymond Green
+Robert Williams III,Marcus Smart
+Robert Williams III,Klay Thompson
+Robert Williams III,Jordan Poole
+Robert Williams III,Derrick White
+Robert Williams III,Jaylen Brown
+Robert Williams III,Donte DiVincenzo
+Robert Williams III,Anthony Lamb
+Robert Williams III,Stephen Curry
+Marcus Smart,Luke Kornet
+Marcus Smart,Robert Williams III
+Marcus Smart,Draymond Green
+Marcus Smart,Malcolm Brogdon
+Marcus Smart,Jaylen Brown
+Marcus Smart,Andrew Wiggins
+Marcus Smart,Derrick White
+Marcus Smart,Klay Thompson
+Marcus Smart,Stephen Curry
+Marcus Smart,Anthony Lamb
+Marcus Smart,Jayson Tatum
+Marcus Smart,Kevon Looney
+Marcus Smart,Marcus Smart
+Marcus Smart,Donte DiVincenzo
+Luke Kornet,Jayson Tatum
+Luke Kornet,Malcolm Brogdon
+Luke Kornet,Kevon Looney
+Andrew Wiggins,Andrew Wiggins
+Andrew Wiggins,Kevon Looney
+Andrew Wiggins,Al Horford
+Andrew Wiggins,Jayson Tatum
+Andrew Wiggins,Stephen Curry
+Andrew Wiggins,Derrick White
+Andrew Wiggins,Jordan Poole
+Andrew Wiggins,Draymond Green
+Andrew Wiggins,Klay Thompson
+Andrew Wiggins,Marcus Smart
+Andrew Wiggins,Luke Kornet
+Andrew Wiggins,Jaylen Brown
+Andrew Wiggins,Robert Williams III
+Grant Williams,Derrick White
+Grant Williams,Draymond Green
+Grant Williams,Donte DiVincenzo
+Grant Williams,Robert Williams III
+Grant Williams,Malcolm Brogdon
+Grant Williams,Grant Williams
+Grant Williams,Andrew Wiggins
+Draymond Green,Al Horford
+Draymond Green,Draymond Green
+Draymond Green,Jordan Poole
+Draymond Green,Marcus Smart
+Draymond Green,Jaylen Brown
+Draymond Green,Klay Thompson
+Draymond Green,Robert Williams III
+Draymond Green,Jayson Tatum
+Draymond Green,Kevon Looney
+Draymond Green,Stephen Curry
+Draymond Green,Donte DiVincenzo
+Draymond Green,Malcolm Brogdon
+Draymond Green,Andrew Wiggins
+Anthony Lamb,Klay Thompson
+Anthony Lamb,Stephen Curry
+Anthony Lamb,Marcus Smart
+Anthony Lamb,Robert Williams III
+Anthony Lamb,Malcolm Brogdon
+Anthony Lamb,Jaylen Brown
+Anthony Lamb,Anthony Lamb
+Anthony Lamb,Jayson Tatum
+Anthony Lamb,Kevon Looney
+Anthony Lamb,Jordan Poole
+Anthony Lamb,Draymond Green
