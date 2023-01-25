@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1137.5101"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-603.998291 -494.000000 1137.510132 985.000000" height="985.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_A.J._Lawson id_Theo_Pinson"
+              d="M 208.284927,-449.267975 A 263.419840,263.419840 0,0 1,425.731903,-244.993271"
+              stroke="#907329" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Christian_Wood id_Dwight_Powell"
+              d="M -73.082344,-469.996307 A 651.661198,651.661198 0,0 1,475.693085,28.571379"
+              stroke="#e792a7" stroke-width="4.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Christian_Wood id_Reggie_Bullock"
+              d="M -86.241829,-452.393188 A 459.036084,459.036084 0,0 1,-184.032150,37.692471"
+              stroke="#e7a2db" stroke-width="6.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Davis_Bertans id_Jaden_Hardy"
+              d="M 211.468826,75.691765 A 244.513820,244.513820 0,0 1,351.345856,306.006622"
+              stroke="#247d9e" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Davis_Bertans id_Dorian_Finney-Smith"
+              d="M 198.896912,82.079048 A 457.567680,457.567680 0,0 1,-191.300262,434.436432"
+              stroke="#15bbfc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Davis_Bertans id_Josh_Green"
+              d="M 205.465134,81.505280 A 352.310599,352.310599 0,0 1,111.881134,471.711548"
+              stroke="#948991" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Davis_Bertans id_Luka_Doncic"
+              d="M 190.070099,71.365028 A 571.442696,571.442696 0,0 1,-343.241943,-280.873840"
+              stroke="#819385" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Davis_Bertans id_Dwight_Powell"
+              d="M 209.993866,64.173370 A 233.844443,233.844443 0,0 1,463.179596,45.029255"
+              stroke="#9483c8" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dorian_Finney-Smith id_Josh_Green"
+              d="M -198.497086,430.925140 A 260.342906,260.342906 0,0 1,89.130219,471.117767"
+              stroke="#7fa294" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dorian_Finney-Smith id_Frank_Ntilikina"
+              d="M -207.036194,424.749390 A 240.907558,240.907558 0,0 1,-21.425144,232.725189"
+              stroke="#7fa294" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dorian_Finney-Smith id_Reggie_Bullock"
+              d="M -215.784195,426.892395 A 309.083367,309.083367 0,0 1,-230.172180,90.712723"
+              stroke="#7facff" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dwight_Powell id_Spencer_Dinwiddie"
+              d="M 468.067291,63.623047 A 802.954782,802.954782 0,0 1,-446.784027,-34.938492"
+              stroke="#979d4b" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dwight_Powell id_Luka_Doncic"
+              d="M 466.427826,59.275444 A 768.808614,768.808614 0,0 1,-315.238312,-253.458405"
+              stroke="#eb7454" stroke-width="14.375" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dwight_Powell id_Tim_Hardaway_Jr."
+              d="M 466.587646,59.953426 A 538.755573,538.755573 0,0 1,-103.477325,-155.397522"
+              stroke="#ff75cb" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dwight_Powell id_Frank_Ntilikina"
+              d="M 472.748840,68.748062 A 431.557447,431.557447 0,0 1,8.355433,234.220657"
+              stroke="#ff6a60" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frank_Ntilikina id_JaVale_McGee"
+              d="M -13.759196,235.605515 A 352.250327,352.250327 0,0 1,-417.448090,247.690811"
+              stroke="#7f9c59" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frank_Ntilikina id_Reggie_Bullock"
+              d="M -15.670012,229.479599 A 220.462333,220.462333 0,0 1,-205.106369,90.983574"
+              stroke="#ff7a94" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frank_Ntilikina id_A.J._Lawson"
+              d="M -9.460060,221.143188 A 592.650682,592.650682 0,0 1,190.939697,-442.453888"
+              stroke="#c0563e" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_JaVale_McGee id_Reggie_Bullock"
+              d="M -426.874176,232.166489 A 231.000230,231.000230 0,0 1,-240.329971,67.952461"
+              stroke="#7fa6c4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jaden_Hardy id_Christian_Wood"
+              d="M 338.961487,319.063202 A 760.299296,760.299296 0,0 1,-98.354729,-441.472046"
+              stroke="#768c7e" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jaden_Hardy id_Dwight_Powell"
+              d="M 348.025269,312.116608 A 248.742183,248.742183 0,0 1,462.856537,66.597786"
+              stroke="#8e5f6d" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jaden_Hardy id_Tim_Hardaway_Jr."
+              d="M 338.092407,321.804321 A 574.837878,574.837878 0,0 1,-116.616302,-154.034653"
+              stroke="#8e6fa1" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jaden_Hardy id_A.J._Lawson"
+              d="M 341.102936,315.840057 A 657.036056,657.036056 0,0 1,195.768692,-438.497223"
+              stroke="#4f4a4b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Josh_Green id_Reggie_Bullock"
+              d="M 91.309120,478.988739 A 434.401787,434.401787 0,0 1,-212.379929,95.681290"
+              stroke="#ff7a94" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Josh_Green id_Luka_Doncic"
+              d="M 91.705864,477.914063 A 772.895579,772.895579 0,0 1,-363.963287,-271.500519"
+              stroke="#eb7a1d" stroke-width="4.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luka_Doncic id_Christian_Wood"
+              d="M -340.168610,-359.234955 A 252.666412,252.666412 0,0 1,-166.553772,-471.747528"
+              stroke="#d3a164" stroke-width="16.625" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luka_Doncic id_Spencer_Dinwiddie"
+              d="M -353.359375,-284.454437 A 239.694204,239.694204 0,0 1,-427.908936,-95.435829"
+              stroke="#84ad08" stroke-width="9.875" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luka_Doncic id_Reggie_Bullock"
+              d="M -326.772583,-300.558380 A 346.468924,346.468924 0,0 1,-201.220947,2.504438"
+              stroke="#eb8488" stroke-width="14.375" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luka_Doncic id_Dorian_Finney-Smith"
+              d="M -330.252808,-296.385254 A 645.834325,645.834325 0,0 1,-198.696106,414.071869"
+              stroke="#6cac88" stroke-width="4.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luka_Doncic id_Tim_Hardaway_Jr."
+              d="M -319.167084,-324.725159 A 232.256918,232.256918 0,0 1,-163.269653,-249.223953"
+              stroke="#eb8488" stroke-width="20.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luka_Doncic id_Jaden_Hardy"
+              d="M -319.458038,-319.166382 A 800.577564,800.577564 0,0 1,345.716949,303.010406"
+              stroke="#7b6e2a" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luka_Doncic id_JaVale_McGee"
+              d="M -340.756805,-288.516907 A 473.462200,473.462200 0,0 1,-414.925018,224.617477"
+              stroke="#6ca64d" stroke-width="4.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_McKinley_Wright_IV id_Christian_Wood"
+              d="M 136.241409,-187.629288 A 310.983137,310.983137 0,0 1,-92.151749,-444.772339"
+              stroke="#67c3a0" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_McKinley_Wright_IV id_A.J._Lawson"
+              d="M 140.755844,-192.964706 A 225.581427,225.581427 0,0 1,191.773056,-441.448547"
+              stroke="#40826d" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_McKinley_Wright_IV id_Jaden_Hardy"
+              d="M 150.685165,-181.542313 A 458.199648,458.199648 0,0 1,354.289886,306.473328"
+              stroke="#0f9066" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_McKinley_Wright_IV id_JaVale_McGee"
+              d="M 141.626312,-178.112427 A 594.683204,594.683204 0,0 1,-415.012787,239.723129"
+              stroke="#00c889" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_McKinley_Wright_IV id_Theo_Pinson"
+              d="M 149.554291,-191.291534 A 240.034628,240.034628 0,0 1,412.064636,-238.318192"
+              stroke="#4fb944" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Reggie_Bullock id_Davis_Bertans"
+              d="M -196.215332,53.569931 A 345.666795,345.666795 0,0 1,184.611191,59.073864"
+              stroke="#9493fc" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Reggie_Bullock id_Tim_Hardaway_Jr."
+              d="M -218.345810,45.006153 A 219.386156,219.386156 0,0 1,-147.098099,-160.590866"
+              stroke="#ff85ff" stroke-width="4.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spencer_Dinwiddie id_Frank_Ntilikina"
+              d="M -446.177643,-62.385700 A 459.543032,459.543032 0,0 1,-14.874025,209.570938"
+              stroke="#97a315" stroke-width="4.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spencer_Dinwiddie id_Reggie_Bullock"
+              d="M -446.391022,-64.609955 A 241.915757,241.915757 0,0 1,-237.100571,28.457859"
+              stroke="#97ad7f" stroke-width="7.625" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spencer_Dinwiddie id_Josh_Green"
+              d="M -446.391266,-56.878521 A 658.855310,658.855310 0,0 1,96.790535,463.295990"
+              stroke="#97a315" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spencer_Dinwiddie id_Jaden_Hardy"
+              d="M -446.639343,-66.137039 A 758.586548,758.586548 0,0 1,336.220093,299.416779"
+              stroke="#279722" stroke-width="5.375" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spencer_Dinwiddie id_Tim_Hardaway_Jr."
+              d="M -457.578735,-83.753296 A 312.180113,312.180113 0,0 1,-169.264999,-192.591614"
+              stroke="#97ad7f" stroke-width="9.875" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spencer_Dinwiddie id_Davis_Bertans"
+              d="M -448.706024,-72.658455 A 574.140907,574.140907 0,0 1,182.468506,51.323643"
+              stroke="#2dbc7c" stroke-width="5.375" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spencer_Dinwiddie id_Dorian_Finney-Smith"
+              d="M -449.211670,-47.774563 A 469.803041,469.803041 0,0 1,-205.164551,405.325928"
+              stroke="#18d57f" stroke-width="6.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spencer_Dinwiddie id_Christian_Wood"
+              d="M -471.153931,-89.335915 A 467.026450,467.026450 0,0 1,-148.102722,-459.444763"
+              stroke="#7fca5c" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theo_Pinson id_Frank_Ntilikina"
+              d="M 427.409119,-221.598053 A 527.697784,527.697784 0,0 1,8.705573,227.118744"
+              stroke="#cf8d15" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theo_Pinson id_Davis_Bertans"
+              d="M 428.340729,-221.533569 A 314.643542,314.643542 0,0 1,220.802856,64.793373"
+              stroke="#64a67c" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theo_Pinson id_Jaden_Hardy"
+              d="M 432.681458,-222.588928 A 466.657289,466.657289 0,0 1,364.812195,308.510010"
+              stroke="#5e8122" stroke-width="3.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tim_Hardaway_Jr. id_Dorian_Finney-Smith"
+              d="M -110.421684,-162.179596 A 519.464091,519.464091 0,0 1,-196.576828,423.577271"
+              stroke="#7facff" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tim_Hardaway_Jr. id_Christian_Wood"
+              d="M -130.401138,-198.988205 A 244.050716,244.050716 0,0 1,-114.113998,-447.946289"
+              stroke="#e7a2db" stroke-width="3.125" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#907329" fill-opacity="1.0"
+                  class="id_A.J._Lawson id_Theo_Pinson"
+                  points="426.843872,-239.097229 422.783875,-244.437286 428.679932,-245.549286"
+                  stroke="none"/>
+        <polyline fill="#e792a7" fill-opacity="1.0"
+                  class="id_Christian_Wood id_Dwight_Powell"
+                  points="478.308319,41.050285 469.453644,29.878992 481.932526,27.263765"
+                  stroke="none"/>
+        <polyline fill="#e7a2db" fill-opacity="1.0"
+                  class="id_Christian_Wood id_Reggie_Bullock"
+                  points="-198.244507,51.043839 -190.707840,30.586294 -177.356461,44.798645"
+                  stroke="none"/>
+        <polyline fill="#247d9e" fill-opacity="1.0"
+                  class="id_Davis_Bertans id_Jaden_Hardy"
+                  points="350.897247,311.989838 348.354248,305.782318 354.337463,306.230927"
+                  stroke="none"/>
+        <polyline fill="#15bbfc" fill-opacity="1.0"
+                  class="id_Davis_Bertans id_Dorian_Finney-Smith"
+                  points="-197.268341,435.054565 -191.609314,431.452393 -190.991211,437.420471"
+                  stroke="none"/>
+        <polyline fill="#948991" fill-opacity="1.0"
+                  class="id_Davis_Bertans id_Josh_Green"
+                  points="107.322296,475.612457 109.930687,469.432129 113.831581,473.990967"
+                  stroke="none"/>
+        <polyline fill="#819385" fill-opacity="1.0"
+                  class="id_Davis_Bertans id_Luka_Doncic"
+                  points="-345.318359,-286.503082 -340.427307,-281.912048 -346.056580,-279.835632"
+                  stroke="none"/>
+        <polyline fill="#9483c8" fill-opacity="1.0"
+                  class="id_Davis_Bertans id_Dwight_Powell"
+                  points="468.313110,48.135235 461.626617,47.596008 464.732574,42.462502"
+                  stroke="none"/>
+        <polyline fill="#7fa294" fill-opacity="1.0"
+                  class="id_Dorian_Finney-Smith id_Josh_Green"
+                  points="93.479370,475.251160 87.063522,473.292328 91.196915,468.943207"
+                  stroke="none"/>
+        <polyline fill="#7fa294" fill-opacity="1.0"
+                  class="id_Dorian_Finney-Smith id_Frank_Ntilikina"
+                  points="-15.525393,231.632980 -20.879040,235.675064 -21.971249,229.775314"
+                  stroke="none"/>
+        <polyline fill="#7facff" fill-opacity="1.0"
+                  class="id_Dorian_Finney-Smith id_Reggie_Bullock"
+                  points="-225.019684,82.880585 -226.256104,93.288971 -234.088257,88.136475"
+                  stroke="none"/>
+        <polyline fill="#979d4b" fill-opacity="1.0"
+                  class="id_Dwight_Powell id_Spencer_Dinwiddie"
+                  points="-453.699219,-41.268616 -443.618958,-38.396099 -449.949097,-31.480885"
+                  stroke="none"/>
+        <polyline fill="#eb7454" fill-opacity="1.0"
+                  class="id_Dwight_Powell id_Luka_Doncic"
+                  points="-338.025299,-290.071503 -296.931732,-264.851898 -333.544830,-242.064911"
+                  stroke="none"/>
+        <polyline fill="#ff75cb" fill-opacity="1.0"
+                  class="id_Dwight_Powell id_Tim_Hardaway_Jr."
+                  points="-108.617897,-163.237488 -99.557343,-157.967804 -107.397308,-152.827240"
+                  stroke="none"/>
+        <polyline fill="#ff6a60" fill-opacity="1.0"
+                  class="id_Dwight_Powell id_Frank_Ntilikina"
+                  points="2.594776,232.542908 9.194306,231.340332 7.516559,237.100983"
+                  stroke="none"/>
+        <polyline fill="#7f9c59" fill-opacity="1.0"
+                  class="id_Frank_Ntilikina id_JaVale_McGee"
+                  points="-422.398956,244.301285 -415.753326,245.215378 -419.142853,250.166245"
+                  stroke="none"/>
+        <polyline fill="#ff7a94" fill-opacity="1.0"
+                  class="id_Frank_Ntilikina id_Reggie_Bullock"
+                  points="-206.977539,85.282806 -202.255981,90.047989 -207.956757,91.919159"
+                  stroke="none"/>
+        <polyline fill="#c0563e" fill-opacity="1.0"
+                  class="id_Frank_Ntilikina id_A.J._Lawson"
+                  points="195.745529,-446.046112 192.735809,-440.050964 189.143585,-444.856812"
+                  stroke="none"/>
+        <polyline fill="#7fa6c4" fill-opacity="1.0"
+                  class="id_JaVale_McGee id_Reggie_Bullock"
+                  points="-234.357300,67.380424 -240.043945,70.938797 -240.615997,64.966125"
+                  stroke="none"/>
+        <polyline fill="#768c7e" fill-opacity="1.0"
+                  class="id_Jaden_Hardy id_Christian_Wood"
+                  points="-97.291153,-450.786530 -93.697495,-440.940247 -103.011963,-442.003845"
+                  stroke="none"/>
+        <polyline fill="#8e5f6d" fill-opacity="1.0"
+                  class="id_Jaden_Hardy id_Dwight_Powell"
+                  points="468.080750,63.646950 464.331970,69.209900 461.381104,63.985672"
+                  stroke="none"/>
+        <polyline fill="#8e6fa1" fill-opacity="1.0"
+                  class="id_Jaden_Hardy id_Tim_Hardaway_Jr."
+                  points="-117.392494,-159.984238 -113.641510,-154.422745 -119.591095,-153.646561"
+                  stroke="none"/>
+        <polyline fill="#4f4a4b" fill-opacity="1.0"
+                  class="id_Jaden_Hardy id_A.J._Lawson"
+                  points="198.345749,-443.915588 198.477875,-437.208679 193.059509,-439.785767"
+                  stroke="none"/>
+        <polyline fill="#ff7a94" fill-opacity="1.0"
+                  class="id_Josh_Green id_Reggie_Bullock"
+                  points="-212.729065,86.312790 -207.695679,95.506721 -217.064178,95.855858"
+                  stroke="none"/>
+        <polyline fill="#eb7a1d" fill-opacity="1.0"
+                  class="id_Josh_Green id_Luka_Doncic"
+                  points="-362.802582,-284.197571 -357.614746,-270.920166 -370.311829,-272.080872"
+                  stroke="none"/>
+        <polyline fill="#d3a164" fill-opacity="1.0"
+                  class="id_Luka_Doncic id_Christian_Wood"
+                  points="-116.681656,-472.283508 -166.285782,-446.811462 -166.821762,-496.683594"
+                  stroke="none"/>
+        <polyline fill="#84ad08" fill-opacity="1.0"
+                  class="id_Luka_Doncic id_Spencer_Dinwiddie"
+                  points="-451.756409,-77.859138 -436.697266,-107.359543 -419.120605,-83.512100"
+                  stroke="none"/>
+        <polyline fill="#eb8488" fill-opacity="1.0"
+                  class="id_Luka_Doncic id_Reggie_Bullock"
+                  points="-209.492142,44.828819 -222.383133,-1.631159 -180.058762,6.640032"
+                  stroke="none"/>
+        <polyline fill="#6cac88" fill-opacity="1.0"
+                  class="id_Luka_Doncic id_Dorian_Finney-Smith"
+                  points="-204.004608,425.664215 -204.492279,411.417664 -192.899933,416.726135"
+                  stroke="none"/>
+        <polyline fill="#eb8488" fill-opacity="1.0"
+                  class="id_Luka_Doncic id_Tim_Hardaway_Jr."
+                  points="-131.271271,-198.468613 -188.647324,-233.224762 -137.891983,-265.223145"
+                  stroke="none"/>
+        <polyline fill="#7b6e2a" fill-opacity="1.0"
+                  class="id_Luka_Doncic id_Jaden_Hardy"
+                  points="347.581970,312.198029 341.123138,303.942902 350.310760,302.077911"
+                  stroke="none"/>
+        <polyline fill="#6ca64d" fill-opacity="1.0"
+                  class="id_Luka_Doncic id_JaVale_McGee"
+                  points="-423.567200,233.991653 -419.612091,220.296387 -410.237946,228.938568"
+                  stroke="none"/>
+        <polyline fill="#67c3a0" fill-opacity="1.0"
+                  class="id_McKinley_Wright_IV id_Christian_Wood"
+                  points="-92.723892,-450.744995 -89.165421,-445.058411 -95.138077,-444.486267"
+                  stroke="none"/>
+        <polyline fill="#40826d" fill-opacity="1.0"
+                  class="id_McKinley_Wright_IV id_A.J._Lawson"
+                  points="196.194260,-445.504761 193.801163,-439.237946 189.744949,-443.659149"
+                  stroke="none"/>
+        <polyline fill="#0f9066" fill-opacity="1.0"
+                  class="id_McKinley_Wright_IV id_Jaden_Hardy"
+                  points="352.866028,312.301941 351.375580,305.761414 357.204193,307.185242"
+                  stroke="none"/>
+        <polyline fill="#00c889" fill-opacity="1.0"
+                  class="id_McKinley_Wright_IV id_JaVale_McGee"
+                  points="-421.012634,239.765594 -415.034027,236.723206 -414.991547,242.723053"
+                  stroke="none"/>
+        <polyline fill="#4fb944" fill-opacity="1.0"
+                  class="id_McKinley_Wright_IV id_Theo_Pinson"
+                  points="420.507477,-234.242737 410.026917,-234.096771 414.102356,-242.539612"
+                  stroke="none"/>
+        <polyline fill="#9493fc" fill-opacity="1.0"
+                  class="id_Reggie_Bullock id_Davis_Bertans"
+                  points="192.199387,64.579300 181.858475,62.867962 187.363907,55.279766"
+                  stroke="none"/>
+        <polyline fill="#ff85ff" fill-opacity="1.0"
+                  class="id_Reggie_Bullock id_Tim_Hardaway_Jr."
+                  points="-136.882477,-168.220001 -143.283539,-155.483063 -150.912659,-165.698700"
+                  stroke="none"/>
+        <polyline fill="#97a315" fill-opacity="1.0"
+                  class="id_Spencer_Dinwiddie id_Frank_Ntilikina"
+                  points="-9.954690,221.333710 -20.755407,212.030624 -8.992643,207.111282"
+                  stroke="none"/>
+        <polyline fill="#97ad7f" fill-opacity="1.0"
+                  class="id_Spencer_Dinwiddie id_Reggie_Bullock"
+                  points="-224.784912,47.734528 -246.738922,34.615696 -227.462250,22.300022"
+                  stroke="none"/>
+        <polyline fill="#97a315" fill-opacity="1.0"
+                  class="id_Spencer_Dinwiddie id_Josh_Green"
+                  points="98.518921,472.510284 92.183388,464.160187 101.397682,462.431793"
+                  stroke="none"/>
+        <polyline fill="#279722" fill-opacity="1.0"
+                  class="id_Spencer_Dinwiddie id_Jaden_Hardy"
+                  points="344.084259,313.494080 329.181427,303.348846 343.258759,295.484711"
+                  stroke="none"/>
+        <polyline fill="#97ad7f" fill-opacity="1.0"
+                  class="id_Spencer_Dinwiddie id_Tim_Hardaway_Jr."
+                  points="-140.463425,-185.655472 -172.733063,-178.190826 -165.796936,-206.992401"
+                  stroke="none"/>
+        <polyline fill="#2dbc7c" fill-opacity="1.0"
+                  class="id_Spencer_Dinwiddie id_Davis_Bertans"
+                  points="193.559311,63.028755 176.615952,56.869045 188.321060,45.778240"
+                  stroke="none"/>
+        <polyline fill="#18d57f" fill-opacity="1.0"
+                  class="id_Spencer_Dinwiddie id_Dorian_Finney-Smith"
+                  points="-207.474472,424.688629 -214.845901,404.170959 -195.483200,406.480896"
+                  stroke="none"/>
+        <polyline fill="#7fca5c" fill-opacity="1.0"
+                  class="id_Spencer_Dinwiddie id_Christian_Wood"
+                  points="-116.053024,-467.307159 -144.171524,-443.419922 -152.033920,-475.469604"
+                  stroke="none"/>
+        <polyline fill="#cf8d15" fill-opacity="1.0"
+                  class="id_Theo_Pinson id_Frank_Ntilikina"
+                  points="2.807821,228.221710 8.154094,224.169861 9.257054,230.067627"
+                  stroke="none"/>
+        <polyline fill="#64a67c" fill-opacity="1.0"
+                  class="id_Theo_Pinson id_Davis_Bertans"
+                  points="211.886765,67.690575 219.354248,60.335323 222.251465,69.251427"
+                  stroke="none"/>
+        <polyline fill="#5e8122" fill-opacity="1.0"
+                  class="id_Theo_Pinson id_Jaden_Hardy"
+                  points="358.346008,315.298157 361.418121,305.276917 368.206268,311.743103"
+                  stroke="none"/>
+        <polyline fill="#7facff" fill-opacity="1.0"
+                  class="id_Tim_Hardaway_Jr. id_Dorian_Finney-Smith"
+                  points="-200.750946,427.887329 -198.731857,421.490204 -194.421799,425.664337"
+                  stroke="none"/>
+        <polyline fill="#e7a2db" fill-opacity="1.0"
+                  class="id_Tim_Hardaway_Jr. id_Christian_Wood"
+                  points="-108.322372,-455.318390 -110.427956,-445.050476 -117.800041,-450.842102"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#813c52" r="6.5" cx="201.35233"
+                class="id_A.J._Lawson" cy="-450.23703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9faa00" r="8.359155" cx="428.48575"
+                class="id_Theo_Pinson" cy="-230.39154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cfbfb8" r="21.37324" cx="-94.80968"
+                class="id_Christian_Wood" cy="-472.51855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff6597" r="14.866197" cx="481.46017"
+                class="id_Dwight_Powell" cy="56.08976" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff85ff" r="20.44366" cx="-213.50905"
+                class="id_Reggie_Bullock" cy="65.38366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2aa2f9" r="10.683098" cx="201.25107"
+                class="id_Davis_Bertans" cy="71.146545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1e5944" r="11.612677" cx="349.99158"
+                class="id_Jaden_Hardy" cy="324.0686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00d4ff" r="11.147888" cx="-208.85425"
+                class="id_Dorian_Finney-Smith" cy="436.25452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff702a" r="8.823944" cx="100.2379"
+                class="id_Josh_Green" cy="481.6744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d88411" r="39.5" cx="-359.16107"
+                class="id_Luka_Doncic" cy="-324.03146" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff702a" r="8.823944" cx="-6.3572307"
+                class="id_Frank_Ntilikina" cy="229.9357" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#30d600" r="28.34507" cx="-474.976"
+                class="id_Spencer_Dinwiddie" cy="-60.745186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff85ff" r="20.44366" cx="-120.10189"
+                class="id_Tim_Hardaway_Jr." cy="-180.7519" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c889" r="7.4295774" cx="-428.94202"
+                class="id_JaVale_McGee" cy="239.8217" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c889" r="7.4295774" cx="143.93251"
+                class="id_McKinley_Wright_IV" cy="-185.69923" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="7" x="201.35233" y="-448.9627"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_A.J._Lawson" stroke="#5a2a39"
+              stroke-opacity="0.4" stroke-width="0.875px">
+            A.J. Lawson
+        </text>
+        <text stroke-linecap="round" font-size="9" x="428.48575" y="-228.75458"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Theo_Pinson" stroke="#6f7600"
+              stroke-opacity="0.4" stroke-width="1.125px">
+            Theo Pinson
+        </text>
+        <text stroke-linecap="round" font-size="22" x="-94.80968" y="-468.4455"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Christian_Wood" stroke="#908580"
+              stroke-opacity="0.4" stroke-width="2.75px">
+            Christian Wood
+        </text>
+        <text stroke-linecap="round" font-size="15" x="481.46017" y="59.56388"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dwight_Powell" stroke="#b24669"
+              stroke-opacity="0.4" stroke-width="1.875px">
+            Dwight Powell
+        </text>
+        <text stroke-linecap="round" font-size="21" x="-213.50905" y="70.24743"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Reggie_Bullock" stroke="#b25db2"
+              stroke-opacity="0.4" stroke-width="2.625px">
+            Reggie Bullock
+        </text>
+        <text stroke-linecap="round" font-size="11" x="201.25107" y="73.14728"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Davis_Bertans" stroke="#1d71ae"
+              stroke-opacity="0.4" stroke-width="1.375px">
+            Davis Bertans
+        </text>
+        <text stroke-linecap="round" font-size="12" x="349.99158" y="326.8479"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jaden_Hardy" stroke="#153e2f"
+              stroke-opacity="0.4" stroke-width="1.5px">
+            Jaden Hardy
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-208.85425" y="439.07092"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dorian_Finney-Smith"
+              stroke="#0094b2" stroke-opacity="0.4" stroke-width="1.5px">
+            Dorian Finney-Smith
+        </text>
+        <text stroke-linecap="round" font-size="9" x="100.2379" y="483.34067"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Josh_Green" stroke="#b24e1d"
+              stroke-opacity="0.4" stroke-width="1.125px">
+            Josh Green
+        </text>
+        <text stroke-linecap="round" font-size="40" x="-359.16107"
+              y="-316.75607" fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Luka_Doncic" stroke="#975c0b"
+              stroke-opacity="0.4" stroke-width="5.0px">
+            Luka Doncic
+        </text>
+        <text stroke-linecap="round" font-size="9" x="-6.3572307" y="231.57266"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frank_Ntilikina" stroke="#b24e1d"
+              stroke-opacity="0.4" stroke-width="1.125px">
+            Frank Ntilikina
+        </text>
+        <text stroke-linecap="round" font-size="29" x="-474.976" y="-54.02383"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Spencer_Dinwiddie" stroke="#219500"
+              stroke-opacity="0.4" stroke-width="3.625px">
+            Spencer Dinwiddie
+        </text>
+        <text stroke-linecap="round" font-size="21" x="-120.10189"
+              y="-175.88814" fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tim_Hardaway_Jr." stroke="#b25db2"
+              stroke-opacity="0.4" stroke-width="2.625px">
+            Tim Hardaway Jr.
+        </text>
+        <text stroke-linecap="round" font-size="8" x="-428.94202" y="241.30283"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_JaVale_McGee" stroke="#008c5f"
+              stroke-opacity="0.4" stroke-width="1.0px">
+            JaVale McGee
+        </text>
+        <text stroke-linecap="round" font-size="8" x="143.93251" y="-183.84637"
+              fill="#ffffff" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_McKinley_Wright_IV" stroke="#008c5f"
+              stroke-opacity="0.4" stroke-width="1.0px">
+            McKinley Wright IV
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="7" x="201.35233" y="-448.9627" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_A.J._Lawson">
+            A.J. Lawson
+        </text>
+        <text font-size="9" x="428.48575" y="-228.75458" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Theo_Pinson">
+            Theo Pinson
+        </text>
+        <text font-size="22" x="-94.80968" y="-468.4455" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Christian_Wood">
+            Christian Wood
+        </text>
+        <text font-size="15" x="481.46017" y="59.56388" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dwight_Powell">
+            Dwight Powell
+        </text>
+        <text font-size="21" x="-213.50905" y="70.24743" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Reggie_Bullock">
+            Reggie Bullock
+        </text>
+        <text font-size="11" x="201.25107" y="73.14728" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Davis_Bertans">
+            Davis Bertans
+        </text>
+        <text font-size="12" x="349.99158" y="326.8479" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jaden_Hardy">
+            Jaden Hardy
+        </text>
+        <text font-size="12" x="-208.85425" y="439.07092" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dorian_Finney-Smith">
+            Dorian Finney-Smith
+        </text>
+        <text font-size="9" x="100.2379" y="483.34067" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Josh_Green">
+            Josh Green
+        </text>
+        <text font-size="40" x="-359.16107" y="-316.75607" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Luka_Doncic">
+            Luka Doncic
+        </text>
+        <text font-size="9" x="-6.3572307" y="231.57266" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frank_Ntilikina">
+            Frank Ntilikina
+        </text>
+        <text font-size="29" x="-474.976" y="-54.02383" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Spencer_Dinwiddie">
+            Spencer Dinwiddie
+        </text>
+        <text font-size="21" x="-120.10189" y="-175.88814" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tim_Hardaway_Jr.">
+            Tim Hardaway Jr.
+        </text>
+        <text font-size="8" x="-428.94202" y="241.30283" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_JaVale_McGee">
+            JaVale McGee
+        </text>
+        <text font-size="8" x="143.93251" y="-183.84637" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_McKinley_Wright_IV">
+            McKinley Wright IV
+        </text>
+    </g>
+</svg>

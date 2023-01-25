@@ -1,0 +1,44 @@
+Source,Target,Weight
+Austin Reaves,Kendrick Nunn,1
+Austin Reaves,Thomas Bryant,1
+Austin Reaves,Patrick Beverley,2
+Austin Reaves,LeBron James,5
+Austin Reaves,Wenyen Gabriel,1
+Dennis Schroder,Wenyen Gabriel,3
+Dennis Schroder,Russell Westbrook,6
+Dennis Schroder,Lonnie Walker IV,1
+Dennis Schroder,Max Christie,1
+Dennis Schroder,Kendrick Nunn,2
+Dennis Schroder,Troy Brown Jr.,6
+Dennis Schroder,LeBron James,14
+Dennis Schroder,Patrick Beverley,5
+Juan Toscano-Anderson,Russell Westbrook,6
+Juan Toscano-Anderson,Max Christie,1
+Juan Toscano-Anderson,Troy Brown Jr.,1
+Juan Toscano-Anderson,Kendrick Nunn,1
+LeBron James,Kendrick Nunn,5
+LeBron James,Patrick Beverley,5
+LeBron James,Max Christie,2
+LeBron James,Wenyen Gabriel,6
+LeBron James,Lonnie Walker IV,2
+LeBron James,Troy Brown Jr.,9
+LeBron James,Thomas Bryant,21
+LeBron James,Juan Toscano-Anderson,7
+Lonnie Walker IV,Thomas Bryant,1
+Max Christie,Thomas Bryant,1
+Max Christie,Russell Westbrook,4
+Patrick Beverley,Russell Westbrook,1
+Patrick Beverley,Juan Toscano-Anderson,1
+Patrick Beverley,Lonnie Walker IV,1
+Patrick Beverley,Max Christie,1
+Russell Westbrook,Austin Reaves,4
+Russell Westbrook,Thomas Bryant,8
+Russell Westbrook,Wenyen Gabriel,12
+Russell Westbrook,Kendrick Nunn,10
+Russell Westbrook,LeBron James,25
+Russell Westbrook,Troy Brown Jr.,2
+Thomas Bryant,Troy Brown Jr.,1
+Thomas Bryant,Dennis Schroder,7
+Troy Brown Jr.,Austin Reaves,3
+Troy Brown Jr.,Patrick Beverley,4
+Wenyen Gabriel,Kendrick Nunn,4
