@@ -1,5 +1,5 @@
 # Synergy Evaluation of NBA Players
-This project uses network analysis techniques to study the interactions and relationships between NBA players, specifically focusing on the Los Angeles Lakers team and the effect of Lebron James on the team. We made two networks, one with and one without Lebron James. Each network is all the play events from playbyplayv2, such that edges are Source: Assister, Target: Goal Scorer. Thus, it's a directed network.
+This project uses network analysis techniques to study the interactions and relationships between NBA players, specifically focusing on the Los Angeles Lakers team and the effect of Lebron James on the team. We made two series of networks, one with and without Lebron James and another one with the win or loss involvement of the players. Each network is all the play events from playbyplayv2, such that edges are Source: Assister, Target: Goal Scorer. Thus, it's a directed network.
 
 The data used in this project was collected from the <a href="https://github.com/swar/nba_api">nba_api</a> package, which provides access to NBA statistics and data. The analysis was done using Python and the NetworkX library.
 
