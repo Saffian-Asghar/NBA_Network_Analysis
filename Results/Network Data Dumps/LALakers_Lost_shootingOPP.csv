@@ -1,0 +1,166 @@
+Source,Target,Weight
+Anthony Davis,Juan Toscano-Anderson,1
+Anthony Davis,Austin Reaves,3
+Anthony Davis,Troy Brown Jr.,2
+Anthony Davis,Russell Westbrook,7
+Anthony Davis,Max Christie,1
+Anthony Davis,LeBron James,12
+Anthony Davis,Lonnie Walker IV,6
+Anthony Davis,Kendrick Nunn,3
+Austin Reaves,Matt Ryan,1
+Austin Reaves,Russell Westbrook,3
+Austin Reaves,Thomas Bryant,1
+Austin Reaves,Dennis Schroder,2
+Austin Reaves,Max Christie,2
+Austin Reaves,LeBron James,8
+Austin Reaves,Juan Toscano-Anderson,1
+Austin Reaves,Lonnie Walker IV,6
+Austin Reaves,Kendrick Nunn,2
+Austin Reaves,Troy Brown Jr.,2
+Austin Reaves,Wenyen Gabriel,1
+Austin Reaves,Damian Jones,1
+Austin Reaves,Anthony Davis,5
+Cole Swider,Wenyen Gabriel,1
+Cole Swider,Scotty Pippen Jr.,1
+Cole Swider,Shareef O'Neal,1
+Cole Swider,Paris Bass,1
+Cole Swider,Max Christie,2
+Damian Jones,Troy Brown Jr.,1
+Damian Jones,Patrick Beverley,1
+Damian Jones,Matt Ryan,1
+Damian Jones,Russell Westbrook,1
+Dennis Schroder,Max Christie,1
+Dennis Schroder,Russell Westbrook,3
+Dennis Schroder,Troy Brown Jr.,5
+Dennis Schroder,Wenyen Gabriel,2
+Dennis Schroder,Cole Swider,1
+Dennis Schroder,LeBron James,8
+Dennis Schroder,Austin Reaves,2
+Dennis Schroder,Anthony Davis,2
+Dennis Schroder,Lonnie Walker IV,6
+Dennis Schroder,Thomas Bryant,12
+Dennis Schroder,Patrick Beverley,4
+Javante McCoy,Vitto Brown,2
+Javante McCoy,Sacha Killeya-Jones,1
+Javante McCoy,Cole Swider,1
+Juan Toscano-Anderson,Dennis Schroder,2
+Juan Toscano-Anderson,Kendrick Nunn,2
+Juan Toscano-Anderson,Thomas Bryant,1
+Juan Toscano-Anderson,Max Christie,2
+Juan Toscano-Anderson,Lonnie Walker IV,2
+Juan Toscano-Anderson,Troy Brown Jr.,2
+Juan Toscano-Anderson,Russell Westbrook,3
+Juan Toscano-Anderson,LeBron James,1
+Juan Toscano-Anderson,Anthony Davis,2
+Juan Toscano-Anderson,Matt Ryan,1
+Kendrick Nunn,Matt Ryan,1
+Kendrick Nunn,Max Christie,1
+Kendrick Nunn,Anthony Davis,7
+Kendrick Nunn,LeBron James,2
+Kendrick Nunn,Wenyen Gabriel,3
+Kendrick Nunn,Thomas Bryant,2
+Kendrick Nunn,Damian Jones,2
+Kendrick Nunn,Russell Westbrook,2
+LeBron James,Damian Jones,1
+LeBron James,Matt Ryan,1
+LeBron James,Anthony Davis,21
+LeBron James,Patrick Beverley,11
+LeBron James,Russell Westbrook,13
+LeBron James,Max Christie,2
+LeBron James,Juan Toscano-Anderson,6
+LeBron James,Wenyen Gabriel,12
+LeBron James,Austin Reaves,10
+LeBron James,Troy Brown Jr.,12
+LeBron James,Dennis Schroder,7
+LeBron James,Kendrick Nunn,6
+LeBron James,Lonnie Walker IV,20
+LeBron James,Thomas Bryant,18
+Lonnie Walker IV,Anthony Davis,8
+Lonnie Walker IV,Russell Westbrook,1
+Lonnie Walker IV,LeBron James,9
+Lonnie Walker IV,Troy Brown Jr.,2
+Lonnie Walker IV,Thomas Bryant,2
+Lonnie Walker IV,Dennis Schroder,4
+Lonnie Walker IV,Patrick Beverley,2
+Mason Jones,Cole Swider,1
+Mason Jones,Scotty Pippen Jr.,2
+Mason Jones,Paris Bass,1
+Mason Jones,Vitto Brown,1
+Mason Jones,Javante McCoy,1
+Mason Jones,Nate Pierre-Louis,1
+Matt Ryan,Russell Westbrook,1
+Matt Ryan,Max Christie,1
+Max Christie,Matt Ryan,1
+Max Christie,Shareef O'Neal,1
+Max Christie,Javante McCoy,1
+Max Christie,Mason Jones,1
+Max Christie,Patrick Beverley,1
+Max Christie,Thomas Bryant,3
+Max Christie,Nate Pierre-Louis,1
+Max Christie,Troy Brown Jr.,2
+Max Christie,Wenyen Gabriel,1
+Max Christie,Damian Jones,2
+Nate Pierre-Louis,Max Christie,1
+Nate Pierre-Louis,Vitto Brown,1
+Nate Pierre-Louis,Sacha Killeya-Jones,1
+Nate Pierre-Louis,Cole Swider,3
+Patrick Beverley,Thomas Bryant,7
+Patrick Beverley,Troy Brown Jr.,3
+Patrick Beverley,Lonnie Walker IV,10
+Patrick Beverley,Austin Reaves,4
+Patrick Beverley,Max Christie,2
+Patrick Beverley,Dennis Schroder,3
+Patrick Beverley,Russell Westbrook,5
+Patrick Beverley,LeBron James,10
+Patrick Beverley,Damian Jones,1
+Patrick Beverley,Anthony Davis,4
+Patrick Beverley,Kendrick Nunn,2
+Patrick Beverley,Juan Toscano-Anderson,1
+R.J. Cole,Shareef O'Neal,1
+R.J. Cole,Vitto Brown,1
+Russell Westbrook,Max Christie,3
+Russell Westbrook,Thomas Bryant,5
+Russell Westbrook,Anthony Davis,31
+Russell Westbrook,Lonnie Walker IV,11
+Russell Westbrook,LeBron James,26
+Russell Westbrook,Wenyen Gabriel,18
+Russell Westbrook,Austin Reaves,10
+Russell Westbrook,Damian Jones,3
+Russell Westbrook,Dennis Schroder,6
+Russell Westbrook,Juan Toscano-Anderson,6
+Russell Westbrook,Patrick Beverley,4
+Russell Westbrook,Troy Brown Jr.,10
+Russell Westbrook,Cole Swider,1
+Russell Westbrook,Kendrick Nunn,9
+Sacha Killeya-Jones,Cole Swider,1
+Sacha Killeya-Jones,Max Christie,1
+Scotty Pippen Jr.,Cole Swider,3
+Scotty Pippen Jr.,Mason Jones,2
+Scotty Pippen Jr.,Paris Bass,5
+Scotty Pippen Jr.,Sacha Killeya-Jones,3
+Scotty Pippen Jr.,Kendrick Nunn,1
+Scotty Pippen Jr.,Juan Toscano-Anderson,1
+Sterling Brown,Max Christie,1
+Thomas Bryant,Lonnie Walker IV,2
+Thomas Bryant,Max Christie,2
+Thomas Bryant,Juan Toscano-Anderson,1
+Thomas Bryant,Dennis Schroder,1
+Thomas Bryant,Kendrick Nunn,1
+Thomas Bryant,LeBron James,6
+Troy Brown Jr.,Russell Westbrook,1
+Troy Brown Jr.,Thomas Bryant,2
+Troy Brown Jr.,Matt Ryan,1
+Troy Brown Jr.,Kendrick Nunn,1
+Troy Brown Jr.,Anthony Davis,2
+Troy Brown Jr.,Austin Reaves,3
+Troy Brown Jr.,Lonnie Walker IV,2
+Troy Brown Jr.,LeBron James,6
+Vitto Brown,Cole Swider,1
+Vitto Brown,Paris Bass,1
+Vitto Brown,Javante McCoy,1
+Wenyen Gabriel,LeBron James,2
+Wenyen Gabriel,Austin Reaves,2
+Wenyen Gabriel,Kendrick Nunn,1
+Wenyen Gabriel,Matt Ryan,1
+Wenyen Gabriel,Lonnie Walker IV,1
+Wenyen Gabriel,Troy Brown Jr.,1
