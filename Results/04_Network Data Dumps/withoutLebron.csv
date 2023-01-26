@@ -1,0 +1,29 @@
+Id,Label,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class
+Anthony Davis,Anthony Davis,7,6,13,34,13,47,3,0.509804,0.583333,0.039216,2
+Kendrick Nunn,Kendrick Nunn,10,7,17,18,10,28,4,0.433333,0.548077,0.113797,0
+Lonnie Walker IV,Lonnie Walker IV,9,4,13,31,10,41,4,0.4,0.477564,0.012048,2
+Austin Reaves,Austin Reaves,6,11,17,16,24,40,3,0.565217,0.679487,0.064063,3
+Max Christie,Max Christie,12,13,25,21,18,39,3,0.634146,0.737179,0.36221,1
+Patrick Beverley,Patrick Beverley,4,7,11,4,21,25,4,0.42623,0.541667,0.031954,2
+Russell Westbrook,Russell Westbrook,6,13,19,12,75,87,3,0.619048,0.730769,0.072565,3
+Juan Toscano-Anderson,Juan Toscano-Anderson,3,5,8,4,6,10,3,0.5,0.564103,0.001652,0
+Dennis Schroder,Dennis Schroder,6,7,13,9,18,27,3,0.5,0.589744,0.042132,4
+Troy Brown Jr.,Troy Brown Jr.,7,6,13,13,9,22,4,0.42623,0.528846,0.028938,4
+Wenyen Gabriel,Wenyen Gabriel,5,4,9,19,4,23,4,0.393939,0.477564,0.058462,3
+Thomas Bryant,Thomas Bryant,8,3,11,29,5,34,3,0.464286,0.512821,0.02685,4
+Cole Swider,Cole Swider,12,7,19,37,9,46,3,0.52,0.602564,0.153168,5
+Scotty Pippen Jr.,Scotty Pippen Jr.,5,8,13,8,39,47,3,0.553191,0.634615,0.055839,6
+Paris Bass,Paris Bass,5,3,8,13,3,16,4,0.393939,0.464744,0.037203,6
+Mason Jones,Mason Jones,8,11,19,10,25,35,4,0.530612,0.663462,0.093187,7
+Sacha Killeya-Jones,Sacha Killeya-Jones,5,6,11,12,8,20,4,0.481481,0.567308,0.045841,9
+Shareef O'Neal,Shareef O'Neal,4,2,6,4,2,6,4,0.382353,0.439103,0.003428,7
+Damian Jones,Damian Jones,3,1,4,6,1,7,4,0.38806,0.426282,0.008956,1
+Fabian White Jr.,Fabian White Jr.,3,1,4,4,1,5,6,0.276596,0.325,0.004036,8
+R.J. Cole,R.J. Cole,5,4,9,6,6,12,5,0.366197,0.45641,0.041002,9
+Javante McCoy,Javante McCoy,4,8,12,6,14,20,4,0.481481,0.596154,0.031016,1
+Vitto Brown,Vitto Brown,5,4,9,9,4,13,4,0.42623,0.5,0.020233,7
+Jay Huff,Jay Huff,5,5,10,11,7,18,4,0.4,0.496795,0.016951,6
+Matt Ryan,Matt Ryan,1,1,2,1,1,2,5,0.305882,0.353205,0,0
+Mac McClung,Mac McClung,2,2,4,2,3,5,5,0.295455,0.355769,0.009086,8
+Nate Pierre-Louis,Nate Pierre-Louis,4,4,8,7,9,16,4,0.440678,0.512821,0.007933,5
+Sterling Brown,Sterling Brown,0,1,1,0,1,1,4,0.397059,0.432099,0,1

@@ -1,0 +1,20 @@
+Id,Label,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class
+Anthony Davis,Anthony Davis,9,8,17,136,54,190,3,0.64,0.739583,0.009057,5
+LeBron James,LeBron James,13,15,28,198,274,472,2,0.941176,0.96875,0.1195,0
+Kendrick Nunn,Kendrick Nunn,10,9,19,41,24,65,2,0.695652,0.78125,0.073153,1
+Juan Toscano-Anderson,Juan Toscano-Anderson,8,9,17,23,18,41,2,0.695652,0.78125,0.06002,2
+Troy Brown Jr.,Troy Brown Jr.,11,9,20,76,29,105,3,0.666667,0.770833,0.032375,3
+Dennis Schroder,Dennis Schroder,9,14,23,51,116,167,2,0.888889,0.9375,0.032842,3
+Russell Westbrook,Russell Westbrook,12,14,26,64,269,333,2,0.888889,0.9375,0.064594,4
+Austin Reaves,Austin Reaves,8,12,20,59,56,115,3,0.761905,0.864583,0.013421,1
+Lonnie Walker IV,Lonnie Walker IV,10,8,18,94,35,129,2,0.666667,0.75,0.011094,6
+Wenyen Gabriel,Wenyen Gabriel,8,7,15,58,15,73,2,0.64,0.71875,0.009548,7
+Matt Ryan,Matt Ryan,9,3,12,13,3,16,2,0.551724,0.59375,0.008974,2
+Damian Jones,Damian Jones,6,3,9,8,3,11,3,0.516129,0.572917,0.003839,0
+Patrick Beverley,Patrick Beverley,7,13,20,49,76,125,2,0.842105,0.90625,0.032153,0
+Thomas Bryant,Thomas Bryant,9,8,17,113,23,136,2,0.666667,0.75,0.017969,4
+Cole Swider,Cole Swider,1,1,2,1,1,2,3,0.410256,0.447917,0,7
+Max Christie,Max Christie,11,8,19,23,11,34,2,0.666667,0.75,0.131441,7
+Rui Hachimura,Rui Hachimura,3,1,4,3,1,4,3,0.5,0.520833,0.000934,7
+Scotty Pippen Jr.,Scotty Pippen Jr.,0,1,1,0,1,1,3,0.425,0.460784,0,2
+Sterling Brown,Sterling Brown,0,1,1,0,1,1,3,0.425,0.460784,0,1
