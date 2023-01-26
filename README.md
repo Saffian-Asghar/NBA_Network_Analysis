@@ -20,8 +20,11 @@ The data was analyzed using various network analysis techniques, including centr
 - Clone the repository
 
  <code>git clone https://github.com/Saffian-Asghar/NBA_Network_Analysis.git</code>
-- Install the required libraries
-<code>pip install -r requirements.txt </code>
+
+- Install nba_api using
+<code>pip install nba_api</code>
+- Install Networkx using
+<code>pip install networkx</code>
 
 - Run the Jupyter notebook to reproduce the analysis
 
