@@ -1,89 +1,145 @@
 Source,Target,Weight
-Anthony Davis,Juan Toscano-Anderson,2
-Anthony Davis,Lonnie Walker IV,19
-Anthony Davis,Austin Reaves,11
-Anthony Davis,Troy Brown Jr.,6
-Austin Reaves,Wenyen Gabriel,4
-Austin Reaves,LeBron James,40
+Anthony Davis,LeBron James,23
+Anthony Davis,Kendrick Nunn,1
+Anthony Davis,Juan Toscano-Anderson,1
+Anthony Davis,Troy Brown Jr.,5
+Anthony Davis,Dennis Schroder,1
+Anthony Davis,Russell Westbrook,8
+Anthony Davis,Austin Reaves,6
+Anthony Davis,Lonnie Walker IV,9
+Austin Reaves,LeBron James,20
+Austin Reaves,Wenyen Gabriel,3
 Austin Reaves,Kendrick Nunn,4
 Austin Reaves,Lonnie Walker IV,8
-Austin Reaves,Thomas Bryant,4
-Austin Reaves,Patrick Beverley,6
-Austin Reaves,Damian Jones,1
+Austin Reaves,Dennis Schroder,3
+Austin Reaves,Troy Brown Jr.,3
+Austin Reaves,Anthony Davis,5
+Austin Reaves,Russell Westbrook,2
 Austin Reaves,Matt Ryan,3
+Austin Reaves,Damian Jones,1
+Austin Reaves,Patrick Beverley,1
+Austin Reaves,Thomas Bryant,3
+Cole Swider,Max Christie,1
 Damian Jones,Troy Brown Jr.,1
 Damian Jones,Matt Ryan,1
-Dennis Schroder,Juan Toscano-Anderson,4
+Damian Jones,Patrick Beverley,1
 Dennis Schroder,Max Christie,1
+Dennis Schroder,Austin Reaves,6
+Dennis Schroder,Rui Hachimura,1
 Dennis Schroder,Wenyen Gabriel,5
-Dennis Schroder,Austin Reaves,9
-Dennis Schroder,Lonnie Walker IV,12
+Dennis Schroder,Juan Toscano-Anderson,3
+Dennis Schroder,Russell Westbrook,6
 Dennis Schroder,Damian Jones,2
-Dennis Schroder,Russell Westbrook,17
+Dennis Schroder,Patrick Beverley,10
+Dennis Schroder,LeBron James,33
 Dennis Schroder,Kendrick Nunn,2
-Dennis Schroder,LeBron James,49
-Dennis Schroder,Thomas Bryant,20
-Dennis Schroder,Anthony Davis,8
-Dennis Schroder,Troy Brown Jr.,17
-Juan Toscano-Anderson,Russell Westbrook,11
-Juan Toscano-Anderson,Lonnie Walker IV,2
+Dennis Schroder,Anthony Davis,7
+Dennis Schroder,Lonnie Walker IV,10
+Dennis Schroder,Thomas Bryant,17
+Dennis Schroder,Troy Brown Jr.,13
+Juan Toscano-Anderson,Russell Westbrook,5
+Juan Toscano-Anderson,Dennis Schroder,1
 Juan Toscano-Anderson,Max Christie,2
 Juan Toscano-Anderson,Troy Brown Jr.,3
-Juan Toscano-Anderson,Kendrick Nunn,2
+Juan Toscano-Anderson,LeBron James,2
+Juan Toscano-Anderson,Kendrick Nunn,1
 Juan Toscano-Anderson,Matt Ryan,1
-Kendrick Nunn,Thomas Bryant,3
-Kendrick Nunn,Anthony Davis,7
+Juan Toscano-Anderson,Lonnie Walker IV,2
+Juan Toscano-Anderson,Anthony Davis,1
+Kendrick Nunn,Max Christie,1
+Kendrick Nunn,LeBron James,3
 Kendrick Nunn,Damian Jones,1
+Kendrick Nunn,Wenyen Gabriel,5
+Kendrick Nunn,Anthony Davis,6
 Kendrick Nunn,Matt Ryan,1
-Kendrick Nunn,Wenyen Gabriel,9
-LeBron James,Anthony Davis,67
+Kendrick Nunn,Russell Westbrook,3
+Kendrick Nunn,Thomas Bryant,3
+Kendrick Nunn,Juan Toscano-Anderson,1
+LeBron James,Matt Ryan,3
+LeBron James,Anthony Davis,47
+LeBron James,Austin Reaves,20
+LeBron James,Thomas Bryant,42
+LeBron James,Dennis Schroder,20
+LeBron James,Juan Toscano-Anderson,8
+LeBron James,Kendrick Nunn,11
+LeBron James,Lonnie Walker IV,31
+LeBron James,Patrick Beverley,24
+LeBron James,Rui Hachimura,1
+LeBron James,Russell Westbrook,29
+LeBron James,Wenyen Gabriel,14
+LeBron James,Troy Brown Jr.,18
 LeBron James,Damian Jones,2
-LeBron James,Matt Ryan,4
-LeBron James,Patrick Beverley,39
-LeBron James,Kendrick Nunn,14
-LeBron James,Juan Toscano-Anderson,10
-LeBron James,Thomas Bryant,51
-LeBron James,Wenyen Gabriel,18
-LeBron James,Max Christie,3
-Lonnie Walker IV,Troy Brown Jr.,5
-Lonnie Walker IV,LeBron James,42
-Lonnie Walker IV,Patrick Beverley,13
+LeBron James,Max Christie,4
+Lonnie Walker IV,Patrick Beverley,3
+Lonnie Walker IV,LeBron James,11
+Lonnie Walker IV,Dennis Schroder,2
+Lonnie Walker IV,Troy Brown Jr.,2
+Lonnie Walker IV,Russell Westbrook,1
+Lonnie Walker IV,Anthony Davis,10
 Lonnie Walker IV,Max Christie,1
-Lonnie Walker IV,Thomas Bryant,7
-Matt Ryan,Russell Westbrook,2
-Matt Ryan,Max Christie,2
+Lonnie Walker IV,Thomas Bryant,5
+Matt Ryan,Max Christie,1
+Matt Ryan,LeBron James,1
+Matt Ryan,Russell Westbrook,1
 Max Christie,Troy Brown Jr.,1
-Max Christie,Kendrick Nunn,2
-Max Christie,Cole Swider,2
-Max Christie,Thomas Bryant,3
-Max Christie,Russell Westbrook,10
-Patrick Beverley,Wenyen Gabriel,1
-Patrick Beverley,Anthony Davis,8
-Patrick Beverley,Damian Jones,2
-Patrick Beverley,Kendrick Nunn,2
-Patrick Beverley,Juan Toscano-Anderson,2
-Patrick Beverley,Thomas Bryant,10
+Max Christie,Wenyen Gabriel,2
+Max Christie,Cole Swider,1
+Max Christie,Russell Westbrook,2
+Max Christie,Matt Ryan,1
+Max Christie,Rui Hachimura,1
+Max Christie,Kendrick Nunn,1
+Max Christie,Thomas Bryant,2
+Patrick Beverley,Lonnie Walker IV,10
+Patrick Beverley,Damian Jones,1
 Patrick Beverley,Max Christie,2
-Patrick Beverley,Dennis Schroder,15
-Russell Westbrook,Austin Reaves,18
-Russell Westbrook,Troy Brown Jr.,20
-Russell Westbrook,LeBron James,91
-Russell Westbrook,Thomas Bryant,27
+Patrick Beverley,Juan Toscano-Anderson,2
+Patrick Beverley,Troy Brown Jr.,8
+Patrick Beverley,Anthony Davis,8
+Patrick Beverley,LeBron James,18
+Patrick Beverley,Thomas Bryant,10
+Patrick Beverley,Kendrick Nunn,2
+Patrick Beverley,Wenyen Gabriel,1
+Patrick Beverley,Russell Westbrook,4
+Patrick Beverley,Dennis Schroder,5
+Patrick Beverley,Austin Reaves,5
+Rui Hachimura,LeBron James,1
+Russell Westbrook,Matt Ryan,1
+Russell Westbrook,Anthony Davis,51
+Russell Westbrook,LeBron James,63
+Russell Westbrook,Lonnie Walker IV,17
 Russell Westbrook,Damian Jones,1
-Russell Westbrook,Lonnie Walker IV,18
-Russell Westbrook,Patrick Beverley,11
-Russell Westbrook,Wenyen Gabriel,29
-Russell Westbrook,Kendrick Nunn,17
-Russell Westbrook,Anthony Davis,55
+Russell Westbrook,Kendrick Nunn,14
+Russell Westbrook,Troy Brown Jr.,19
+Russell Westbrook,Max Christie,8
+Russell Westbrook,Juan Toscano-Anderson,6
+Russell Westbrook,Dennis Schroder,12
+Russell Westbrook,Thomas Bryant,27
+Russell Westbrook,Austin Reaves,16
+Russell Westbrook,Wenyen Gabriel,27
+Russell Westbrook,Patrick Beverley,7
 Scotty Pippen Jr.,Juan Toscano-Anderson,1
 Sterling Brown,Kendrick Nunn,1
-Thomas Bryant,Juan Toscano-Anderson,1
+Thomas Bryant,Austin Reaves,1
+Thomas Bryant,Dennis Schroder,3
+Thomas Bryant,Max Christie,1
 Thomas Bryant,Wenyen Gabriel,1
-Troy Brown Jr.,Austin Reaves,7
+Thomas Bryant,Juan Toscano-Anderson,1
+Thomas Bryant,LeBron James,11
+Thomas Bryant,Lonnie Walker IV,2
+Thomas Bryant,Troy Brown Jr.,3
+Troy Brown Jr.,Anthony Davis,1
+Troy Brown Jr.,LeBron James,8
 Troy Brown Jr.,Matt Ryan,1
-Troy Brown Jr.,Patrick Beverley,9
-Troy Brown Jr.,Thomas Bryant,7
-Troy Brown Jr.,LeBron James,26
+Troy Brown Jr.,Patrick Beverley,3
+Troy Brown Jr.,Lonnie Walker IV,3
+Troy Brown Jr.,Dennis Schroder,4
+Troy Brown Jr.,Thomas Bryant,4
+Troy Brown Jr.,Austin Reaves,4
+Troy Brown Jr.,Russell Westbrook,1
 Wenyen Gabriel,Lonnie Walker IV,2
-Wenyen Gabriel,Max Christie,3
+Wenyen Gabriel,Kendrick Nunn,4
+Wenyen Gabriel,Russell Westbrook,2
+Wenyen Gabriel,Austin Reaves,1
+Wenyen Gabriel,Max Christie,1
+Wenyen Gabriel,LeBron James,4
 Wenyen Gabriel,Matt Ryan,1
