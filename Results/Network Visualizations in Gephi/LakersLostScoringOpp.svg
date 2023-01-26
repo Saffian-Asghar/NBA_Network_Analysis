@@ -1,1175 +1,1727 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="1254.361"
+<svg contentScriptType="text/ecmascript" width="2363.2883"
      xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
      contentStyleType="text/css"
-     viewBox="-620.006348 -613.000000 1254.360962 1227.000000" height="1227.0"
+     viewBox="-1175.794189 -813.000000 2363.288330 1599.000000" height="1599.0"
      preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
      version="1.1">
     <g id="edges">
         <path stroke-linecap="round" fill="none"
-              class="id_Anthony_Davis id_Kendrick_Nunn"
-              d="M 261.975708,236.873398 A 619.812953,619.812953 0,0 1,-331.589844,-101.621628"
-              stroke="#42925b" stroke-width="10.0" stroke-opacity="1.0"/>
+              class="id_Anthony_Davis id_Juan_Toscano-Anderson"
+              d="M -149.559982,274.350555 A 683.910953,683.910953 0,0 1,500.101044,604.192688"
+              stroke="#00d5b7" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Anthony_Davis id_Max_Christie"
-              d="M 264.359009,223.035599 A 340.216254,340.216254 0,0 1,78.457550,-98.171219"
-              stroke="#7fba9a" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Anthony_Davis id_Austin_Reaves"
+              d="M -171.925690,231.560760 A 781.632609,781.632609 0,0 1,635.654053,56.104645"
+              stroke="#00d5b7" stroke-width="3.6" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Anthony_Davis id_Troy_Brown_Jr."
-              d="M 272.453369,212.790131 A 633.805720,633.805720 0,0 1,242.354736,-500.764038"
-              stroke="#4ec55b" stroke-width="4.0" stroke-opacity="1.0"/>
+              d="M -294.494385,294.826263 A 452.199231,452.199231 0,0 1,-687.183167,105.812813"
+              stroke="#00d5b7" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anthony_Davis id_Russell_Westbrook"
+              d="M -207.254944,213.268478 A 415.134668,415.134668 0,0 1,-2.583320,-35.241108"
+              stroke="#00d5b7" stroke-width="8.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anthony_Davis id_Max_Christie"
+              d="M -269.965912,340.217285 A 355.611228,355.611228 0,0 1,-590.081848,427.805756"
+              stroke="#00d5b7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anthony_Davis id_LeBron_James"
+              d="M -237.414597,213.420166 A 596.965207,596.965207 0,0 1,-93.759956,-272.752625"
+              stroke="#00d5b7" stroke-width="15.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Anthony_Davis id_Lonnie_Walker_IV"
-              d="M 277.994690,259.494202 A 228.067745,228.067745 0,0 1,123.576019,376.004181"
-              stroke="#00cd89" stroke-width="14.0" stroke-opacity="1.0"/>
+              d="M -253.650375,218.982773 A 873.335130,873.335130 0,0 1,-119.187332,-688.269104"
+              stroke="#00d5b7" stroke-width="7.5" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_Damian_Jones"
-              d="M -325.163818,112.043045 A 612.047095,612.047095 0,0 1,257.677246,510.431671"
-              stroke="#96586f" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_Anthony_Davis"
-              d="M -327.040955,104.147926 A 538.615549,538.615549 0,0 1,252.944427,198.064072"
-              stroke="#16966d" stroke-width="8.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_Max_Christie"
-              d="M -336.429291,94.531235 A 402.349736,402.349736 0,0 1,59.190845,-118.523056"
-              stroke="#967b51" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_Juan_Toscano-Anderson"
-              d="M -360.519592,99.206665 A 407.612314,407.612314 0,0 1,-460.753906,-348.226868"
-              stroke="#35534e" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_Kendrick_Nunn"
-              d="M -357.138702,96.179291 A 213.829617,213.829617 0,0 1,-363.131409,-124.909637"
-              stroke="#585312" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_Troy_Brown_Jr."
-              d="M -342.816223,92.599670 A 732.192252,732.192252 0,0 1,226.591782,-519.278564"
-              stroke="#658612" stroke-width="5.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_Thomas_Bryant"
-              d="M -349.210693,92.794357 A 651.746546,651.746546 0,0 1,-31.555836,-585.059265"
-              stroke="#897d7c" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_Lonnie_Walker_IV"
-              d="M -325.164368,112.026466 A 403.141463,403.141463 0,0 1,41.573578,341.364777"
-              stroke="#168e40" stroke-width="6.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Austin_Reaves id_LeBron_James"
-              d="M -336.741455,94.380211 A 204.928593,204.928593 0,0 1,-227.105881,-1.129200"
-              stroke="#965244" stroke-width="18.0" stroke-opacity="1.0"/>
+              class="id_Anthony_Davis id_Kendrick_Nunn"
+              d="M -284.998810,322.168243 A 562.379840,562.379840 0,0 1,-854.218201,285.897461"
+              stroke="#00d5b7" stroke-width="3.6" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Austin_Reaves id_Matt_Ryan"
-              d="M -337.150360,94.192207 A 611.002732,611.002732 0,0 1,275.134094,-255.737625"
-              stroke="#966b91" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 644.867676,96.228142 A 1320.581104,1320.581104 0,0 1,-810.729675,-346.242859"
+              stroke="#9db600" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Russell_Westbrook"
+              d="M 644.658508,95.621292 A 494.708894,494.708894 0,0 1,200.496674,4.574193"
+              stroke="#9db600" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Thomas_Bryant"
+              d="M 645.697998,98.426895 A 1185.176243,1185.176243 0,0 1,-654.533936,-215.860931"
+              stroke="#9db600" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Dennis_Schroder"
+              d="M 646.799255,57.548080 A 295.892704,295.892704 0,0 1,501.667938,-159.570526"
+              stroke="#9db600" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Max_Christie"
+              d="M 660.206360,118.418419 A 1136.161556,1136.161556 0,0 1,-587.702087,432.958282"
+              stroke="#9db600" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_LeBron_James"
+              d="M 641.971558,78.822304 A 668.997980,668.997980 0,0 1,101.546562,-241.861130"
+              stroke="#9db600" stroke-width="10.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Juan_Toscano-Anderson"
+              d="M 707.722046,128.311295 A 487.604707,487.604707 0,0 1,549.349854,614.051514"
+              stroke="#9db600" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Lonnie_Walker_IV"
+              d="M 643.169006,68.236679 A 934.600386,934.600386 0,0 1,-49.363659,-666.329590"
+              stroke="#9db600" stroke-width="7.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Kendrick_Nunn"
+              d="M 655.153503,113.538750 A 1332.443388,1332.443388 0,0 1,-853.990051,278.432404"
+              stroke="#9db600" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Troy_Brown_Jr."
+              d="M 651.144714,108.490494 A 1174.256240,1174.256240 0,0 1,-672.364868,92.058174"
+              stroke="#9db600" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Wenyen_Gabriel"
+              d="M 642.159180,83.650391 A 1078.715879,1078.715879 0,0 1,-403.739655,-539.329163"
+              stroke="#9db600" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Damian_Jones"
+              d="M 686.446594,129.989273 A 394.568593,394.568593 0,0 1,412.571411,431.062958"
+              stroke="#9db600" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Austin_Reaves id_Anthony_Davis"
+              d="M 658.680054,117.082146 A 781.632609,781.632609 0,0 1,-136.188904,317.607544"
+              stroke="#9db600" stroke-width="6.2" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Cole_Swider id_Wenyen_Gabriel"
-              d="M -157.788666,-304.857483 A 196.130541,196.130541 0,0 1,37.936977,-379.473419"
-              stroke="#7bb27f" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Cole_Swider id_Paris_Bass"
-              d="M -153.414581,-299.431976 A 633.725205,633.725205 0,0 1,565.290283,-127.391487"
-              stroke="#7b8c40" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -401.297668,548.406311 A 958.516299,958.516299 0,0 1,-445.506683,-542.986938"
+              stroke="#25de00" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Cole_Swider id_Scotty_Pippen_Jr."
-              d="M -155.706406,-303.024323 A 544.955880,544.955880 0,0 1,464.008301,-375.983765"
-              stroke="#c0a27f" stroke-width="4.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Cole_Swider id_Max_Christie"
-              d="M -152.436127,-294.422913 A 252.571274,252.571274 0,0 1,72.943886,-135.584656"
-              stroke="#fba03f" stroke-width="2.0" stroke-opacity="1.0"/>
+              d="M -383.582764,542.555908 A 1309.685820,1309.685820 0,0 1,545.010803,-666.324158"
+              stroke="#25de00" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Cole_Swider id_Shareef_O&apos;Neal"
-              d="M -155.947052,-285.856995 A 758.705465,758.705465 0,0 1,-5.671142,590.982422"
-              stroke="#7bc27f" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -366.072723,549.298401 A 1111.570390,1111.570390 0,0 1,893.169556,259.507599"
+              stroke="#25de00" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Damian_Jones id_Matt_Ryan"
-              d="M 255.972687,514.643188 A 649.304021,649.304021 0,0 1,280.529510,-242.911606"
-              stroke="#ff6cdc" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Cole_Swider id_Paris_Bass"
+              d="M -363.424194,551.912415 A 990.258139,990.258139 0,0 1,776.116943,443.690582"
+              stroke="#25de00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Cole_Swider id_Max_Christie"
+              d="M -412.016083,571.014648 A 239.648504,239.648504 0,0 1,-608.778992,455.830139"
+              stroke="#25de00" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Damian_Jones id_Troy_Brown_Jr."
-              d="M 255.577438,514.925537 A 874.999050,874.999050 0,0 1,246.470993,-508.854828"
-              stroke="#ce875d" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 359.731689,445.989655 A 969.637718,969.637718 0,0 1,-686.664307,100.770866"
+              stroke="#ff59ba" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Dennis_Schroder id_Anthony_Davis"
-              d="M -157.591812,270.359253 A 387.085251,387.085251 0,0 1,259.878784,218.577637"
-              stroke="#12d95b" stroke-width="2.0" stroke-opacity="1.0"/>
+              class="id_Damian_Jones id_Patrick_Beverley"
+              d="M 367.156891,419.060669 A 217.113741,217.113741 0,0 1,325.443268,233.971436"
+              stroke="#ff59ba" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Dennis_Schroder id_Lonnie_Walker_IV"
-              d="M -152.983215,279.639008 A 208.063334,208.063334 0,0 1,24.558777,337.503265"
-              stroke="#12d12e" stroke-width="10.0" stroke-opacity="1.0"/>
+              class="id_Damian_Jones id_Matt_Ryan"
+              d="M 358.606873,439.529175 A 1212.822523,1212.822523 0,0 1,-817.842285,-342.343384"
+              stroke="#ff59ba" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Dennis_Schroder id_Patrick_Beverley"
-              d="M -159.256226,268.686249 A 622.016424,622.016424 0,0 1,524.586731,111.020584"
-              stroke="#25de00" stroke-width="5.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Dennis_Schroder id_Austin_Reaves"
-              d="M -192.150040,279.890686 A 202.557759,202.557759 0,0 1,-338.135620,144.106140"
-              stroke="#299a12" stroke-width="4.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Dennis_Schroder id_Thomas_Bryant"
-              d="M -181.229965,265.609589 A 744.336010,744.336010 0,0 1,-53.423622,-554.844482"
-              stroke="#85c06a" stroke-width="13.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Dennis_Schroder id_Wenyen_Gabriel"
-              d="M -178.283264,264.462463 A 580.864286,580.864286 0,0 1,38.330250,-362.288330"
-              stroke="#12d07f" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Dennis_Schroder id_Troy_Brown_Jr."
-              d="M -175.343552,263.816223 A 763.935415,763.935415 0,0 1,229.364258,-511.059845"
-              stroke="#61ca00" stroke-width="5.0" stroke-opacity="1.0"/>
+              class="id_Damian_Jones id_Russell_Westbrook"
+              d="M 361.519226,426.342743 A 482.501100,482.501100 0,0 1,114.099113,29.363501"
+              stroke="#ff59ba" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Dennis_Schroder id_Max_Christie"
-              d="M -173.633255,263.648407 A 393.798507,393.798507 0,0 1,63.344753,-109.222122"
-              stroke="#92bf3f" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 477.667389,-171.356842 A 1078.633075,1078.633075 0,0 1,-588.876526,421.626160"
+              stroke="#e5a3d5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dennis_Schroder id_Russell_Westbrook"
+              d="M 468.348480,-176.975891 A 337.447471,337.447471 0,0 1,233.883728,-63.668583"
+              stroke="#e5a3d5" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dennis_Schroder id_Troy_Brown_Jr."
+              d="M 465.135193,-179.612503 A 1039.261535,1039.261535 0,0 1,-655.021240,84.845978"
+              stroke="#e5a3d5" stroke-width="6.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dennis_Schroder id_Wenyen_Gabriel"
+              d="M 449.141235,-206.223572 A 824.310270,824.310270 0,0 1,-395.122986,-539.593567"
+              stroke="#e5a3d5" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Dennis_Schroder id_Cole_Swider"
-              d="M -183.966644,267.213654 A 481.822236,481.822236 0,0 1,-174.297104,-282.090057"
-              stroke="#8ebf00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 488.134613,-167.753723 A 987.339947,987.339947 0,0 1,-353.590668,567.247375"
+              stroke="#e5a3d5" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Javante_McCoy id_Cole_Swider"
-              d="M -578.529907,140.999191 A 507.804494,507.804494 0,0 1,-180.269241,-291.570374"
-              stroke="#fb8a03" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Dennis_Schroder id_LeBron_James"
+              d="M 449.139465,-206.230820 A 409.424117,409.424117 0,0 1,145.661972,-272.260559"
+              stroke="#e5a3d5" stroke-width="10.1" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Javante_McCoy id_Sacha_Killeya-Jones"
-              d="M -569.902466,147.235245 A 900.088770,900.088770 0,0 1,468.957520,358.666687"
-              stroke="#ff7407" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Dennis_Schroder id_Austin_Reaves"
+              d="M 546.907043,-196.370651 A 295.892704,295.892704 0,0 1,691.362366,21.199417"
+              stroke="#e5a3d5" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dennis_Schroder id_Anthony_Davis"
+              d="M 481.717102,-169.664505 A 733.338848,733.338848 0,0 1,-141.903229,283.338531"
+              stroke="#e5a3d5" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dennis_Schroder id_Lonnie_Walker_IV"
+              d="M 448.297333,-226.625351 A 644.338353,644.338353 0,0 1,-41.452785,-667.827515"
+              stroke="#e5a3d5" stroke-width="7.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dennis_Schroder id_Thomas_Bryant"
+              d="M 456.352631,-189.731750 A 991.140606,991.140606 0,0 1,-611.498352,-199.727585"
+              stroke="#e5a3d5" stroke-width="15.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dennis_Schroder id_Patrick_Beverley"
+              d="M 510.210327,-167.498322 A 356.660981,356.660981 0,0 1,400.024414,138.914063"
+              stroke="#e5a3d5" stroke-width="4.9" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Javante_McCoy id_Vitto_Brown"
-              d="M -569.168091,154.290848 A 413.770201,413.770201 0,0 1,-256.929199,507.472076"
-              stroke="#7f7644" stroke-width="3.0" stroke-opacity="1.0"/>
+              d="M 1029.800537,-97.779327 A 691.567966,691.567966 0,0 1,351.316132,-496.551697"
+              stroke="#ff7407" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Juan_Toscano-Anderson id_Lonnie_Walker_IV"
-              d="M -440.441895,-359.519104 A 752.767762,752.767762 0,0 1,58.328342,350.159058"
-              stroke="#1e8a6a" stroke-width="2.0" stroke-opacity="1.0"/>
+              class="id_Javante_McCoy id_Sacha_Killeya-Jones"
+              d="M 1034.098145,-86.397675 A 1707.421604,1707.421604 0,0 1,-975.782288,-94.947609"
+              stroke="#ff7407" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Juan_Toscano-Anderson id_Anthony_Davis"
-              d="M -439.658356,-363.613373 A 795.408599,795.408599 0,0 1,279.547211,199.321396"
-              stroke="#1e9297" stroke-width="3.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Juan_Toscano-Anderson id_Kendrick_Nunn"
-              d="M -441.584320,-357.028717 A 202.725224,202.725224 0,0 1,-347.639252,-166.076492"
-              stroke="#604f3c" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Juan_Toscano-Anderson id_Russell_Westbrook"
-              d="M -439.959900,-367.232330 A 715.782595,715.782595 0,0 1,298.142639,-61.990505"
-              stroke="#668d9b" stroke-width="8.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Juan_Toscano-Anderson id_Troy_Brown_Jr."
-              d="M -444.577209,-375.076416 A 608.804297,608.804297 0,0 1,239.650131,-533.551941"
-              stroke="#6d823c" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Javante_McCoy id_Cole_Swider"
+              d="M 1041.562500,-79.860535 A 1321.091866,1321.091866 0,0 1,-354.020569,576.321533"
+              stroke="#ff7407" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Juan_Toscano-Anderson id_Dennis_Schroder"
-              d="M -441.613617,-356.978424 A 588.596626,588.596626 0,0 1,-167.093048,258.197144"
-              stroke="#31963c" stroke-width="2.0" stroke-opacity="1.0"/>
+              d="M 497.691711,609.327209 A 713.836082,713.836082 0,0 1,467.443268,-169.179214"
+              stroke="#8aa4ff" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Juan_Toscano-Anderson id_Kendrick_Nunn"
+              d="M 485.721802,650.536499 A 1221.759493,1221.759493 0,0 1,-865.581482,292.143372"
+              stroke="#8aa4ff" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Juan_Toscano-Anderson id_Thomas_Bryant"
-              d="M -447.610474,-377.104187 A 414.855585,414.855585 0,0 1,-36.981354,-598.452148"
-              stroke="#9179a6" stroke-width="2.0" stroke-opacity="1.0"/>
+              d="M 483.385712,637.579407 A 1252.206473,1252.206473 0,0 1,-672.841980,-205.582321"
+              stroke="#8aa4ff" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Juan_Toscano-Anderson id_Max_Christie"
-              d="M -439.913025,-367.002991 A 490.655854,490.655854 0,0 1,69.630516,-134.082199"
-              stroke="#9e777b" stroke-width="2.0" stroke-opacity="1.0"/>
+              d="M 486.701508,652.855042 A 973.066062,973.066062 0,0 1,-598.113831,448.415527"
+              stroke="#8aa4ff" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Juan_Toscano-Anderson id_Lonnie_Walker_IV"
+              d="M 488.553009,619.381409 A 1254.034883,1254.034883 0,0 1,-76.403931,-682.773987"
+              stroke="#8aa4ff" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Juan_Toscano-Anderson id_Troy_Brown_Jr."
+              d="M 484.026489,644.580566 A 1136.070003,1136.070003 0,0 1,-689.329895,107.089622"
+              stroke="#8aa4ff" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Juan_Toscano-Anderson id_Russell_Westbrook"
+              d="M 486.846161,622.541809 A 681.974816,681.974816 0,0 1,114.583946,37.202034"
+              stroke="#8aa4ff" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Juan_Toscano-Anderson id_LeBron_James"
+              d="M 487.826447,620.634888 A 940.844994,940.844994 0,0 1,19.682478,-256.173370"
+              stroke="#8aa4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Juan_Toscano-Anderson id_Anthony_Davis"
+              d="M 483.915894,643.978271 A 683.910953,683.910953 0,0 1,-180.702698,353.595184"
+              stroke="#8aa4ff" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Juan_Toscano-Anderson id_Matt_Ryan"
-              d="M -441.302643,-370.940216 A 626.270625,626.270625 0,0 1,279.191101,-264.280731"
-              stroke="#9e67bb" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Kendrick_Nunn id_Max_Christie"
-              d="M -337.017029,-152.547424 A 359.812201,359.812201 0,0 1,66.032990,-127.195450"
-              stroke="#c1773f" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Kendrick_Nunn id_LeBron_James"
-              d="M -334.565826,-144.854980 A 211.474741,211.474741 0,0 1,-162.700165,-62.915985"
-              stroke="#c14e32" stroke-width="6.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Kendrick_Nunn id_Wenyen_Gabriel"
-              d="M -344.109741,-158.814392 A 390.177266,390.177266 0,0 1,31.476561,-377.229004"
-              stroke="#42897f" stroke-width="3.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Kendrick_Nunn id_Damian_Jones"
-              d="M -334.848663,-140.649612 A 756.173879,756.173879 0,0 1,260.733124,506.664856"
-              stroke="#c1545d" stroke-width="2.0" stroke-opacity="1.0"/>
+              d="M 483.386749,637.466797 A 1400.270839,1400.270839 0,0 1,-819.284058,-341.860168"
+              stroke="#8aa4ff" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Kendrick_Nunn id_Matt_Ryan"
-              d="M -339.521179,-155.660553 A 541.551492,541.551492 0,0 1,276.540802,-260.562958"
-              stroke="#c1677f" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -915.820923,217.953354 A 521.809112,521.809112 0,0 1,-845.226990,-347.559509"
+              stroke="#ffa07e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kendrick_Nunn id_Max_Christie"
+              d="M -854.602234,253.755310 A 261.605036,261.605036 0,0 1,-644.914185,382.225800"
+              stroke="#ffa07e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kendrick_Nunn id_Anthony_Davis"
+              d="M -860.973755,232.426697 A 562.379840,562.379840 0,0 1,-304.172272,228.735641"
+              stroke="#ffa07e" stroke-width="8.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kendrick_Nunn id_LeBron_James"
+              d="M -881.902649,215.516357 A 941.664493,941.664493 0,0 1,-95.049881,-379.582642"
+              stroke="#ffa07e" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kendrick_Nunn id_Wenyen_Gabriel"
+              d="M -900.285950,213.206085 A 799.636555,799.636555 0,0 1,-467.779968,-557.289490"
+              stroke="#ffa07e" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kendrick_Nunn id_Thomas_Bryant"
+              d="M -904.916931,213.935745 A 459.017061,459.017061 0,0 1,-735.705872,-223.660492"
+              stroke="#ffa07e" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kendrick_Nunn id_Damian_Jones"
+              d="M -859.322571,235.300003 A 1078.171853,1078.171853 0,0 1,360.967651,415.447693"
+              stroke="#ffa07e" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kendrick_Nunn id_Russell_Westbrook"
+              d="M -871.483826,221.109100 A 891.014979,891.014979 0,0 1,13.944111,-105.945213"
+              stroke="#ffa07e" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_LeBron_James id_Damian_Jones"
-              d="M -95.934814,0.237483 A 556.375456,556.375456 0,0 1,262.638184,509.554199"
-              stroke="#ff538f" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 139.189743,-311.312286 A 743.284832,743.284832 0,0 1,390.960358,410.101898"
+              stroke="#ff4e65" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_LeBron_James id_Matt_Ryan"
-              d="M -116.128685,-48.501968 A 406.091598,406.091598 0,0 1,275.133209,-255.729599"
-              stroke="#ff67b2" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -68.148026,-315.127319 A 720.099408,720.099408 0,0 1,-804.900391,-352.337585"
+              stroke="#ff4e65" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_LeBron_James id_Anthony_Davis"
-              d="M -93.898285,-15.260984 A 408.353815,408.353815 0,0 1,222.781082,126.916862"
-              stroke="#7f918e" stroke-width="33.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_LeBron_James id_Juan_Toscano-Anderson"
-              d="M -172.673187,-22.095932 A 396.307281,396.307281 0,0 1,-450.143738,-335.123627"
-              stroke="#9e4e6e" stroke-width="5.0" stroke-opacity="1.0"/>
+              d="M 57.831234,-259.803986 A 596.965207,596.965207 0,0 1,-102.783409,187.148010"
+              stroke="#ff4e65" stroke-width="27.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_LeBron_James id_Patrick_Beverley"
-              d="M -97.177132,-28.683321 A 586.741564,586.741564 0,0 1,504.021332,72.826225"
-              stroke="#929632" stroke-width="18.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_LeBron_James id_Wenyen_Gabriel"
-              d="M -137.868332,-52.416302 A 340.884360,340.884360 0,0 1,8.745127,-347.361572"
-              stroke="#7f88b2" stroke-width="13.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_LeBron_James id_Dennis_Schroder"
-              d="M -117.025757,23.685120 A 248.927043,248.927043 0,0 1,-136.639847,236.812607"
-              stroke="#929632" stroke-width="13.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_LeBron_James id_Max_Christie"
-              d="M -111.950798,-46.120712 A 197.778427,197.778427 0,0 1,62.225006,-118.569305"
-              stroke="#ff7771" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 143.817688,-318.421570 A 535.656564,535.656564 0,0 1,350.660278,84.934326"
+              stroke="#ff4e65" stroke-width="14.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_LeBron_James id_Russell_Westbrook"
-              d="M -100.538155,-34.824078 A 385.667201,385.667201 0,0 1,209.181213,-72.215630"
-              stroke="#c78c92" stroke-width="33.0" stroke-opacity="1.0"/>
+              d="M 114.573669,-285.160400 A 264.443985,264.443985 0,0 1,133.099014,-229.622437"
+              stroke="#ff4e65" stroke-width="16.6" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_LeBron_James id_Thomas_Bryant"
-              d="M -149.343338,-49.483841 A 495.866832,495.866832 0,0 1,-61.581402,-546.034302"
-              stroke="#f2789d" stroke-width="17.0" stroke-opacity="1.0"/>
+              class="id_LeBron_James id_Max_Christie"
+              d="M 21.640970,-258.946136 A 866.827460,866.827460 0,0 1,-586.166016,406.260315"
+              stroke="#ff4e65" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeBron_James id_Juan_Toscano-Anderson"
+              d="M 143.205612,-317.418335 A 940.844994,940.844994 0,0 1,528.880615,580.613525"
+              stroke="#ff4e65" stroke-width="7.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeBron_James id_Wenyen_Gabriel"
+              d="M -87.714729,-372.078613 A 415.300251,415.300251 0,0 1,-370.521149,-509.200531"
+              stroke="#ff4e65" stroke-width="15.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeBron_James id_Austin_Reaves"
+              d="M 161.551910,-375.068817 A 668.997980,668.997980 0,0 1,659.995789,-3.644287"
+              stroke="#ff4e65" stroke-width="12.7" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_LeBron_James id_Troy_Brown_Jr."
-              d="M -131.943008,-52.578938 A 538.099649,538.099649 0,0 1,207.781845,-508.431610"
-              stroke="#ce8232" stroke-width="12.0" stroke-opacity="1.0"/>
+              d="M -21.046211,-272.215820 A 727.824526,727.824526 0,0 1,-622.980896,64.505814"
+              stroke="#ff4e65" stroke-width="15.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeBron_James id_Dennis_Schroder"
+              d="M 160.422791,-401.562042 A 409.424117,409.424117 0,0 1,450.286713,-279.477417"
+              stroke="#ff4e65" stroke-width="8.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeBron_James id_Kendrick_Nunn"
+              d="M -11.206016,-267.610962 A 941.664493,941.664493 0,0 1,-832.097839,255.189392"
+              stroke="#ff4e65" stroke-width="7.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeBron_James id_Lonnie_Walker_IV"
+              d="M -44.264530,-478.168549 A 317.054227,317.054227 0,0 1,-83.589035,-612.698730"
+              stroke="#ff4e65" stroke-width="25.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeBron_James id_Thomas_Bryant"
+              d="M -57.581356,-301.070679 A 614.070563,614.070563 0,0 1,-578.104431,-212.452774"
+              stroke="#ff4e65" stroke-width="23.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lonnie_Walker_IV id_Anthony_Davis"
+              d="M -33.778492,-694.334290 A 873.335130,873.335130 0,0 1,-152.331177,208.413284"
+              stroke="#00c55c" stroke-width="10.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lonnie_Walker_IV id_Russell_Westbrook"
+              d="M -14.047690,-709.436462 A 581.495643,581.495643 0,0 1,150.690460,-178.949493"
+              stroke="#00c55c" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Lonnie_Walker_IV id_LeBron_James"
-              d="M 36.685181,368.516327 A 364.157726,364.157726 0,0 1,-135.666473,114.363861"
-              stroke="#7f8960" stroke-width="29.0" stroke-opacity="1.0"/>
+              d="M -16.069294,-707.230164 A 317.054227,317.054227 0,0 1,57.302593,-540.897888"
+              stroke="#00c55c" stroke-width="11.4" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Lonnie_Walker_IV id_Troy_Brown_Jr."
-              d="M 48.119030,358.140381 A 773.043793,773.043793 0,0 1,236.486786,-505.819427"
-              stroke="#4ebd2e" stroke-width="4.0" stroke-opacity="1.0"/>
+              d="M -65.725922,-688.160034 A 868.342454,868.342454 0,0 1,-663.964172,45.228493"
+              stroke="#00c55c" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Mason_Jones id_Nate_Pierre-Louis"
-              d="M -437.568237,361.653717 A 465.628542,465.628542 0,0 1,51.251011,136.409729"
-              stroke="#7f7cc0" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Lonnie_Walker_IV id_Thomas_Bryant"
+              d="M -80.152657,-690.924683 A 666.116154,666.116154 0,0 1,-632.443909,-259.616577"
+              stroke="#00c55c" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lonnie_Walker_IV id_Dennis_Schroder"
+              d="M 0.569593,-740.406738 A 644.338353,644.338353 0,0 1,485.173218,-283.719360"
+              stroke="#00c55c" stroke-width="4.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lonnie_Walker_IV id_Patrick_Beverley"
+              d="M -7.907323,-717.767578 A 846.958890,846.958890 0,0 1,357.436951,121.062759"
+              stroke="#00c55c" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Mason_Jones id_Cole_Swider"
-              d="M -445.801788,360.526794 A 601.549862,601.549862 0,0 1,-178.308563,-286.504944"
-              stroke="#fb907f" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Mason_Jones id_Vitto_Brown"
-              d="M -431.794708,372.429779 A 203.554985,203.554985 0,0 1,-258.799713,513.892456"
-              stroke="#7f7cc0" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Mason_Jones id_Paris_Bass"
-              d="M -437.814117,361.519958 A 940.464949,940.464949 0,0 1,560.563232,-119.297592"
-              stroke="#7f7cc0" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 765.930237,-351.827148 A 1244.642793,1244.642793 0,0 1,-353.480194,568.669189"
+              stroke="#ff80ff" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Mason_Jones id_Scotty_Pippen_Jr."
-              d="M -440.165375,360.595825 A 987.026633,987.026633 0,0 1,460.862915,-363.015717"
-              stroke="#c492ff" stroke-width="4.0" stroke-opacity="1.0"/>
+              d="M 749.576355,-384.263885 A 299.052926,299.052926 0,0 1,574.471436,-640.225525"
+              stroke="#ff80ff" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mason_Jones id_Paris_Bass"
+              d="M 786.692261,-356.108887 A 693.893761,693.893761 0,0 1,813.303650,435.306305"
+              stroke="#ff80ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mason_Jones id_Vitto_Brown"
+              d="M 748.748901,-368.519562 A 381.335765,381.335765 0,0 1,354.692535,-502.961243"
+              stroke="#ff80ff" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Mason_Jones id_Javante_McCoy"
-              d="M -453.590942,367.168854 A 215.640962,215.640962 0,0 1,-580.553223,165.714127"
-              stroke="#ff7a83" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 795.714783,-371.126373 A 327.573890,327.573890 0,0 1,1047.582764,-125.117897"
+              stroke="#ff80ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mason_Jones id_Nate_Pierre-Louis"
+              d="M 771.974731,-351.068359 A 1175.110223,1175.110223 0,0 1,-35.599247,755.037598"
+              stroke="#ff80ff" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Matt_Ryan id_Russell_Westbrook"
-              d="M 297.372406,-246.098526 A 205.216323,205.216323 0,0 1,343.551392,-46.750484"
-              stroke="#c7a5df" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -804.363464,-375.653625 A 826.027748,826.027748 0,0 1,52.323433,-158.733322"
+              stroke="#ff80ff" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Matt_Ryan id_Max_Christie"
-              d="M 285.287750,-243.611008 A 209.209332,209.209332 0,0 1,100.677177,-115.721664"
-              stroke="#ff90be" stroke-width="2.0" stroke-opacity="1.0"/>
+              d="M -808.670105,-352.337341 A 675.023726,675.023726 0,0 1,-613.715576,380.799347"
+              stroke="#ff80ff" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Max_Christie id_Wenyen_Gabriel"
-              d="M 70.301666,-127.276474 A 216.655646,216.655646 0,0 1,47.042683,-358.366547"
-              stroke="#7fb1be" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Max_Christie id_Damian_Jones"
-              d="M 91.542252,-106.822197 A 555.042397,555.042397 0,0 1,268.870789,507.637787"
-              stroke="#ff7c9c" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Max_Christie id_Mason_Jones"
-              d="M 77.062881,-101.381584 A 595.794807,595.794807 0,0 1,-428.862793,369.859589"
-              stroke="#ff90be" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Max_Christie id_Javante_McCoy"
-              d="M 72.053062,-103.335114 A 593.268714,593.268714 0,0 1,-566.306091,155.218933"
-              stroke="#ff8a42" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Max_Christie id_Troy_Brown_Jr."
-              d="M 76.732193,-130.432175 A 372.348237,372.348237 0,0 1,238.436600,-513.223938"
-              stroke="#ceab3f" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Max_Christie id_Thomas_Bryant"
-              d="M 69.048782,-126.089294 A 406.883020,406.883020 0,0 1,-25.202696,-567.697876"
-              stroke="#f2a1a9" stroke-width="4.0" stroke-opacity="1.0"/>
+              class="id_Max_Christie id_Matt_Ryan"
+              d="M -655.131287,393.900391 A 675.023726,675.023726 0,0 1,-837.104858,-342.566223"
+              stroke="#f7a100" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Max_Christie id_Shareef_O&apos;Neal"
-              d="M 87.021286,-102.964111 A 603.840817,603.840817 0,0 1,-2.486679,593.218994"
-              stroke="#7fc1be" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -600.707764,393.349487 A 1291.623586,1291.623586 0,0 1,894.619934,256.663513"
+              stroke="#f7a100" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Max_Christie id_Javante_McCoy"
+              d="M -606.122742,388.373138 A 1464.927107,1464.927107 0,0 1,1028.148804,-108.326561"
+              stroke="#f7a100" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Max_Christie id_Mason_Jones"
+              d="M -612.798889,384.431915 A 1340.323128,1340.323128 0,0 1,744.996277,-378.393494"
+              stroke="#f7a100" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Max_Christie id_Patrick_Beverley"
+              d="M -604.169617,389.938904 A 834.679380,834.679380 0,0 1,292.548309,160.091980"
+              stroke="#f7a100" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Max_Christie id_Thomas_Bryant"
+              d="M -650.968445,389.749115 A 563.249998,563.249998 0,0 1,-718.012756,-202.626312"
+              stroke="#f7a100" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Max_Christie id_Nate_Pierre-Louis"
+              d="M -591.704834,414.977600 A 553.461536,553.461536 0,0 1,-70.875999,738.851624"
+              stroke="#f7a100" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Max_Christie id_Troy_Brown_Jr."
+              d="M -654.199219,392.847626 A 306.573703,306.573703 0,0 1,-732.463501,111.416801"
+              stroke="#f7a100" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Max_Christie id_Wenyen_Gabriel"
+              d="M -642.314087,384.320862 A 848.077817,848.077817 0,0 1,-453.246277,-549.575806"
+              stroke="#f7a100" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Max_Christie id_Damian_Jones"
+              d="M -597.955322,396.871521 A 843.700019,843.700019 0,0 1,358.278381,418.590302"
+              stroke="#f7a100" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Nate_Pierre-Louis id_Max_Christie"
-              d="M 59.159786,129.825775 A 212.971959,212.971959 0,0 1,67.208015,-99.396118"
-              stroke="#7f8c7f" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Nate_Pierre-Louis id_Sacha_Killeya-Jones"
-              d="M 76.000664,137.850677 A 394.026931,394.026931 0,0 1,472.366852,356.408600"
-              stroke="#7f7644" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Nate_Pierre-Louis id_Cole_Swider"
-              d="M 55.088284,134.354752 A 409.151799,409.151799 0,0 1,-167.783844,-273.187103"
-              stroke="#7b8c40" stroke-width="3.0" stroke-opacity="1.0"/>
+              d="M -83.728279,764.697327 A 553.461536,553.461536 0,0 1,-611.931335,452.996155"
+              stroke="#007881" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Nate_Pierre-Louis id_Vitto_Brown"
-              d="M 64.373978,150.231323 A 419.313109,419.313109 0,0 1,-241.452072,523.899658"
+              d="M -68.148262,741.013611 A 1123.138587,1123.138587 0,0 1,318.190704,-508.531799"
               stroke="#007881" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Patrick_Beverley id_Kendrick_Nunn"
-              d="M 537.979980,131.373016 A 788.884144,788.884144 0,0 1,-337.340698,-126.005493"
-              stroke="#549600" stroke-width="2.0" stroke-opacity="1.0"/>
+              class="id_Nate_Pierre-Louis id_Sacha_Killeya-Jones"
+              d="M -83.631676,760.218384 A 1066.683002,1066.683002 0,0 1,-991.594421,-85.053741"
+              stroke="#007881" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Patrick_Beverley id_Damian_Jones"
-              d="M 556.472839,144.606110 A 413.608382,413.608382 0,0 1,279.802551,518.950562"
-              stroke="#929b5d" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Patrick_Beverley id_Juan_Toscano-Anderson"
-              d="M 537.146729,128.275864 A 935.674808,935.674808 0,0 1,-445.901245,-348.879272"
-              stroke="#31963c" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Patrick_Beverley id_Anthony_Davis"
-              d="M 545.848328,141.355835 A 240.896393,240.896393 0,0 1,328.263519,241.216293"
-              stroke="#12d95b" stroke-width="4.0" stroke-opacity="1.0"/>
+              class="id_Nate_Pierre-Louis id_Cole_Swider"
+              d="M -83.737366,764.571960 A 313.853747,313.853747 0,0 1,-367.373108,605.062317"
+              stroke="#007881" stroke-width="3.6" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Patrick_Beverley id_Thomas_Bryant"
-              d="M 537.543152,119.321724 A 765.125905,765.125905 0,0 1,-11.256620,-559.183777"
-              stroke="#85c06a" stroke-width="6.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Patrick_Beverley id_Max_Christie"
-              d="M 537.051697,127.715782 A 445.137718,445.137718 0,0 1,89.534050,-97.502953"
-              stroke="#92bf3f" stroke-width="2.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Patrick_Beverley id_Lonnie_Walker_IV"
-              d="M 547.633728,142.395432 A 467.236513,467.236513 0,0 1,117.370537,386.525482"
-              stroke="#12d12e" stroke-width="12.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Patrick_Beverley id_Austin_Reaves"
-              d="M 540.494019,136.200653 A 751.875123,751.875123 0,0 1,-319.446533,131.823914"
-              stroke="#299a12" stroke-width="4.0" stroke-opacity="1.0"/>
+              d="M 292.921448,192.257324 A 935.805322,935.805322 0,0 1,-647.981934,-191.637619"
+              stroke="#2d5724" stroke-width="8.8" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Patrick_Beverley id_Troy_Brown_Jr."
-              d="M 539.393372,114.850868 A 596.062446,596.062446 0,0 1,254.003540,-502.379120"
-              stroke="#61ca00" stroke-width="2.0" stroke-opacity="1.0"/>
+              d="M 298.278259,206.588379 A 890.222946,890.222946 0,0 1,-672.494263,98.421082"
+              stroke="#2d5724" stroke-width="3.6" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_R.J._Cole id_Vitto_Brown"
-              d="M -582.891479,-109.772148 A 603.955308,603.955308 0,0 1,-252.977646,513.538513"
-              stroke="#629d77" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Patrick_Beverley id_Lonnie_Walker_IV"
+              d="M 299.552856,152.666687 A 846.958890,846.958890 0,0 1,-78.488800,-651.387756"
+              stroke="#2d5724" stroke-width="12.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_Austin_Reaves"
+              d="M 381.677917,140.640823 A 301.713372,301.713372 0,0 1,629.317993,62.951382"
+              stroke="#2d5724" stroke-width="4.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_Max_Christie"
+              d="M 309.996033,221.233383 A 834.679380,834.679380 0,0 1,-587.785828,433.169983"
+              stroke="#2d5724" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_Dennis_Schroder"
+              d="M 334.925018,127.869225 A 356.660981,356.660981 0,0 1,449.581482,-180.616348"
+              stroke="#2d5724" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_Russell_Westbrook"
+              d="M 294.142761,164.605148 A 285.153314,285.153314 0,0 1,155.362885,40.036102"
+              stroke="#2d5724" stroke-width="6.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_LeBron_James"
+              d="M 297.683777,155.993149 A 535.656564,535.656564 0,0 1,38.510544,-219.931824"
+              stroke="#2d5724" stroke-width="12.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_Damian_Jones"
+              d="M 379.052399,223.036758 A 217.113741,217.113741 0,0 1,396.527740,411.978699"
+              stroke="#2d5724" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_Anthony_Davis"
+              d="M 306.851471,218.235657 A 480.892518,480.892518 0,0 1,-140.046448,316.773346"
+              stroke="#2d5724" stroke-width="4.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_Kendrick_Nunn"
+              d="M 303.564667,214.510315 A 1036.618611,1036.618611 0,0 1,-855.114502,280.316406"
+              stroke="#2d5724" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patrick_Beverley id_Juan_Toscano-Anderson"
+              d="M 389.149811,212.548630 A 407.410720,407.410720 0,0 1,527.907776,600.310913"
+              stroke="#2d5724" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_R.J._Cole id_Shareef_O&apos;Neal"
-              d="M -582.195862,-111.661362 A 768.764720,768.764720 0,0 1,-12.247702,589.580994"
-              stroke="#62d2b6" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -767.201843,-473.671173 A 1546.138956,1546.138956 0,0 1,903.146118,248.242676"
+              stroke="#c4c26e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_R.J._Cole id_Vitto_Brown"
+              d="M -771.242798,-481.938293 A 939.771691,939.771691 0,0 1,317.334778,-538.515686"
+              stroke="#c4c26e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Russell_Westbrook id_Max_Christie"
-              d="M 294.000092,-5.257723 A 225.233171,225.233171 0,0 1,92.950310,-96.038757"
-              stroke="#c7b59e" stroke-width="3.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Dennis_Schroder"
-              d="M 314.112671,21.072620 A 484.755281,484.755281 0,0 1,-125.687950,286.561462"
-              stroke="#5ad45f" stroke-width="9.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Anthony_Davis"
-              d="M 342.732483,21.570396 A 207.315004,207.315004 0,0 1,351.567169,107.387939"
-              stroke="#48d0bb" stroke-width="38.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Lonnie_Walker_IV"
-              d="M 328.723053,24.340387 A 396.797597,396.797597 0,0 1,113.044922,356.977875"
-              stroke="#48c88d" stroke-width="12.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Damian_Jones"
-              d="M 345.400513,20.316246 A 449.777102,449.777102 0,0 1,278.880829,506.819214"
-              stroke="#c792bc" stroke-width="4.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Troy_Brown_Jr."
-              d="M 305.101379,-37.368008 A 432.619612,432.619612 0,0 1,236.600296,-479.946686"
-              stroke="#96c05f" stroke-width="11.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Kendrick_Nunn"
-              d="M 296.593536,3.331243 A 577.361732,577.361732 0,0 1,-318.499084,-110.635406"
-              stroke="#8a8d5f" stroke-width="10.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Cole_Swider"
-              d="M 293.638428,-8.116713 A 474.601930,474.601930 0,0 1,-158.612671,-280.376709"
-              stroke="#c3b65f" stroke-width="1.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Austin_Reaves"
-              d="M 304.118317,14.165934 A 571.387256,571.387256 0,0 1,-291.065491,136.305496"
-              stroke="#5e9171" stroke-width="13.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Patrick_Beverley"
-              d="M 364.452911,-12.042256 A 220.987820,220.987820 0,0 1,534.416687,83.369331"
-              stroke="#5ad45f" stroke-width="9.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Russell_Westbrook id_Wenyen_Gabriel"
-              d="M 295.432129,-22.656012 A 378.850337,378.850337 0,0 1,60.659187,-317.142303"
-              stroke="#48c7df" stroke-width="14.0" stroke-opacity="1.0"/>
+              d="M 78.900314,17.860287 A 747.136353,747.136353 0,0 1,-580.851074,418.593872"
+              stroke="#90cbbf" stroke-width="3.6" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Russell_Westbrook id_Thomas_Bryant"
-              d="M 296.725067,-25.894266 A 564.095538,564.095538 0,0 1,-15.670889,-565.253418"
-              stroke="#bab7ca" stroke-width="4.0" stroke-opacity="1.0"/>
+              d="M 23.259420,-41.331928 A 690.807620,690.807620 0,0 1,-641.934631,-206.229004"
+              stroke="#90cbbf" stroke-width="6.2" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Sacha_Killeya-Jones id_Max_Christie"
-              d="M 467.691071,366.306488 A 523.009318,523.009318 0,0 1,80.945763,-98.149872"
-              stroke="#ff8a42" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Russell_Westbrook id_Anthony_Davis"
+              d="M 95.896660,23.605810 A 415.134668,415.134668 0,0 1,-44.368729,208.949707"
+              stroke="#90cbbf" stroke-width="40.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Lonnie_Walker_IV"
+              d="M 44.923977,-147.644287 A 581.495643,581.495643 0,0 1,-91.160721,-650.370178"
+              stroke="#90cbbf" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_LeBron_James"
+              d="M 52.718533,-155.134506 A 264.443985,264.443985 0,0 1,51.127190,-157.978180"
+              stroke="#90cbbf" stroke-width="33.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Wenyen_Gabriel"
+              d="M 18.783030,-96.272415 A 615.658392,615.658392 0,0 1,-392.075684,-473.297699"
+              stroke="#90cbbf" stroke-width="23.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Austin_Reaves"
+              d="M 220.032806,-104.750679 A 494.708894,494.708894 0,0 1,632.195740,14.017015"
+              stroke="#90cbbf" stroke-width="12.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Damian_Jones"
+              d="M 207.996658,-21.861803 A 482.501100,482.501100 0,0 1,389.367188,401.899597"
+              stroke="#90cbbf" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Dennis_Schroder"
+              d="M 188.915176,-154.410080 A 337.447471,337.447471 0,0 1,426.310150,-231.554077"
+              stroke="#90cbbf" stroke-width="7.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Juan_Toscano-Anderson"
+              d="M 211.458466,-27.800650 A 681.974816,681.974816 0,0 1,524.323120,580.009399"
+              stroke="#90cbbf" stroke-width="7.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Patrick_Beverley"
+              d="M 216.030670,-37.438900 A 285.153314,285.153314 0,0 1,332.275757,113.407982"
+              stroke="#90cbbf" stroke-width="4.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Troy_Brown_Jr."
+              d="M 43.491730,-7.714453 A 706.148298,706.148298 0,0 1,-638.104309,94.876312"
+              stroke="#90cbbf" stroke-width="12.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Cole_Swider"
+              d="M 110.649673,26.089533 A 683.930840,683.930840 0,0 1,-354.699432,561.608398"
+              stroke="#90cbbf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Russell_Westbrook id_Kendrick_Nunn"
+              d="M 56.145969,4.174168 A 891.014979,891.014979 0,0 1,-823.467224,275.905029"
+              stroke="#90cbbf" stroke-width="11.4" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Sacha_Killeya-Jones id_Cole_Swider"
-              d="M 467.499390,367.218109 A 770.148895,770.148895 0,0 1,-162.881058,-279.151062"
-              stroke="#fb8a03" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -974.167786,-105.611687 A 762.906922,762.906922 0,0 1,-387.583923,539.731628"
+              stroke="#ff7407" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sacha_Killeya-Jones id_Max_Christie"
+              d="M -974.960449,-102.792999 A 536.413756,536.413756 0,0 1,-627.792725,378.217041"
+              stroke="#ff7407" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scotty_Pippen_Jr. id_Cole_Swider"
+              d="M 573.934875,-647.132874 A 1309.685820,1309.685820 0,0 1,-347.200989,559.459656"
+              stroke="#25de00" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scotty_Pippen_Jr. id_Mason_Jones"
+              d="M 600.273315,-664.314453 A 299.052926,299.052926 0,0 1,772.222656,-406.220245"
+              stroke="#25de00" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Scotty_Pippen_Jr. id_Paris_Bass"
-              d="M 495.431671,-356.856415 A 219.056820,219.056820 0,0 1,580.515442,-141.981796"
-              stroke="#458ec0" stroke-width="5.0" stroke-opacity="1.0"/>
-        <path stroke-linecap="round" fill="none"
-              class="id_Scotty_Pippen_Jr. id_Kendrick_Nunn"
-              d="M 477.466064,-354.301880 A 720.630973,720.630973 0,0 1,-332.871979,-136.756805"
-              stroke="#87797f" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 594.988403,-656.049255 A 961.612918,961.612918 0,0 1,815.956604,418.981079"
+              stroke="#25de00" stroke-width="6.2" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Scotty_Pippen_Jr. id_Sacha_Killeya-Jones"
-              d="M 492.506592,-353.890076 A 610.835038,610.835038 0,0 1,490.091705,353.000305"
-              stroke="#c48c83" stroke-width="3.0" stroke-opacity="1.0"/>
+              d="M 559.064819,-651.859741 A 1391.139471,1391.139471 0,0 1,-964.236267,-100.868980"
+              stroke="#25de00" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scotty_Pippen_Jr. id_Kendrick_Nunn"
+              d="M 564.445557,-649.039368 A 1449.844201,1449.844201 0,0 1,-851.687378,257.422424"
+              stroke="#25de00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scotty_Pippen_Jr. id_Juan_Toscano-Anderson"
+              d="M 590.010254,-651.800781 A 1094.957741,1094.957741 0,0 1,542.883606,607.562012"
+              stroke="#25de00" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Sterling_Brown id_Max_Christie"
-              d="M -256.309967,-532.511841 A 452.771283,452.771283 0,0 1,78.674965,-133.725601"
-              stroke="#c56962" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 813.872070,-551.300903 A 1460.633283,1460.633283 0,0 1,-588.651794,418.501648"
+              stroke="#8b3346" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Thomas_Bryant id_Lonnie_Walker_IV"
-              d="M -1.297474,-581.460999 A 815.011463,815.011463 0,0 1,76.484474,349.445709"
-              stroke="#72b498" stroke-width="4.0" stroke-opacity="1.0"/>
+              d="M -674.436646,-303.465759 A 666.116154,666.116154 0,0 1,-130.570877,-745.346741"
+              stroke="#844f00" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Bryant id_Max_Christie"
+              d="M -657.314148,-217.440018 A 563.249998,563.249998 0,0 1,-606.546021,379.876709"
+              stroke="#844f00" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Bryant id_Juan_Toscano-Anderson"
+              d="M -639.222839,-255.181488 A 1252.206473,1252.206473 0,0 1,507.358368,601.052307"
+              stroke="#844f00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Bryant id_Dennis_Schroder"
+              d="M -647.555237,-283.430267 A 991.140606,991.140606 0,0 1,455.803131,-251.750870"
+              stroke="#844f00" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Thomas_Bryant id_Kendrick_Nunn"
-              d="M -13.384546,-577.142334 A 469.937675,469.937675 0,0 1,-326.763550,-151.665894"
-              stroke="#b4796a" stroke-width="3.0" stroke-opacity="1.0"/>
+              d="M -678.945984,-207.072220 A 459.017061,459.017061 0,0 1,-859.134644,229.750900"
+              stroke="#844f00" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Troy_Brown_Jr. id_Kendrick_Nunn"
-              d="M 251.987000,-509.206787 A 599.300513,599.300513 0,0 1,-331.579956,-142.528076"
-              stroke="#908200" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Thomas_Bryant id_LeBron_James"
+              d="M -653.489868,-290.743683 A 614.070563,614.070563 0,0 1,-101.769714,-433.552429"
+              stroke="#844f00" stroke-width="7.5" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Troy_Brown_Jr. id_Matt_Ryan"
-              d="M 270.074951,-512.271851 A 227.528143,227.528143 0,0 1,296.273346,-266.802856"
-              stroke="#ce9b7f" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Troy_Brown_Jr. id_Russell_Westbrook"
+              d="M -682.132935,27.251831 A 706.148298,706.148298 0,0 1,22.592823,-118.908936"
+              stroke="#00c3ff" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Troy_Brown_Jr. id_Thomas_Bryant"
-              d="M 242.085785,-519.390869 A 233.675579,233.675579 0,0 1,0.905267,-579.399780"
-              stroke="#c1ac6a" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -737.125366,18.136164 A 264.228302,264.228302 0,0 1,-721.998108,-209.717117"
+              stroke="#00c3ff" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Vitto_Brown id_Paris_Bass"
-              d="M -252.070114,516.794617 A 875.122951,875.122951 0,0 1,560.318176,-116.313072"
-              stroke="#007881" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Troy_Brown_Jr. id_Matt_Ryan"
+              d="M -750.682617,28.484100 A 368.463349,368.463349 0,0 1,-836.535461,-342.349731"
+              stroke="#00c3ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Troy_Brown_Jr. id_Kendrick_Nunn"
+              d="M -725.675842,106.103371 A 220.994101,220.994101 0,0 1,-853.336670,242.213089"
+              stroke="#00c3ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Troy_Brown_Jr. id_Anthony_Davis"
+              d="M -669.408752,52.402931 A 452.199231,452.199231 0,0 1,-266.444763,218.354034"
+              stroke="#00c3ff" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Troy_Brown_Jr. id_Austin_Reaves"
+              d="M -677.258545,33.143238 A 1174.256240,1174.256240 0,0 1,643.093750,42.701126"
+              stroke="#00c3ff" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Troy_Brown_Jr. id_Lonnie_Walker_IV"
+              d="M -712.873657,13.133431 A 868.342454,868.342454 0,0 1,-127.906464,-730.881226"
+              stroke="#00c3ff" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Troy_Brown_Jr. id_LeBron_James"
+              d="M -696.320007,17.275341 A 727.824526,727.824526 0,0 1,-110.687553,-384.481445"
+              stroke="#00c3ff" stroke-width="7.5" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Vitto_Brown id_Cole_Swider"
-              d="M -260.608337,517.880676 A 689.105909,689.105909 0,0 1,-175.507187,-283.090546"
-              stroke="#7b8c40" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 340.380432,-500.955109 A 1093.321490,1093.321490 0,0 1,-355.379456,559.572998"
+              stroke="#007881" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Wenyen_Gabriel id_Lonnie_Walker_IV"
-              d="M 65.633354,-362.048126 A 629.188818,629.188818 0,0 1,73.389740,358.183044"
-              stroke="#00c4ad" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Vitto_Brown id_Paris_Bass"
+              d="M 359.591583,-512.964172 A 902.846746,902.846746 0,0 1,803.644775,431.315765"
+              stroke="#007881" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
-              class="id_Wenyen_Gabriel id_Troy_Brown_Jr."
-              d="M 61.313450,-389.900757 A 210.174120,210.174120 0,0 1,238.017136,-524.544556"
-              stroke="#4ebc7f" stroke-width="1.0" stroke-opacity="1.0"/>
+              class="id_Vitto_Brown id_Javante_McCoy"
+              d="M 362.363800,-526.224121 A 691.567966,691.567966 0,0 1,1042.212158,-123.457336"
+              stroke="#007881" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Wenyen_Gabriel id_LeBron_James"
+              d="M -381.381134,-586.945190 A 415.300251,415.300251 0,0 1,-46.337940,-485.418335"
+              stroke="#3d4f78" stroke-width="2.3" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Wenyen_Gabriel id_Austin_Reaves"
-              d="M 55.279202,-359.002747 A 526.395904,526.395904 0,0 1,-317.182281,104.995926"
-              stroke="#168d91" stroke-width="3.0" stroke-opacity="1.0"/>
+              d="M -380.819458,-582.970276 A 1078.715879,1078.715879 0,0 1,669.439453,26.231724"
+              stroke="#3d4f78" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Wenyen_Gabriel id_Kendrick_Nunn"
+              d="M -417.211731,-538.850952 A 799.636555,799.636555 0,0 1,-855.790039,235.675797"
+              stroke="#3d4f78" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Wenyen_Gabriel id_Matt_Ryan"
-              d="M 71.988319,-376.906189 A 218.779186,218.779186 0,0 1,282.745178,-266.911407"
-              stroke="#7fa1ff" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -440.775635,-543.626160 A 381.398783,381.398783 0,0 1,-800.274231,-364.359253"
+              stroke="#3d4f78" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Wenyen_Gabriel id_Lonnie_Walker_IV"
+              d="M -400.245209,-614.041504 A 332.293586,332.293586 0,0 1,-126.542358,-757.217285"
+              stroke="#3d4f78" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Wenyen_Gabriel id_Troy_Brown_Jr."
+              d="M -414.123505,-539.282288 A 586.629463,586.629463 0,0 1,-672.853699,34.433430"
+              stroke="#3d4f78" stroke-width="1.0" stroke-opacity="1.0"/>
     </g>
     <g id="arrows">
-        <polyline fill="#42925b" fill-opacity="1.0"
-                  class="id_Anthony_Davis id_Kendrick_Nunn"
-                  points="-344.128571,-128.875626 -317.962830,-107.890991 -345.216858,-95.352264"
+        <polyline fill="#00d5b7" fill-opacity="1.0"
+                  class="id_Anthony_Davis id_Juan_Toscano-Anderson"
+                  points="501.568268,606.809448 498.792694,604.926270 501.409393,603.459106"
                   stroke="none"/>
-        <polyline fill="#7fba9a" fill-opacity="1.0"
-                  class="id_Anthony_Davis id_Max_Christie"
-                  points="78.692627,-101.161995 79.952934,-98.053680 76.962166,-98.288757"
+        <polyline fill="#00d5b7" fill-opacity="1.0"
+                  class="id_Anthony_Davis id_Austin_Reaves"
+                  points="645.672607,60.137947 633.637390,61.113945 637.670715,51.095345"
                   stroke="none"/>
-        <polyline fill="#4ec55b" fill-opacity="1.0"
+        <polyline fill="#00d5b7" fill-opacity="1.0"
                   class="id_Anthony_Davis id_Troy_Brown_Jr."
-                  points="248.927597,-510.803833 247.374634,-497.477600 237.334839,-504.050476"
+                  points="-690.846619,99.965675 -684.259583,103.981079 -690.106750,107.644547"
                   stroke="none"/>
-        <polyline fill="#00cd89" fill-opacity="1.0"
+        <polyline fill="#00d5b7" fill-opacity="1.0"
+                  class="id_Anthony_Davis id_Russell_Westbrook"
+                  points="22.421196,-43.710758 1.651499,-22.738863 -6.818141,-47.743370"
+                  stroke="none"/>
+        <polyline fill="#00d5b7" fill-opacity="1.0"
+                  class="id_Anthony_Davis id_Max_Christie"
+                  points="-592.970459,426.995941 -589.676941,426.361450 -590.486755,429.250061"
+                  stroke="none"/>
+        <polyline fill="#00d5b7" fill-opacity="1.0"
+                  class="id_Anthony_Davis id_LeBron_James"
+                  points="-58.693008,-302.368805 -78.951866,-255.219147 -108.568062,-290.286102"
+                  stroke="none"/>
+        <polyline fill="#00d5b7" fill-opacity="1.0"
                   class="id_Anthony_Davis id_Lonnie_Walker_IV"
-                  points="81.659805,378.655823 122.250198,355.046082 124.901840,396.962280"
+                  points="-103.871460,-704.751648 -110.946068,-680.611206 -127.428596,-695.927124"
                   stroke="none"/>
-        <polyline fill="#96586f" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_Damian_Jones"
-                  points="258.689728,513.255615 256.265259,510.937927 259.089233,509.925415"
+        <polyline fill="#00d5b7" fill-opacity="1.0"
+                  class="id_Anthony_Davis id_Kendrick_Nunn"
+                  points="-862.867737,279.430267 -850.984619,281.572662 -857.451782,290.222260"
                   stroke="none"/>
-        <polyline fill="#16966d" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_Anthony_Davis"
-                  points="269.917755,215.031876 244.460526,206.550735 261.428345,189.577408"
-                  stroke="none"/>
-        <polyline fill="#967b51" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_Max_Christie"
-                  points="65.144531,-117.778961 58.818802,-115.546219 59.562897,-121.499893"
-                  stroke="none"/>
-        <polyline fill="#35534e" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_Juan_Toscano-Anderson"
-                  points="-459.590424,-350.992065 -459.371307,-347.645111 -462.136505,-348.808624"
-                  stroke="none"/>
-        <polyline fill="#585312" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_Kendrick_Nunn"
-                  points="-359.898499,-129.964172 -360.604126,-123.293190 -365.658691,-126.526085"
-                  stroke="none"/>
-        <polyline fill="#658612" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_Troy_Brown_Jr."
-                  points="241.317108,-522.135925 228.020477,-511.915894 225.163086,-526.641235"
-                  stroke="none"/>
-        <polyline fill="#897d7c" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_Thomas_Bryant"
-                  points="-28.929737,-586.509644 -30.830647,-583.746216 -32.281025,-586.372314"
-                  stroke="none"/>
-        <polyline fill="#168e40" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_Lonnie_Walker_IV"
-                  points="48.476295,357.988647 33.261650,344.816132 49.885506,337.913422"
-                  stroke="none"/>
-        <polyline fill="#965244" fill-opacity="1.0"
-                  class="id_Austin_Reaves id_LeBron_James"
-                  points="-173.511047,-7.731786 -223.804581,25.668213 -230.407150,-27.926617"
-                  stroke="none"/>
-        <polyline fill="#966b91" fill-opacity="1.0"
+        <polyline fill="#9db600" fill-opacity="1.0"
                   class="id_Austin_Reaves id_Matt_Ryan"
-                  points="278.116699,-255.415100 274.972839,-254.246323 275.295349,-257.228943"
+                  points="-812.548950,-348.628265 -809.536987,-347.152527 -811.922363,-345.333191"
                   stroke="none"/>
-        <polyline fill="#7bb27f" fill-opacity="1.0"
-                  class="id_Cole_Swider id_Wenyen_Gabriel"
-                  points="40.845741,-378.739197 37.569866,-378.019043 38.304081,-380.927795"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Russell_Westbrook"
+                  points="192.925415,-3.127495 204.347519,0.788563 196.645828,8.359829"
                   stroke="none"/>
-        <polyline fill="#7b8c40" fill-opacity="1.0"
-                  class="id_Cole_Swider id_Paris_Bass"
-                  points="567.228088,-125.101318 564.145203,-126.422577 566.435364,-128.360397"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Thomas_Bryant"
+                  points="-656.493408,-218.132660 -653.398071,-216.840637 -655.669800,-214.881226"
                   stroke="none"/>
-        <polyline fill="#c0a27f" fill-opacity="1.0"
-                  class="id_Cole_Swider id_Scotty_Pippen_Jr."
-                  points="474.453094,-370.075592 461.054230,-370.761353 466.962372,-381.206177"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Dennis_Schroder"
+                  points="501.444946,-166.466919 505.116150,-159.682007 498.219727,-159.459045"
                   stroke="none"/>
-        <polyline fill="#fba03f" fill-opacity="1.0"
-                  class="id_Cole_Swider id_Max_Christie"
-                  points="74.934937,-129.924652 70.113884,-134.589127 75.773888,-136.580185"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Max_Christie"
+                  points="-594.124939,430.436981 -586.441467,429.746857 -588.962708,436.169708"
                   stroke="none"/>
-        <polyline fill="#7bc27f" fill-opacity="1.0"
-                  class="id_Cole_Swider id_Shareef_O&apos;Neal"
-                  points="-7.017717,593.663269 -7.011547,590.309143 -4.330738,591.655701"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_LeBron_James"
+                  points="88.915131,-269.402679 115.317337,-248.176849 87.775787,-235.545410"
                   stroke="none"/>
-        <polyline fill="#ff6cdc" fill-opacity="1.0"
-                  class="id_Damian_Jones id_Matt_Ryan"
-                  points="282.384705,-245.269211 281.708313,-241.984024 279.350708,-243.839188"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Juan_Toscano-Anderson"
+                  points="546.988403,615.901794 548.424683,612.870789 550.275024,615.232239"
                   stroke="none"/>
-        <polyline fill="#ce875d" fill-opacity="1.0"
-                  class="id_Damian_Jones id_Troy_Brown_Jr."
-                  points="248.233017,-511.282837 247.684998,-507.973816 245.256989,-509.735840"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Lonnie_Walker_IV"
+                  points="-52.499710,-688.609985 -38.223473,-667.897644 -60.503853,-664.761536"
                   stroke="none"/>
-        <polyline fill="#12d95b" fill-opacity="1.0"
-                  class="id_Dennis_Schroder id_Anthony_Davis"
-                  points="265.160522,221.424255 258.455475,221.218506 261.302094,215.936768"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Kendrick_Nunn"
+                  points="-859.993469,275.031128 -852.289429,275.430695 -855.690674,281.434113"
                   stroke="none"/>
-        <polyline fill="#12d12e" fill-opacity="1.0"
-                  class="id_Dennis_Schroder id_Lonnie_Walker_IV"
-                  points="42.956848,361.199463 12.710665,346.702301 36.406891,328.304230"
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Troy_Brown_Jr."
+                  points="-677.923462,87.970123 -670.320862,89.278885 -674.408875,94.837463"
+                  stroke="none"/>
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Wenyen_Gabriel"
+                  points="-404.945953,-542.075928 -402.366272,-539.932312 -405.113037,-538.726013"
+                  stroke="none"/>
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Damian_Jones"
+                  points="409.667725,431.816986 412.194397,429.611115 412.948425,432.514801"
+                  stroke="none"/>
+        <polyline fill="#9db600" fill-opacity="1.0"
+                  class="id_Austin_Reaves id_Anthony_Davis"
+                  points="-153.572632,310.991943 -132.881104,308.915680 -139.496704,326.299408"
                   stroke="none"/>
         <polyline fill="#25de00" fill-opacity="1.0"
-                  class="id_Dennis_Schroder id_Patrick_Beverley"
-                  points="538.397583,116.873817 521.660095,117.926010 527.513367,104.115158"
+                  class="id_Cole_Swider id_Wenyen_Gabriel"
+                  points="-443.841309,-545.482239 -444.259033,-542.154236 -446.754333,-543.819641"
                   stroke="none"/>
-        <polyline fill="#299a12" fill-opacity="1.0"
-                  class="id_Dennis_Schroder id_Austin_Reaves"
-                  points="-340.840363,132.414932 -332.290009,142.753769 -343.981232,145.458511"
+        <polyline fill="#25de00" fill-opacity="1.0"
+                  class="id_Cole_Swider id_Scotty_Pippen_Jr."
+                  points="547.891602,-667.161560 545.429504,-664.883789 544.592102,-667.764526"
                   stroke="none"/>
-        <polyline fill="#85c06a" fill-opacity="1.0"
-                  class="id_Dennis_Schroder id_Thomas_Bryant"
-                  points="-25.867569,-582.442749 -39.624489,-541.066467 -67.222748,-568.622498"
+        <polyline fill="#25de00" fill-opacity="1.0"
+                  class="id_Cole_Swider id_Shareef_O&apos;Neal"
+                  points="895.927063,260.689117 892.578796,260.886353 893.760315,258.128845"
                   stroke="none"/>
-        <polyline fill="#12d07f" fill-opacity="1.0"
-                  class="id_Dennis_Schroder id_Wenyen_Gabriel"
-                  points="43.242264,-365.733917 40.053047,-359.832336 36.607452,-364.744324"
+        <polyline fill="#25de00" fill-opacity="1.0"
+                  class="id_Cole_Swider id_Paris_Bass"
+                  points="778.698059,445.219543 775.352478,444.981140 776.881409,442.400024"
                   stroke="none"/>
-        <polyline fill="#61ca00" fill-opacity="1.0"
-                  class="id_Dennis_Schroder id_Troy_Brown_Jr."
-                  points="242.811462,-517.706116 232.687378,-504.336243 226.041138,-517.783447"
+        <polyline fill="#25de00" fill-opacity="1.0"
+                  class="id_Cole_Swider id_Max_Christie"
+                  points="-611.815674,449.634277 -605.681091,454.311798 -611.876892,457.348480"
                   stroke="none"/>
-        <polyline fill="#92bf3f" fill-opacity="1.0"
+        <polyline fill="#ff59ba" fill-opacity="1.0"
+                  class="id_Damian_Jones id_Troy_Brown_Jr."
+                  points="-688.412292,98.332748 -685.445251,99.896866 -687.883362,101.644882"
+                  stroke="none"/>
+        <polyline fill="#ff59ba" fill-opacity="1.0"
+                  class="id_Damian_Jones id_Patrick_Beverley"
+                  points="326.505737,231.165878 326.846039,234.502670 324.040497,233.440201"
+                  stroke="none"/>
+        <polyline fill="#ff59ba" fill-opacity="1.0"
+                  class="id_Damian_Jones id_Matt_Ryan"
+                  points="-818.875000,-345.160034 -816.433960,-342.859741 -819.250610,-341.827026"
+                  stroke="none"/>
+        <polyline fill="#ff59ba" fill-opacity="1.0"
+                  class="id_Damian_Jones id_Russell_Westbrook"
+                  points="114.276764,26.368767 115.596481,29.452326 112.601746,29.274679"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
                   class="id_Dennis_Schroder id_Max_Christie"
-                  points="66.123482,-110.352905 63.910145,-107.832756 62.779362,-110.611488"
+                  points="-591.857727,421.291107 -588.708984,420.135559 -589.044067,423.116760"
                   stroke="none"/>
-        <polyline fill="#8ebf00" fill-opacity="1.0"
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_Russell_Westbrook"
+                  points="223.156403,-64.919296 234.509079,-69.032257 233.258377,-58.304920"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_Troy_Brown_Jr."
+                  points="-672.248535,77.833199 -651.514832,76.232323 -658.527649,93.459648"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_Wenyen_Gabriel"
+                  points="-398.920654,-545.354492 -392.242554,-541.492432 -398.003418,-537.694702"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
                   class="id_Dennis_Schroder id_Cole_Swider"
-                  points="-172.504562,-284.495636 -173.094315,-281.193787 -175.499893,-282.986328"
+                  points="-356.575470,567.549011 -353.741455,565.755005 -353.439880,568.739868"
                   stroke="none"/>
-        <polyline fill="#fb8a03" fill-opacity="1.0"
-                  class="id_Javante_McCoy id_Cole_Swider"
-                  points="-177.325470,-292.148438 -179.980209,-290.098480 -180.558273,-293.042267"
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_LeBron_James"
+                  points="124.423332,-293.870972 156.467178,-282.879883 134.856735,-261.641235"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_Austin_Reaves"
+                  points="691.574585,28.096153 687.914001,21.305534 694.810730,21.093300"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_Anthony_Davis"
+                  points="-148.801819,283.478302 -141.973114,279.889252 -141.833344,286.787811"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_Lonnie_Walker_IV"
+                  points="-46.679398,-689.712036 -30.510521,-670.440796 -52.395050,-665.214233"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_Thomas_Bryant"
+                  points="-648.679138,-226.642242 -598.041016,-218.317978 -624.955688,-181.137192"
+                  stroke="none"/>
+        <polyline fill="#e5a3d5" fill-opacity="1.0"
+                  class="id_Dennis_Schroder id_Patrick_Beverley"
+                  points="388.368347,147.870941 395.545990,133.086014 404.502838,144.742111"
+                  stroke="none"/>
+        <polyline fill="#ff7407" fill-opacity="1.0"
+                  class="id_Javante_McCoy id_Vitto_Brown"
+                  points="348.550629,-502.873230 354.476898,-497.934448 348.155365,-495.168945"
                   stroke="none"/>
         <polyline fill="#ff7407" fill-opacity="1.0"
                   class="id_Javante_McCoy id_Sacha_Killeya-Jones"
-                  points="470.963867,360.897064 467.842346,359.669861 470.072693,357.663513"
+                  points="-978.186584,-96.741821 -974.885193,-96.149773 -976.679382,-93.745445"
                   stroke="none"/>
-        <polyline fill="#7f7644" fill-opacity="1.0"
-                  class="id_Javante_McCoy id_Vitto_Brown"
-                  points="-256.087799,516.432678 -261.409485,507.892761 -252.448914,507.051392"
+        <polyline fill="#ff7407" fill-opacity="1.0"
+                  class="id_Javante_McCoy id_Cole_Swider"
+                  points="-356.963470,575.739136 -353.729370,574.850098 -354.311768,577.792969"
                   stroke="none"/>
-        <polyline fill="#1e8a6a" fill-opacity="1.0"
-                  class="id_Juan_Toscano-Anderson id_Lonnie_Walker_IV"
-                  points="58.200283,356.157715 55.329025,350.095032 61.327660,350.223083"
-                  stroke="none"/>
-        <polyline fill="#1e9297" fill-opacity="1.0"
-                  class="id_Juan_Toscano-Anderson id_Anthony_Davis"
-                  points="281.967010,207.989990 275.212921,200.531296 283.881500,198.111496"
-                  stroke="none"/>
-        <polyline fill="#604f3c" fill-opacity="1.0"
-                  class="id_Juan_Toscano-Anderson id_Kendrick_Nunn"
-                  points="-348.540833,-160.144623 -350.605194,-166.527298 -344.673309,-165.625717"
-                  stroke="none"/>
-        <polyline fill="#668d9b" fill-opacity="1.0"
-                  class="id_Juan_Toscano-Anderson id_Russell_Westbrook"
-                  points="310.588837,-41.469971 287.882385,-55.767410 308.402893,-68.213600"
-                  stroke="none"/>
-        <polyline fill="#6d823c" fill-opacity="1.0"
-                  class="id_Juan_Toscano-Anderson id_Troy_Brown_Jr."
-                  points="242.408508,-532.372375 239.060349,-532.172729 240.239914,-534.931152"
-                  stroke="none"/>
-        <polyline fill="#31963c" fill-opacity="1.0"
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
                   class="id_Juan_Toscano-Anderson id_Dennis_Schroder"
-                  points="-168.352966,264.063354 -170.026154,257.567169 -164.159943,258.827118"
+                  points="471.223114,-174.951813 470.329559,-167.289291 464.556976,-171.069138"
                   stroke="none"/>
-        <polyline fill="#9179a6" fill-opacity="1.0"
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
+                  class="id_Juan_Toscano-Anderson id_Kendrick_Nunn"
+                  points="-869.934143,286.789459 -862.904541,289.967041 -868.258423,294.319702"
+                  stroke="none"/>
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
                   class="id_Juan_Toscano-Anderson id_Thomas_Bryant"
-                  points="-31.033382,-597.663696 -37.375565,-595.478149 -36.587143,-601.426147"
+                  points="-673.761230,-208.438019 -671.414124,-206.041946 -674.269836,-205.122696"
                   stroke="none"/>
-        <polyline fill="#9e777b" fill-opacity="1.0"
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
                   class="id_Juan_Toscano-Anderson id_Max_Christie"
-                  points="72.576241,-128.855087 67.016960,-132.609329 72.244072,-135.555069"
+                  points="-602.863953,443.410889 -595.611511,446.040466 -600.616150,450.790588"
                   stroke="none"/>
-        <polyline fill="#9e67bb" fill-opacity="1.0"
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
+                  class="id_Juan_Toscano-Anderson id_Lonnie_Walker_IV"
+                  points="-74.898438,-689.507751 -73.037056,-682.021240 -79.770805,-683.526733"
+                  stroke="none"/>
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
+                  class="id_Juan_Toscano-Anderson id_Troy_Brown_Jr."
+                  points="-692.718811,101.079193 -686.324707,105.395164 -692.335083,108.784081"
+                  stroke="none"/>
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
+                  class="id_Juan_Toscano-Anderson id_Russell_Westbrook"
+                  points="115.133980,26.416046 119.976929,37.477055 109.190948,36.927013"
+                  stroke="none"/>
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
+                  class="id_Juan_Toscano-Anderson id_LeBron_James"
+                  points="20.083794,-259.146393 21.168999,-255.972687 18.195961,-256.373993"
+                  stroke="none"/>
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
+                  class="id_Juan_Toscano-Anderson id_Anthony_Davis"
+                  points="-184.258499,347.681946 -177.746078,351.817291 -183.659317,355.373077"
+                  stroke="none"/>
+        <polyline fill="#8aa4ff" fill-opacity="1.0"
                   class="id_Juan_Toscano-Anderson id_Matt_Ryan"
-                  points="281.325958,-262.173035 278.137268,-263.213287 280.244934,-265.348175"
+                  points="-820.157288,-344.730255 -817.848999,-342.296783 -820.719116,-341.423553"
                   stroke="none"/>
-        <polyline fill="#c1773f" fill-opacity="1.0"
-                  class="id_Kendrick_Nunn id_Max_Christie"
-                  points="68.359253,-125.301125 65.085823,-126.032318 66.980156,-128.358582"
-                  stroke="none"/>
-        <polyline fill="#c14e32" fill-opacity="1.0"
-                  class="id_Kendrick_Nunn id_LeBron_James"
-                  points="-153.734619,-47.307690 -170.504318,-58.433208 -154.896011,-67.398758"
-                  stroke="none"/>
-        <polyline fill="#42897f" fill-opacity="1.0"
-                  class="id_Kendrick_Nunn id_Wenyen_Gabriel"
-                  points="40.435421,-376.369446 31.046789,-372.749573 31.906328,-381.708435"
-                  stroke="none"/>
-        <polyline fill="#c1545d" fill-opacity="1.0"
-                  class="id_Kendrick_Nunn id_Damian_Jones"
-                  points="261.398956,512.627808 257.751648,506.997772 263.714600,506.331940"
-                  stroke="none"/>
-        <polyline fill="#c1677f" fill-opacity="1.0"
+        <polyline fill="#ffa07e" fill-opacity="1.0"
                   class="id_Kendrick_Nunn id_Matt_Ryan"
-                  points="279.229462,-259.232117 275.875397,-259.218628 277.206207,-261.907288"
+                  points="-843.231140,-349.799286 -844.107117,-346.561584 -846.346863,-348.557434"
                   stroke="none"/>
-        <polyline fill="#ff538f" fill-opacity="1.0"
+        <polyline fill="#ffa07e" fill-opacity="1.0"
+                  class="id_Kendrick_Nunn id_Max_Christie"
+                  points="-643.590149,384.917816 -646.260193,382.887817 -643.568176,381.563782"
+                  stroke="none"/>
+        <polyline fill="#ffa07e" fill-opacity="1.0"
+                  class="id_Kendrick_Nunn id_Anthony_Davis"
+                  points="-282.382263,243.640518 -311.624695,239.630646 -296.719849,217.840637"
+                  stroke="none"/>
+        <polyline fill="#ffa07e" fill-opacity="1.0"
+                  class="id_Kendrick_Nunn id_LeBron_James"
+                  points="-88.152237,-379.762604 -94.959900,-376.133820 -95.139862,-383.031464"
+                  stroke="none"/>
+        <polyline fill="#ffa07e" fill-opacity="1.0"
+                  class="id_Kendrick_Nunn id_Wenyen_Gabriel"
+                  points="-458.016846,-561.906982 -465.471222,-552.407898 -470.088715,-562.171082"
+                  stroke="none"/>
+        <polyline fill="#ffa07e" fill-opacity="1.0"
+                  class="id_Kendrick_Nunn id_Thomas_Bryant"
+                  points="-730.025085,-227.576981 -733.747620,-220.820114 -737.664124,-226.500870"
+                  stroke="none"/>
+        <polyline fill="#ffa07e" fill-opacity="1.0"
+                  class="id_Kendrick_Nunn id_Damian_Jones"
+                  points="365.917389,420.255005 358.563995,417.922577 363.371307,412.972809"
+                  stroke="none"/>
+        <polyline fill="#ffa07e" fill-opacity="1.0"
+                  class="id_Kendrick_Nunn id_Russell_Westbrook"
+                  points="20.600800,-104.129028 13.036015,-102.616867 14.852200,-109.273560"
+                  stroke="none"/>
+        <polyline fill="#ff4e65" fill-opacity="1.0"
                   class="id_LeBron_James id_Damian_Jones"
-                  points="262.655823,512.554138 261.138214,509.563019 264.138153,509.545380"
+                  points="390.295349,413.027252 389.497681,409.769379 392.423035,410.434418"
                   stroke="none"/>
-        <polyline fill="#ff67b2" fill-opacity="1.0"
+        <polyline fill="#ff4e65" fill-opacity="1.0"
                   class="id_LeBron_James id_Matt_Ryan"
-                  points="278.115997,-255.408752 274.972778,-254.238205 275.293640,-257.221008"
+                  points="-807.364380,-354.048950 -804.044678,-353.569580 -805.756104,-351.105591"
                   stroke="none"/>
-        <polyline fill="#7f918e" fill-opacity="1.0"
+        <polyline fill="#ff4e65" fill-opacity="1.0"
                   class="id_LeBron_James id_Anthony_Davis"
-                  points="274.889496,211.093536 180.692764,152.971069 264.869446,100.862656"
+                  points="-165.398514,238.532318 -128.475555,155.840454 -77.091248,218.455566"
                   stroke="none"/>
-        <polyline fill="#9e4e6e" fill-opacity="1.0"
-                  class="id_LeBron_James id_Juan_Toscano-Anderson"
-                  points="-452.121582,-349.992676 -442.709229,-336.112549 -457.578247,-334.134705"
-                  stroke="none"/>
-        <polyline fill="#929632" fill-opacity="1.0"
+        <polyline fill="#ff4e65" fill-opacity="1.0"
                   class="id_LeBron_James id_Patrick_Beverley"
-                  points="542.536682,110.675491 485.096710,92.083916 522.945984,53.568550"
+                  points="348.447205,126.875977 329.689453,83.827782 371.631104,86.040871"
                   stroke="none"/>
-        <polyline fill="#7f88b2" fill-opacity="1.0"
-                  class="id_LeBron_James id_Wenyen_Gabriel"
-                  points="42.498909,-366.898254 18.513468,-330.484680 -1.023218,-364.238464"
-                  stroke="none"/>
-        <polyline fill="#929632" fill-opacity="1.0"
-                  class="id_LeBron_James id_Dennis_Schroder"
-                  points="-160.392136,267.745270 -152.106171,224.936462 -121.173523,248.688751"
-                  stroke="none"/>
-        <polyline fill="#ff7771" fill-opacity="1.0"
-                  class="id_LeBron_James id_Max_Christie"
-                  points="65.192200,-118.126854 62.003780,-117.085709 62.446232,-120.052902"
-                  stroke="none"/>
-        <polyline fill="#c78c92" fill-opacity="1.0"
+        <polyline fill="#ff4e65" fill-opacity="1.0"
                   class="id_LeBron_James id_Russell_Westbrook"
-                  points="297.380310,-27.249842 186.698318,-28.116096 231.664108,-116.315178"
+                  points="128.973206,-179.993622 108.284615,-231.685333 157.913422,-227.559540"
                   stroke="none"/>
-        <polyline fill="#f2789d" fill-opacity="1.0"
-                  class="id_LeBron_James id_Thomas_Bryant"
-                  points="-25.783346,-582.359192 -43.418945,-528.135254 -79.743858,-563.933350"
+        <polyline fill="#ff4e65" fill-opacity="1.0"
+                  class="id_LeBron_James id_Max_Christie"
+                  points="-592.835632,408.028320 -587.049988,402.925476 -585.282043,409.595154"
                   stroke="none"/>
-        <polyline fill="#ce8232" fill-opacity="1.0"
+        <polyline fill="#ff4e65" fill-opacity="1.0"
+                  class="id_LeBron_James id_Juan_Toscano-Anderson"
+                  points="525.043518,602.783936 517.795410,578.695007 539.965820,582.532043"
+                  stroke="none"/>
+        <polyline fill="#ff4e65" fill-opacity="1.0"
+                  class="id_LeBron_James id_Wenyen_Gabriel"
+                  points="-397.447754,-546.372681 -351.935089,-522.663818 -389.107208,-495.737213"
+                  stroke="none"/>
+        <polyline fill="#ff4e65" fill-opacity="1.0"
+                  class="id_LeBron_James id_Austin_Reaves"
+                  points="674.143921,31.731426 642.307922,3.429768 677.683655,-10.718342"
+                  stroke="none"/>
+        <polyline fill="#ff4e65" fill-opacity="1.0"
                   class="id_LeBron_James id_Troy_Brown_Jr."
-                  points="241.908554,-519.893127 213.512619,-491.368256 202.051071,-525.494995"
+                  points="-668.829163,62.326740 -621.891357,41.581688 -624.070435,87.429939"
                   stroke="none"/>
-        <polyline fill="#7f8960" fill-opacity="1.0"
+        <polyline fill="#ff4e65" fill-opacity="1.0"
+                  class="id_LeBron_James id_Dennis_Schroder"
+                  points="466.926208,-258.981354 440.038696,-271.157684 460.534729,-287.797150"
+                  stroke="none"/>
+        <polyline fill="#ff4e65" fill-opacity="1.0"
+                  class="id_LeBron_James id_Kendrick_Nunn"
+                  points="-854.596680,254.964584 -831.985413,243.939957 -832.210266,266.438843"
+                  stroke="none"/>
+        <polyline fill="#ff4e65" fill-opacity="1.0"
+                  class="id_LeBron_James id_Lonnie_Walker_IV"
+                  points="-71.253258,-688.805481 -45.535645,-606.530823 -121.642410,-618.866638"
+                  stroke="none"/>
+        <polyline fill="#ff4e65" fill-opacity="1.0"
+                  class="id_LeBron_James id_Thomas_Bryant"
+                  points="-642.641418,-237.700882 -565.480408,-244.721268 -590.728455,-180.184280"
+                  stroke="none"/>
+        <polyline fill="#00c55c" fill-opacity="1.0"
+                  class="id_Lonnie_Walker_IV id_Anthony_Davis"
+                  points="-172.721939,230.825485 -163.537277,198.217896 -141.125076,218.608673"
+                  stroke="none"/>
+        <polyline fill="#00c55c" fill-opacity="1.0"
+                  class="id_Lonnie_Walker_IV id_Russell_Westbrook"
+                  points="149.836884,-176.073486 149.252457,-179.376282 152.128464,-178.522705"
+                  stroke="none"/>
+        <polyline fill="#00c55c" fill-opacity="1.0"
                   class="id_Lonnie_Walker_IV id_LeBron_James"
-                  points="-134.395523,27.373142 -92.171112,114.999336 -179.161835,113.728386"
+                  points="52.899261,-506.982513 40.344917,-543.099487 74.260262,-538.696167"
                   stroke="none"/>
-        <polyline fill="#4ebd2e" fill-opacity="1.0"
+        <polyline fill="#00c55c" fill-opacity="1.0"
                   class="id_Lonnie_Walker_IV id_Troy_Brown_Jr."
-                  points="245.443558,-513.805420 240.479782,-501.341034 232.493790,-510.297821"
+                  points="-670.597107,47.129517 -664.914673,41.912010 -663.013672,48.544968"
                   stroke="none"/>
-        <polyline fill="#7f7cc0" fill-opacity="1.0"
-                  class="id_Mason_Jones id_Nate_Pierre-Louis"
-                  points="54.191498,137.004303 50.953724,137.879974 51.548298,134.939484"
+        <polyline fill="#00c55c" fill-opacity="1.0"
+                  class="id_Lonnie_Walker_IV id_Thomas_Bryant"
+                  points="-639.328674,-259.157745 -632.673340,-263.058929 -632.214478,-256.174225"
                   stroke="none"/>
-        <polyline fill="#fb907f" fill-opacity="1.0"
+        <polyline fill="#00c55c" fill-opacity="1.0"
+                  class="id_Lonnie_Walker_IV id_Dennis_Schroder"
+                  points="488.383698,-269.374207 478.000641,-282.114136 492.345795,-285.324585"
+                  stroke="none"/>
+        <polyline fill="#00c55c" fill-opacity="1.0"
+                  class="id_Lonnie_Walker_IV id_Patrick_Beverley"
+                  points="356.094879,127.830986 354.052826,120.391731 360.821075,121.733788"
+                  stroke="none"/>
+        <polyline fill="#ff80ff" fill-opacity="1.0"
                   class="id_Mason_Jones id_Cole_Swider"
-                  points="-175.742737,-288.059479 -177.531296,-285.222046 -179.085831,-287.787842"
+                  points="-356.475769,568.832275 -353.561737,567.171387 -353.398651,570.166992"
                   stroke="none"/>
-        <polyline fill="#7f7cc0" fill-opacity="1.0"
-                  class="id_Mason_Jones id_Vitto_Brown"
-                  points="-258.000275,516.783997 -260.245483,514.292175 -257.353943,513.492737"
-                  stroke="none"/>
-        <polyline fill="#7f7cc0" fill-opacity="1.0"
-                  class="id_Mason_Jones id_Paris_Bass"
-                  points="563.510010,-118.735016 560.281921,-117.824203 560.844543,-120.770981"
-                  stroke="none"/>
-        <polyline fill="#c492ff" fill-opacity="1.0"
+        <polyline fill="#ff80ff" fill-opacity="1.0"
                   class="id_Mason_Jones id_Scotty_Pippen_Jr."
-                  points="472.853851,-363.482147 461.096130,-357.020264 460.629700,-369.011169"
+                  points="574.493347,-647.125488 577.921509,-640.214600 571.021484,-640.236450"
                   stroke="none"/>
-        <polyline fill="#ff7a83" fill-opacity="1.0"
+        <polyline fill="#ff80ff" fill-opacity="1.0"
+                  class="id_Mason_Jones id_Paris_Bass"
+                  points="811.628296,437.794952 812.059326,434.468658 814.547974,436.143951"
+                  stroke="none"/>
+        <polyline fill="#ff80ff" fill-opacity="1.0"
+                  class="id_Mason_Jones id_Vitto_Brown"
+                  points="352.924774,-505.385071 355.904449,-503.845123 353.480621,-502.077362"
+                  stroke="none"/>
+        <polyline fill="#ff80ff" fill-opacity="1.0"
                   class="id_Mason_Jones id_Javante_McCoy"
-                  points="-580.388855,162.718628 -579.055481,165.796310 -582.050964,165.631943"
+                  points="1048.150879,-122.172165 1046.109863,-124.833862 1049.055664,-125.401917"
                   stroke="none"/>
-        <polyline fill="#c7a5df" fill-opacity="1.0"
+        <polyline fill="#ff80ff" fill-opacity="1.0"
+                  class="id_Mason_Jones id_Nate_Pierre-Louis"
+                  points="-38.459061,755.943909 -36.052425,753.607666 -35.146069,756.467529"
+                  stroke="none"/>
+        <polyline fill="#ff80ff" fill-opacity="1.0"
                   class="id_Matt_Ryan id_Russell_Westbrook"
-                  points="342.415833,-43.973701 342.162994,-47.318260 344.939789,-46.182709"
+                  points="54.242065,-156.427063 51.170300,-157.774002 53.476566,-159.692642"
                   stroke="none"/>
-        <polyline fill="#ff90be" fill-opacity="1.0"
+        <polyline fill="#ff80ff" fill-opacity="1.0"
                   class="id_Matt_Ryan id_Max_Christie"
-                  points="94.677513,-115.784729 100.708710,-118.721497 100.645645,-112.721832"
+                  points="-614.788513,383.600952 -615.116394,380.262909 -612.314758,381.335785"
                   stroke="none"/>
-        <polyline fill="#7fb1be" fill-opacity="1.0"
-                  class="id_Max_Christie id_Wenyen_Gabriel"
-                  points="48.504524,-360.986298 48.352551,-357.635620 45.732815,-359.097473"
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Matt_Ryan"
+                  points="-836.007263,-345.358215 -835.708862,-342.017426 -838.500854,-343.115021"
                   stroke="none"/>
-        <polyline fill="#ff7c9c" fill-opacity="1.0"
-                  class="id_Max_Christie id_Damian_Jones"
-                  points="266.817963,513.275696 266.051849,506.611389 271.689728,508.664185"
-                  stroke="none"/>
-        <polyline fill="#ff90be" fill-opacity="1.0"
-                  class="id_Max_Christie id_Mason_Jones"
-                  points="-431.841614,370.215302 -429.040649,368.370178 -428.684937,371.348999"
-                  stroke="none"/>
-        <polyline fill="#ff8a42" fill-opacity="1.0"
-                  class="id_Max_Christie id_Javante_McCoy"
-                  points="-569.215698,154.487854 -565.940552,153.764160 -566.671631,156.673706"
-                  stroke="none"/>
-        <polyline fill="#ceab3f" fill-opacity="1.0"
-                  class="id_Max_Christie id_Troy_Brown_Jr."
-                  points="243.559540,-516.347290 239.998276,-510.662476 236.874924,-515.785400"
-                  stroke="none"/>
-        <polyline fill="#f2a1a9" fill-opacity="1.0"
-                  class="id_Max_Christie id_Thomas_Bryant"
-                  points="-20.364300,-578.679199 -19.712025,-565.278687 -30.693367,-570.117065"
-                  stroke="none"/>
-        <polyline fill="#7fc1be" fill-opacity="1.0"
+        <polyline fill="#f7a100" fill-opacity="1.0"
                   class="id_Max_Christie id_Shareef_O&apos;Neal"
-                  points="-4.551473,595.395386 -3.574869,592.186584 -1.398489,594.251404"
+                  points="897.195557,258.201782 893.850830,257.951324 895.389038,255.375717"
                   stroke="none"/>
-        <polyline fill="#7f8c7f" fill-opacity="1.0"
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Javante_McCoy"
+                  points="1030.980957,-107.337021 1027.654053,-106.910507 1028.643555,-109.742615"
+                  stroke="none"/>
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Mason_Jones"
+                  points="747.975342,-378.039764 744.819397,-376.903961 745.173157,-379.883026"
+                  stroke="none"/>
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Patrick_Beverley"
+                  points="295.344208,161.179581 292.004517,161.489929 293.092102,158.694031"
+                  stroke="none"/>
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Thomas_Bryant"
+                  points="-712.846375,-212.110428 -713.270691,-200.043121 -722.754822,-205.209503"
+                  stroke="none"/>
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Nate_Pierre-Louis"
+                  points="-69.697968,741.610657 -72.255516,739.440613 -69.496483,738.262634"
+                  stroke="none"/>
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Troy_Brown_Jr."
+                  points="-730.336060,104.852966 -729.181580,112.480537 -735.745422,110.353081"
+                  stroke="none"/>
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Wenyen_Gabriel"
+                  points="-451.048767,-551.618042 -452.225128,-548.477051 -454.267426,-550.674561"
+                  stroke="none"/>
+        <polyline fill="#f7a100" fill-opacity="1.0"
+                  class="id_Max_Christie id_Damian_Jones"
+                  points="363.792816,422.737732 356.204681,421.347504 360.352081,415.833099"
+                  stroke="none"/>
+        <polyline fill="#007881" fill-opacity="1.0"
                   class="id_Nate_Pierre-Louis id_Max_Christie"
-                  points="70.851730,-104.163025 69.591469,-97.574257 64.824562,-101.217979"
-                  stroke="none"/>
-        <polyline fill="#7f7644" fill-opacity="1.0"
-                  class="id_Nate_Pierre-Louis id_Sacha_Killeya-Jones"
-                  points="473.637604,359.126190 471.008057,357.043976 473.725647,355.773224"
-                  stroke="none"/>
-        <polyline fill="#7b8c40" fill-opacity="1.0"
-                  class="id_Nate_Pierre-Louis id_Cole_Swider"
-                  points="-166.621109,-282.111694 -163.321564,-272.605743 -172.246124,-273.768463"
+                  points="-613.141296,450.250977 -610.558777,452.391174 -613.303894,453.601135"
                   stroke="none"/>
         <polyline fill="#007881" fill-opacity="1.0"
                   class="id_Nate_Pierre-Louis id_Vitto_Brown"
-                  points="-244.355377,524.655212 -241.829849,522.447998 -241.074295,525.351318"
+                  points="320.601013,-510.318024 319.083832,-507.326660 317.297638,-509.736938"
                   stroke="none"/>
-        <polyline fill="#549600" fill-opacity="1.0"
-                  class="id_Patrick_Beverley id_Kendrick_Nunn"
-                  points="-340.990692,-130.767578 -334.959656,-127.830498 -339.721741,-124.180489"
+        <polyline fill="#007881" fill-opacity="1.0"
+                  class="id_Nate_Pierre-Louis id_Sacha_Killeya-Jones"
+                  points="-992.156616,-88.000595 -990.120972,-85.334846 -993.067871,-84.772636"
                   stroke="none"/>
-        <polyline fill="#929b5d" fill-opacity="1.0"
-                  class="id_Patrick_Beverley id_Damian_Jones"
-                  points="274.097656,520.809082 278.873291,516.098145 280.731812,521.802979"
+        <polyline fill="#007881" fill-opacity="1.0"
+                  class="id_Nate_Pierre-Louis id_Cole_Swider"
+                  points="-372.090027,595.346802 -362.515350,602.703857 -372.230865,607.420776"
                   stroke="none"/>
-        <polyline fill="#31963c" fill-opacity="1.0"
-                  class="id_Patrick_Beverley id_Juan_Toscano-Anderson"
-                  points="-447.302734,-351.531799 -444.574982,-349.580017 -447.227509,-348.178528"
-                  stroke="none"/>
-        <polyline fill="#12d95b" fill-opacity="1.0"
-                  class="id_Patrick_Beverley id_Anthony_Davis"
-                  points="316.440186,239.164703 329.289307,235.304626 327.237732,247.127960"
-                  stroke="none"/>
-        <polyline fill="#85c06a" fill-opacity="1.0"
+        <polyline fill="#2d5724" fill-opacity="1.0"
                   class="id_Patrick_Beverley id_Thomas_Bryant"
-                  points="-12.149807,-577.161621 -2.267709,-559.630371 -20.245533,-558.737183"
+                  points="-662.199829,-213.881958 -636.859741,-198.746567 -659.104126,-184.528641"
                   stroke="none"/>
-        <polyline fill="#92bf3f" fill-opacity="1.0"
-                  class="id_Patrick_Beverley id_Max_Christie"
-                  points="86.745026,-102.815323 92.190239,-98.897461 86.877861,-96.108429"
-                  stroke="none"/>
-        <polyline fill="#12d12e" fill-opacity="1.0"
-                  class="id_Patrick_Beverley id_Lonnie_Walker_IV"
-                  points="81.572784,382.714874 119.275856,368.626617 115.465233,404.424347"
-                  stroke="none"/>
-        <polyline fill="#299a12" fill-opacity="1.0"
-                  class="id_Patrick_Beverley id_Austin_Reaves"
-                  points="-329.105072,124.702660 -315.885895,126.994637 -323.007172,136.653198"
-                  stroke="none"/>
-        <polyline fill="#61ca00" fill-opacity="1.0"
+        <polyline fill="#2d5724" fill-opacity="1.0"
                   class="id_Patrick_Beverley id_Troy_Brown_Jr."
-                  points="255.158310,-508.266937 256.947449,-501.801727 251.059631,-502.956512"
+                  points="-680.583984,91.265915 -668.916687,94.376221 -676.071838,102.465942"
                   stroke="none"/>
-        <polyline fill="#629d77" fill-opacity="1.0"
-                  class="id_R.J._Cole id_Vitto_Brown"
-                  points="-253.420898,516.505554 -254.461182,513.316895 -251.494110,513.760132"
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Lonnie_Walker_IV"
+                  points="-71.961899,-688.924561 -59.720406,-648.124329 -97.257179,-654.651184"
                   stroke="none"/>
-        <polyline fill="#62d2b6" fill-opacity="1.0"
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Austin_Reaves"
+                  points="643.560974,66.588417 627.499451,70.072868 631.136536,55.829903"
+                  stroke="none"/>
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Max_Christie"
+                  points="-594.195251,430.614685 -586.508179,429.965271 -589.063477,436.374695"
+                  stroke="none"/>
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Dennis_Schroder"
+                  points="458.197968,-187.127563 452.837097,-176.308105 446.325867,-184.924591"
+                  stroke="none"/>
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Russell_Westbrook"
+                  points="150.035065,22.215492 164.273193,37.372189 146.452576,42.700016"
+                  stroke="none"/>
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_LeBron_James"
+                  points="38.112183,-258.029755 57.559498,-220.130997 19.461582,-219.732651"
+                  stroke="none"/>
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Damian_Jones"
+                  points="395.286011,414.709656 395.162262,411.357819 397.893219,412.599579"
+                  stroke="none"/>
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Anthony_Davis"
+                  points="-153.749634,311.452423 -137.385986,309.921753 -142.706909,323.624939"
+                  stroke="none"/>
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Kendrick_Nunn"
+                  points="-860.957825,276.646820 -853.279724,277.394745 -856.949280,283.238068"
+                  stroke="none"/>
+        <polyline fill="#2d5724" fill-opacity="1.0"
+                  class="id_Patrick_Beverley id_Juan_Toscano-Anderson"
+                  points="527.213257,603.229431 526.448547,599.963684 529.367004,600.658142"
+                  stroke="none"/>
+        <polyline fill="#c4c26e" fill-opacity="1.0"
                   class="id_R.J._Cole id_Shareef_O&apos;Neal"
-                  points="-12.111010,592.577881 -13.746143,589.649353 -10.749260,589.512634"
+                  points="904.652222,250.837189 901.848877,248.995743 904.443359,247.489609"
                   stroke="none"/>
-        <polyline fill="#c7b59e" fill-opacity="1.0"
+        <polyline fill="#c4c26e" fill-opacity="1.0"
+                  class="id_R.J._Cole id_Vitto_Brown"
+                  points="319.843018,-536.869873 316.511871,-537.261536 318.157684,-539.769836"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
                   class="id_Russell_Westbrook id_Max_Christie"
-                  points="88.003014,-103.557022 96.709442,-98.512405 89.191177,-93.565109"
+                  points="-591.646729,418.287506 -580.697876,413.196045 -581.004272,423.991699"
                   stroke="none"/>
-        <polyline fill="#5ad45f" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Dennis_Schroder"
-                  points="-152.633026,284.840149 -124.827293,273.088928 -126.548607,300.033997"
-                  stroke="none"/>
-        <polyline fill="#48d0bb" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Anthony_Davis"
-                  points="301.443237,209.777359 300.372467,82.325974 402.761871,132.449905"
-                  stroke="none"/>
-        <polyline fill="#48c88d" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Lonnie_Walker_IV"
-                  points="79.841675,370.889893 106.088921,340.376251 120.000923,373.579498"
-                  stroke="none"/>
-        <polyline fill="#c792bc" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Damian_Jones"
-                  points="270.789917,515.681335 274.449768,502.773743 283.311890,510.864685"
-                  stroke="none"/>
-        <polyline fill="#96c05f" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Troy_Brown_Jr."
-                  points="250.922302,-509.676819 251.465378,-472.785675 221.735245,-487.107697"
-                  stroke="none"/>
-        <polyline fill="#8a8d5f" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Kendrick_Nunn"
-                  points="-339.486664,-132.071869 -307.780853,-121.129196 -329.217316,-100.141617"
-                  stroke="none"/>
-        <polyline fill="#c3b65f" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Cole_Swider"
-                  points="-159.843567,-283.112549 -157.244751,-280.992157 -159.980591,-279.761261"
-                  stroke="none"/>
-        <polyline fill="#5e9171" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Austin_Reaves"
-                  points="-326.832458,120.758026 -283.291748,118.422028 -298.839233,154.188995"
-                  stroke="none"/>
-        <polyline fill="#5ad45f" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Patrick_Beverley"
-                  points="547.269287,107.114037 522.544312,89.795624 546.289063,76.943039"
-                  stroke="none"/>
-        <polyline fill="#48c7df" fill-opacity="1.0"
-                  class="id_Russell_Westbrook id_Wenyen_Gabriel"
-                  points="57.454041,-359.019806 81.597946,-318.744873 39.720425,-315.539734"
-                  stroke="none"/>
-        <polyline fill="#bab7ca" fill-opacity="1.0"
+        <polyline fill="#90cbbf" fill-opacity="1.0"
                   class="id_Russell_Westbrook id_Thomas_Bryant"
-                  points="-14.627418,-577.208008 -9.693617,-564.731689 -21.648163,-565.775146"
+                  points="-654.738403,-219.720596 -635.188843,-212.630890 -648.680420,-199.827118"
                   stroke="none"/>
-        <polyline fill="#ff8a42" fill-opacity="1.0"
-                  class="id_Sacha_Killeya-Jones id_Max_Christie"
-                  points="80.762047,-101.144241 82.442947,-98.241730 79.448578,-98.058014"
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Anthony_Davis"
+                  points="-154.689911,256.164520 -67.976135,153.789139 -20.761324,264.110321"
                   stroke="none"/>
-        <polyline fill="#fb8a03" fill-opacity="1.0"
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Lonnie_Walker_IV"
+                  points="-79.147758,-690.615540 -71.038040,-644.363708 -111.283401,-656.376648"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_LeBron_James"
+                  points="44.744225,-258.275269 101.275726,-161.169647 0.978626,-154.786713"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Wenyen_Gabriel"
+                  points="-410.488525,-540.106812 -358.671143,-482.504089 -425.480225,-464.091248"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Austin_Reaves"
+                  points="658.207581,41.855732 618.276367,27.022932 646.115112,1.011095"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Damian_Jones"
+                  points="387.949127,412.606110 384.013947,401.190552 394.720428,402.608643"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Dennis_Schroder"
+                  points="448.464874,-227.627441 424.346832,-220.476715 428.273468,-242.631439"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Juan_Toscano-Anderson"
+                  points="522.251282,602.413818 513.120911,578.973511 535.525330,581.045288"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Patrick_Beverley"
+                  points="335.130890,127.828049 325.065735,114.835533 339.485779,111.980431"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Troy_Brown_Jr."
+                  points="-672.880676,79.313087 -630.322693,77.488129 -645.885925,112.264496"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Cole_Swider"
+                  points="-357.576202,562.459290 -355.124908,560.169983 -354.273956,563.046814"
+                  stroke="none"/>
+        <polyline fill="#90cbbf" fill-opacity="1.0"
+                  class="id_Russell_Westbrook id_Kendrick_Nunn"
+                  points="-856.280029,266.263306 -818.646362,259.498657 -828.288086,292.311401"
+                  stroke="none"/>
+        <polyline fill="#ff7407" fill-opacity="1.0"
                   class="id_Sacha_Killeya-Jones id_Cole_Swider"
-                  points="-163.289154,-282.123169 -161.395004,-279.355103 -164.367111,-278.947021"
+                  points="-387.257141,542.713745 -389.075012,539.895020 -386.092834,539.568237"
                   stroke="none"/>
-        <polyline fill="#458ec0" fill-opacity="1.0"
+        <polyline fill="#ff7407" fill-opacity="1.0"
+                  class="id_Sacha_Killeya-Jones id_Max_Christie"
+                  points="-627.784058,381.217041 -629.292725,378.221375 -626.292725,378.212708"
+                  stroke="none"/>
+        <polyline fill="#25de00" fill-opacity="1.0"
+                  class="id_Scotty_Pippen_Jr. id_Cole_Swider"
+                  points="-357.562683,562.505188 -348.723755,554.278809 -345.678223,564.640503"
+                  stroke="none"/>
+        <polyline fill="#25de00" fill-opacity="1.0"
+                  class="id_Scotty_Pippen_Jr. id_Mason_Jones"
+                  points="772.158386,-399.320526 768.772827,-406.252380 775.672485,-406.188110"
+                  stroke="none"/>
+        <polyline fill="#25de00" fill-opacity="1.0"
                   class="id_Scotty_Pippen_Jr. id_Paris_Bass"
-                  points="576.977051,-127.405121 573.227112,-143.751007 587.803772,-140.212585"
+                  points="808.265015,435.916229 807.489014,415.135254 824.424194,422.826904"
                   stroke="none"/>
-        <polyline fill="#87797f" fill-opacity="1.0"
-                  class="id_Scotty_Pippen_Jr. id_Kendrick_Nunn"
-                  points="-335.666138,-137.848953 -332.325897,-138.153870 -333.418060,-135.359741"
-                  stroke="none"/>
-        <polyline fill="#c48c83" fill-opacity="1.0"
+        <polyline fill="#25de00" fill-opacity="1.0"
                   class="id_Scotty_Pippen_Jr. id_Sacha_Killeya-Jones"
-                  points="484.740387,360.236542 486.473572,350.324646 493.709839,355.675964"
+                  points="-974.596191,-103.920448 -962.710510,-106.048958 -965.762024,-95.689003"
                   stroke="none"/>
-        <polyline fill="#c56962" fill-opacity="1.0"
+        <polyline fill="#25de00" fill-opacity="1.0"
+                  class="id_Scotty_Pippen_Jr. id_Kendrick_Nunn"
+                  points="-854.681091,257.228943 -851.590637,255.925552 -851.784119,258.919312"
+                  stroke="none"/>
+        <polyline fill="#25de00" fill-opacity="1.0"
+                  class="id_Scotty_Pippen_Jr. id_Juan_Toscano-Anderson"
+                  points="541.024841,609.916809 541.706238,606.632629 544.060974,608.491394"
+                  stroke="none"/>
+        <polyline fill="#8b3346" fill-opacity="1.0"
                   class="id_Sterling_Brown id_Max_Christie"
-                  points="78.873444,-130.732178 77.178253,-133.626358 80.171677,-133.824844"
+                  points="-591.650269,418.406616 -588.604309,417.002411 -588.699280,420.000885"
                   stroke="none"/>
-        <polyline fill="#72b498" fill-opacity="1.0"
+        <polyline fill="#844f00" fill-opacity="1.0"
                   class="id_Thomas_Bryant id_Lonnie_Walker_IV"
-                  points="70.222359,359.682190 71.366234,346.314636 81.602730,352.576782"
+                  points="-123.690903,-745.871948 -130.308258,-741.906738 -130.833496,-748.786743"
                   stroke="none"/>
-        <polyline fill="#b4796a" fill-opacity="1.0"
+        <polyline fill="#844f00" fill-opacity="1.0"
+                  class="id_Thomas_Bryant id_Max_Christie"
+                  points="-609.941467,385.883453 -609.549377,378.179016 -603.542664,381.574402"
+                  stroke="none"/>
+        <polyline fill="#844f00" fill-opacity="1.0"
+                  class="id_Thomas_Bryant id_Juan_Toscano-Anderson"
+                  points="508.261383,603.913208 505.927948,601.503845 508.788788,600.600769"
+                  stroke="none"/>
+        <polyline fill="#844f00" fill-opacity="1.0"
+                  class="id_Thomas_Bryant id_Dennis_Schroder"
+                  points="458.196686,-249.942291 454.898865,-250.554092 456.707458,-252.947647"
+                  stroke="none"/>
+        <polyline fill="#844f00" fill-opacity="1.0"
                   class="id_Thomas_Bryant id_Kendrick_Nunn"
-                  points="-335.329681,-148.905212 -328.143890,-155.948959 -325.383209,-147.382828"
+                  points="-861.626892,231.420837 -859.969604,228.504776 -858.299683,230.997025"
                   stroke="none"/>
-        <polyline fill="#908200" fill-opacity="1.0"
-                  class="id_Troy_Brown_Jr. id_Kendrick_Nunn"
-                  points="-334.573059,-142.731537 -331.478241,-144.024628 -331.681671,-141.031525"
+        <polyline fill="#844f00" fill-opacity="1.0"
+                  class="id_Thomas_Bryant id_LeBron_James"
+                  points="-80.631165,-425.844543 -105.623657,-422.983154 -97.915771,-444.121704"
                   stroke="none"/>
-        <polyline fill="#ce9b7f" fill-opacity="1.0"
-                  class="id_Troy_Brown_Jr. id_Matt_Ryan"
-                  points="294.838684,-264.168152 294.955994,-267.520172 297.590698,-266.085541"
+        <polyline fill="#00c3ff" fill-opacity="1.0"
+                  class="id_Troy_Brown_Jr. id_Russell_Westbrook"
+                  points="25.349335,-117.725014 22.000866,-117.530685 23.184788,-120.287186"
                   stroke="none"/>
-        <polyline fill="#c1ac6a" fill-opacity="1.0"
+        <polyline fill="#00c3ff" fill-opacity="1.0"
                   class="id_Troy_Brown_Jr. id_Thomas_Bryant"
-                  points="-1.075069,-581.653259 2.032018,-580.389954 -0.221483,-578.409607"
+                  points="-717.985352,-215.330307 -719.191528,-207.710754 -724.804688,-211.723480"
+                  stroke="none"/>
+        <polyline fill="#00c3ff" fill-opacity="1.0"
+                  class="id_Troy_Brown_Jr. id_Matt_Ryan"
+                  points="-835.500854,-345.165680 -835.127502,-341.832428 -837.943420,-342.867035"
+                  stroke="none"/>
+        <polyline fill="#00c3ff" fill-opacity="1.0"
+                  class="id_Troy_Brown_Jr. id_Kendrick_Nunn"
+                  points="-856.219360,243.043808 -853.752014,240.771729 -852.921326,243.654419"
+                  stroke="none"/>
+        <polyline fill="#00c3ff" fill-opacity="1.0"
+                  class="id_Troy_Brown_Jr. id_Anthony_Davis"
+                  points="-262.613403,224.092575 -269.314026,220.269714 -263.575500,216.438354"
+                  stroke="none"/>
+        <polyline fill="#00c3ff" fill-opacity="1.0"
+                  class="id_Troy_Brown_Jr. id_Austin_Reaves"
+                  points="651.815979,49.070023 639.909302,47.062233 646.278198,38.340012"
+                  stroke="none"/>
+        <polyline fill="#00c3ff" fill-opacity="1.0"
+                  class="id_Troy_Brown_Jr. id_Lonnie_Walker_IV"
+                  points="-121.290848,-732.841736 -126.926201,-727.573425 -128.886734,-734.189026"
+                  stroke="none"/>
+        <polyline fill="#00c3ff" fill-opacity="1.0"
+                  class="id_Troy_Brown_Jr. id_LeBron_James"
+                  points="-88.188652,-384.258942 -110.798805,-373.231995 -110.576317,-395.730896"
+                  stroke="none"/>
+        <polyline fill="#007881" fill-opacity="1.0"
+                  class="id_Vitto_Brown id_Cole_Swider"
+                  points="-358.190002,560.622192 -355.904053,558.167725 -354.854858,560.978271"
                   stroke="none"/>
         <polyline fill="#007881" fill-opacity="1.0"
                   class="id_Vitto_Brown id_Paris_Bass"
-                  points="563.317261,-116.387520 560.355408,-114.813538 560.280945,-117.812607"
+                  points="803.075073,434.261169 802.172058,431.030884 805.117493,431.600647"
                   stroke="none"/>
-        <polyline fill="#7b8c40" fill-opacity="1.0"
-                  class="id_Vitto_Brown id_Cole_Swider"
-                  points="-173.481384,-285.303253 -174.400833,-282.077637 -176.613541,-284.103455"
+        <polyline fill="#007881" fill-opacity="1.0"
+                  class="id_Vitto_Brown id_Javante_McCoy"
+                  points="1043.405884,-120.705063 1040.836060,-122.860474 1043.588257,-124.054199"
                   stroke="none"/>
-        <polyline fill="#00c4ad" fill-opacity="1.0"
-                  class="id_Wenyen_Gabriel id_Lonnie_Walker_IV"
-                  points="71.646362,360.624481 72.169022,357.311340 74.610458,359.054749"
+        <polyline fill="#3d4f78" fill-opacity="1.0"
+                  class="id_Wenyen_Gabriel id_LeBron_James"
+                  points="-41.988525,-480.061798 -49.016209,-483.243622 -43.659664,-487.593048"
                   stroke="none"/>
-        <polyline fill="#4ebc7f" fill-opacity="1.0"
-                  class="id_Wenyen_Gabriel id_Troy_Brown_Jr."
-                  points="241.014053,-524.680725 238.085220,-523.046082 237.949051,-526.043030"
-                  stroke="none"/>
-        <polyline fill="#168d91" fill-opacity="1.0"
+        <polyline fill="#3d4f78" fill-opacity="1.0"
                   class="id_Wenyen_Gabriel id_Austin_Reaves"
-                  points="-325.865784,107.361633 -318.365143,100.654167 -315.999420,109.337685"
+                  points="672.256226,32.530602 666.290039,27.640102 672.588867,24.823345"
                   stroke="none"/>
-        <polyline fill="#7fa1ff" fill-opacity="1.0"
+        <polyline fill="#3d4f78" fill-opacity="1.0"
+                  class="id_Wenyen_Gabriel id_Kendrick_Nunn"
+                  points="-858.507568,236.946747 -856.425537,234.317062 -855.154541,237.034531"
+                  stroke="none"/>
+        <polyline fill="#3d4f78" fill-opacity="1.0"
                   class="id_Wenyen_Gabriel id_Matt_Ryan"
-                  points="284.137390,-264.253998 281.416473,-266.215302 284.073883,-267.607513"
+                  points="-803.249878,-364.741119 -800.083313,-365.847046 -800.465149,-362.871460"
+                  stroke="none"/>
+        <polyline fill="#3d4f78" fill-opacity="1.0"
+                  class="id_Wenyen_Gabriel id_Lonnie_Walker_IV"
+                  points="-123.557449,-756.916687 -126.692650,-755.724854 -126.392067,-758.709717"
+                  stroke="none"/>
+        <polyline fill="#3d4f78" fill-opacity="1.0"
+                  class="id_Wenyen_Gabriel id_Troy_Brown_Jr."
+                  points="-675.429504,35.971390 -673.622681,33.145535 -672.084717,35.721325"
                   stroke="none"/>
     </g>
     <g id="nodes">
-        <circle fill-opacity="1.0" fill="#00d5b7" r="25.288443" cx="289.35745"
-                class="id_Anthony_Davis" cy="234.46527" stroke="#009580"
-                stroke-opacity="1.0" stroke-width="4.39799"/>
-        <circle fill-opacity="1.0" fill="#844f00" r="15.163819" cx="-351.01752"
-                class="id_Kendrick_Nunn" cy="-143.84935" stroke="#5c3700"
-                stroke-opacity="1.0" stroke-width="2.6371858"/>
-        <circle fill-opacity="1.0" fill="#ffa07e" r="13.638191" cx="79.85421"
-                class="id_Max_Christie" cy="-115.94054" stroke="#b27058"
-                stroke-opacity="1.0" stroke-width="2.3718593"/>
-        <circle fill-opacity="1.0" fill="#9db600" r="16.134674" cx="258.53366"
-                class="id_Troy_Brown_Jr." cy="-525.47675" stroke="#6d7f00"
-                stroke-opacity="1.0" stroke-width="2.8060303"/>
-        <circle fill-opacity="1.0" fill="#00c55c" r="22.098492" cx="57.68763"
-                class="id_Lonnie_Walker_IV" cy="380.17233" stroke="#008940"
-                stroke-opacity="1.0" stroke-width="3.843216"/>
-        <circle fill-opacity="1.0" fill="#2d5724" r="18.631155" cx="-345.4049"
-                class="id_Austin_Reaves" cy="112.68479" stroke="#1f3c19"
-                stroke-opacity="1.0" stroke-width="3.2402008"/>
-        <circle fill-opacity="1.0" fill="#ff59ba" r="11.003015" cx="262.7261"
-                class="id_Damian_Jones" cy="524.51373" stroke="#b23e82"
-                stroke-opacity="1.0" stroke-width="1.9135678"/>
-        <circle fill-opacity="1.0" fill="#3d4f78" r="13.222111" cx="-454.0166"
-                class="id_Juan_Toscano-Anderson" cy="-364.23904"
-                stroke="#2a3754" stroke-opacity="1.0" stroke-width="2.2994974"/>
-        <circle fill-opacity="1.0" fill="#e5a3d5" r="16.68945" cx="-13.0499735"
-                class="id_Thomas_Bryant" cy="-595.27997" stroke="#a07295"
-                stroke-opacity="1.0" stroke-width="2.9025128"/>
-        <circle fill-opacity="1.0" fill="#ff4e65" r="36.8" cx="-133.81117"
-                class="id_LeBron_James" cy="-12.622589" stroke="#b23646"
-                stroke-opacity="1.0" stroke-width="6.3999996"/>
-        <circle fill-opacity="1.0" fill="#ff80ff" r="10.448241" cx="289.40765"
-                class="id_Matt_Ryan" cy="-254.19415" stroke="#b259b2"
-                stroke-opacity="1.0" stroke-width="1.8170854"/>
-        <circle fill-opacity="1.0" fill="#f7a100" r="11.557789" cx="-164.9981"
-                class="id_Cole_Swider" cy="-294.5692" stroke="#ac7000"
-                stroke-opacity="1.0" stroke-width="2.01005"/>
-        <circle fill-opacity="1.0" fill="#00c3ff" r="14.609045" cx="56.242233"
-                class="id_Wenyen_Gabriel" cy="-374.8529" stroke="#0088b2"
-                stroke-opacity="1.0" stroke-width="2.5407033"/>
-        <circle fill-opacity="1.0" fill="#007881" r="10.170855" cx="574.36914"
-                class="id_Paris_Bass" cy="-116.66184" stroke="#00545a"
-                stroke-opacity="1.0" stroke-width="1.7688442"/>
-        <circle fill-opacity="1.0" fill="#8aa4ff" r="11.419095" cx="485.25653"
-                class="id_Scotty_Pippen_Jr." cy="-363.96457" stroke="#6072b2"
-                stroke-opacity="1.0" stroke-width="1.9859295"/>
-        <circle fill-opacity="1.0" fill="#00e3ff" r="9.477387" cx="-11.641635"
-                class="id_Shareef_O&apos;Neal" cy="602.8687" stroke="#009eb2"
-                stroke-opacity="1.0" stroke-width="1.6482413"/>
-        <circle fill-opacity="1.0" fill="#25de00" r="18.35377" cx="-172.54219"
-                class="id_Dennis_Schroder" cy="283.5683" stroke="#199b00"
-                stroke-opacity="1.0" stroke-width="3.1919599"/>
-        <circle fill-opacity="1.0" fill="#25de00" r="18.35377" cx="556.7658"
-                class="id_Patrick_Beverley" cy="124.658516" stroke="#199b00"
-                stroke-opacity="1.0" stroke-width="3.1919599"/>
-        <circle fill-opacity="1.0" fill="#ff7407" r="10.032161" cx="-579.79144"
-                class="id_Javante_McCoy" cy="151.83049" stroke="#b25104"
-                stroke-opacity="1.0" stroke-width="1.7447237"/>
-        <circle fill-opacity="1.0" fill="#ff7407" r="10.032161" cx="478.25665"
-                class="id_Sacha_Killeya-Jones" cy="369.0041" stroke="#b25104"
-                stroke-opacity="1.0" stroke-width="1.7447237"/>
-        <circle fill-opacity="1.0" fill="#007881" r="10.170855" cx="-255.05429"
-                class="id_Vitto_Brown" cy="527.4395" stroke="#00545a"
-                stroke-opacity="1.0" stroke-width="1.7688442"/>
-        <circle fill-opacity="1.0" fill="#90cbbf" r="32.639194" cx="328.9871"
-                class="id_Russell_Westbrook" cy="-11.136017" stroke="#648e85"
-                stroke-opacity="1.0" stroke-width="5.6763816"/>
-        <circle fill-opacity="1.0" fill="#ff80ff" r="10.448241" cx="-443.1183"
-                class="id_Mason_Jones" cy="371.56198" stroke="#b259b2"
-                stroke-opacity="1.0" stroke-width="1.8170854"/>
-        <circle fill-opacity="1.0" fill="#007881" r="10.170855" cx="65.02747"
-                class="id_Nate_Pierre-Louis" cy="139.19537" stroke="#00545a"
-                stroke-opacity="1.0" stroke-width="1.7688442"/>
-        <circle fill-opacity="1.0" fill="#c4c26e" r="9.338694" cx="-592.0223"
-                class="id_R.J._Cole" cy="-114.20679" stroke="#89874d"
-                stroke-opacity="1.0" stroke-width="1.6241206"/>
-        <circle fill-opacity="1.0" fill="#8b3346" r="9.2" cx="-266.00323"
-                class="id_Sterling_Brown" cy="-534.96954" stroke="#612331"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00d5b7" r="67.332756" cx="-221.97458"
+                class="id_Anthony_Davis" cy="284.96075" stroke="#009580"
+                stroke-opacity="1.0" stroke-width="11.710044"/>
+        <circle fill-opacity="1.0" fill="#8aa4ff" r="32.74236" cx="518.9742"
+                class="id_Juan_Toscano-Anderson" cy="637.8521" stroke="#6072b2"
+                stroke-opacity="1.0" stroke-width="5.694323"/>
+        <circle fill-opacity="1.0" fill="#9db600" r="47.084717" cx="693.1488"
+                class="id_Austin_Reaves" cy="79.25098" stroke="#6d7f00"
+                stroke-opacity="1.0" stroke-width="8.188646"/>
+        <circle fill-opacity="1.0" fill="#00c3ff" r="43.288208" cx="-715.8285"
+                class="id_Troy_Brown_Jr." cy="60.092957" stroke="#0088b2"
+                stroke-opacity="1.0" stroke-width="7.5283837"/>
+        <circle fill-opacity="1.0" fill="#90cbbf" r="95.1738" cx="120.40265"
+                class="id_Russell_Westbrook" cy="-76.89948" stroke="#648e85"
+                stroke-opacity="1.0" stroke-width="16.551966"/>
+        <circle fill-opacity="1.0" fill="#f7a100" r="33.164192" cx="-627.68024"
+                class="id_Max_Christie" cy="417.26492" stroke="#ac7000"
+                stroke-opacity="1.0" stroke-width="5.7676854"/>
+        <circle fill-opacity="1.0" fill="#ff4e65" r="115.0" cx="36.805237"
+                class="id_LeBron_James" cy="-383.02292" stroke="#b23646"
+                stroke-opacity="1.0" stroke-width="20.0"/>
+        <circle fill-opacity="1.0" fill="#00c55c" r="57.63057" cx="-61.23074"
+                class="id_Lonnie_Walker_IV" cy="-750.64044" stroke="#008940"
+                stroke-opacity="1.0" stroke-width="10.022707"/>
+        <circle fill-opacity="1.0" fill="#ffa07e" r="38.2262" cx="-896.14484"
+                class="id_Kendrick_Nunn" cy="254.54942" stroke="#b27058"
+                stroke-opacity="1.0" stroke-width="6.6480346"/>
+        <circle fill-opacity="1.0" fill="#ff80ff" r="22.196507" cx="-827.18024"
+                class="id_Matt_Ryan" cy="-367.81213" stroke="#b259b2"
+                stroke-opacity="1.0" stroke-width="3.8602617"/>
+        <circle fill-opacity="1.0" fill="#844f00" r="45.819214" cx="-689.0219"
+                class="id_Thomas_Bryant" cy="-255.84581" stroke="#5c3700"
+                stroke-opacity="1.0" stroke-width="7.968559"/>
+        <circle fill-opacity="1.0" fill="#e5a3d5" r="47.928383" cx="499.76147"
+                class="id_Dennis_Schroder" cy="-218.53578" stroke="#a07295"
+                stroke-opacity="1.0" stroke-width="8.335371"/>
+        <circle fill-opacity="1.0" fill="#3d4f78" r="37.38253" cx="-421.28467"
+                class="id_Wenyen_Gabriel" cy="-579.2795" stroke="#2a3754"
+                stroke-opacity="1.0" stroke-width="6.50131"/>
+        <circle fill-opacity="1.0" fill="#ff59ba" r="23.883842" cx="384.5404"
+                class="id_Damian_Jones" cy="438.34204" stroke="#b23e82"
+                stroke-opacity="1.0" stroke-width="4.153712"/>
+        <circle fill-opacity="1.0" fill="#25de00" r="25.571178" cx="-384.22943"
+                class="id_Cole_Swider" cy="570.34314" stroke="#199b00"
+                stroke-opacity="1.0" stroke-width="4.4471617"/>
+        <circle fill-opacity="1.0" fill="#25de00" r="25.571178" cx="574.58154"
+                class="id_Scotty_Pippen_Jr." cy="-674.9201" stroke="#199b00"
+                stroke-opacity="1.0" stroke-width="4.4471617"/>
+        <circle fill-opacity="1.0" fill="#00e3ff" r="19.243668" cx="915.15356"
+                class="id_Shareef_O&apos;Neal" cy="268.9271" stroke="#009eb2"
+                stroke-opacity="1.0" stroke-width="3.3467247"/>
+        <circle fill-opacity="1.0" fill="#007881" r="21.352839" cx="798.6672"
+                class="id_Paris_Bass" cy="457.04837" stroke="#00545a"
+                stroke-opacity="1.0" stroke-width="3.713537"/>
+        <circle fill-opacity="1.0" fill="#2d5724" r="49.61572" cx="345.60547"
+                class="id_Patrick_Beverley" cy="180.73119" stroke="#1f3c19"
+                stroke-opacity="1.0" stroke-width="8.62882"/>
+        <circle fill-opacity="1.0" fill="#ff7407" r="20.931004" cx="1052.4587"
+                class="id_Javante_McCoy" cy="-99.83265" stroke="#b25104"
+                stroke-opacity="1.0" stroke-width="3.6401744"/>
+        <circle fill-opacity="1.0" fill="#007881" r="21.352839" cx="339.24823"
+                class="id_Vitto_Brown" cy="-524.1371" stroke="#00545a"
+                stroke-opacity="1.0" stroke-width="3.713537"/>
+        <circle fill-opacity="1.0" fill="#ff7407" r="20.931004" cx="-996.4203"
+                class="id_Sacha_Killeya-Jones" cy="-110.3486" stroke="#b25104"
+                stroke-opacity="1.0" stroke-width="3.6401744"/>
+        <circle fill-opacity="1.0" fill="#ff80ff" r="22.196507" cx="771.93365"
+                class="id_Mason_Jones" cy="-375.19495" stroke="#b259b2"
+                stroke-opacity="1.0" stroke-width="3.8602617"/>
+        <circle fill-opacity="1.0" fill="#007881" r="21.352839" cx="-60.584087"
+                class="id_Nate_Pierre-Louis" cy="762.956" stroke="#00545a"
+                stroke-opacity="1.0" stroke-width="3.713537"/>
+        <circle fill-opacity="1.0" fill="#c4c26e" r="18.821835" cx="-787.1317"
+                class="id_R.J._Cole" cy="-469.05057" stroke="#89874d"
+                stroke-opacity="1.0" stroke-width="3.2733624"/>
+        <circle fill-opacity="1.0" fill="#8b3346" r="18.4" cx="820.46045"
+                class="id_Sterling_Brown" cy="-570.1846" stroke="#612331"
+                stroke-opacity="1.0" stroke-width="3.1999998"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="54" x="-221.97458" y="297.4676"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anthony_Davis" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="13.5px">
+            Anthony Davis
+        </text>
+        <text stroke-linecap="round" font-size="41" x="518.9742" y="645.31604"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Juan_Toscano-Anderson"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="10.25px">
+            Juan Toscano-Anderson
+        </text>
+        <text stroke-linecap="round" font-size="47" x="693.1488" y="87.79956"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Austin_Reaves" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="11.75px">
+            Austin Reaves
+        </text>
+        <text stroke-linecap="round" font-size="45" x="-715.8285" y="70.51532"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Troy_Brown_Jr." stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="11.25px">
+            Troy Brown Jr.
+        </text>
+        <text stroke-linecap="round" font-size="65" x="120.40265" y="-65.07697"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Russell_Westbrook" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="16.25px">
+            Russell Westbrook
+        </text>
+        <text stroke-linecap="round" font-size="42" x="-627.68024" y="425.0408"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Max_Christie" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="10.5px">
+            Max Christie
+        </text>
+        <text stroke-linecap="round" font-size="72" x="36.805237" y="-369.9155"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_LeBron_James" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="18.0px">
+            LeBron James
+        </text>
+        <text stroke-linecap="round" font-size="51" x="-61.23074" y="-741.3643"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lonnie_Walker_IV" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="12.75px">
+            Lonnie Walker IV
+        </text>
+        <text stroke-linecap="round" font-size="43" x="-896.14484" y="262.37048"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kendrick_Nunn" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="10.75px">
+            Kendrick Nunn
+        </text>
+        <text stroke-linecap="round" font-size="37" x="-827.18024"
+              y="-359.24265" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Matt_Ryan" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.25px">
+            Matt Ryan
+        </text>
+        <text stroke-linecap="round" font-size="46" x="-689.0219" y="-245.19183"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Bryant" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="11.5px">
+            Thomas Bryant
+        </text>
+        <text stroke-linecap="round" font-size="47" x="499.76147" y="-209.8342"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dennis_Schroder" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="11.75px">
+            Dennis Schroder
+        </text>
+        <text stroke-linecap="round" font-size="43" x="-421.28467" y="-569.1874"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wenyen_Gabriel" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="10.75px">
+            Wenyen Gabriel
+        </text>
+        <text stroke-linecap="round" font-size="38" x="384.5404" y="445.25986"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Damian_Jones" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.5px">
+            Damian Jones
+        </text>
+        <text stroke-linecap="round" font-size="39" x="-384.22943" y="577.5636"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cole_Swider" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.75px">
+            Cole Swider
+        </text>
+        <text stroke-linecap="round" font-size="39" x="574.58154" y="-665.7668"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Scotty_Pippen_Jr." stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.75px">
+            Scotty Pippen Jr.
+        </text>
+        <text stroke-linecap="round" font-size="36" x="915.15356" y="275.59506"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shareef_O&apos;Neal"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="9.0px">
+            Shareef O&apos;Neal
+        </text>
+        <text stroke-linecap="round" font-size="37" x="798.6672" y="463.7781"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paris_Bass" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.25px">
+            Paris Bass
+        </text>
+        <text stroke-linecap="round" font-size="48" x="345.60547" y="191.84837"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Patrick_Beverley" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="12.0px">
+            Patrick Beverley
+        </text>
+        <text stroke-linecap="round" font-size="37" x="1052.4587" y="-91.14873"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Javante_McCoy" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.25px">
+            Javante McCoy
+        </text>
+        <text stroke-linecap="round" font-size="37" x="339.24823" y="-517.40735"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vitto_Brown" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.25px">
+            Vitto Brown
+        </text>
+        <text stroke-linecap="round" font-size="37" x="-996.4203" y="-101.66468"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sacha_Killeya-Jones"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="9.25px">
+            Sacha Killeya-Jones
+        </text>
+        <text stroke-linecap="round" font-size="37" x="771.93365" y="-368.4592"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mason_Jones" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.25px">
+            Mason Jones
+        </text>
+        <text stroke-linecap="round" font-size="37" x="-60.584087" y="769.6857"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nate_Pierre-Louis" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.25px">
+            Nate Pierre-Louis
+        </text>
+        <text stroke-linecap="round" font-size="36" x="-787.1317" y="-462.38553"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_R.J._Cole" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.0px">
+            R.J. Cole
+        </text>
+        <text stroke-linecap="round" font-size="36" x="820.46045" y="-561.73535"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sterling_Brown" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="9.0px">
+            Sterling Brown
+        </text>
     </g>
     <g id="node-labels">
-        <text font-size="27" x="289.35745" y="240.71869" fill="#ffffff"
+        <text font-size="54" x="-221.97458" y="297.4676" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Anthony_Davis">
             Anthony Davis
         </text>
-        <text font-size="16" x="-351.01752" y="-140.9392" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Kendrick_Nunn">
-            Kendrick Nunn
-        </text>
-        <text font-size="15" x="79.85421" y="-113.16344" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Max_Christie">
-            Max Christie
-        </text>
-        <text font-size="18" x="258.53366" y="-521.3078" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Troy_Brown_Jr.">
-            Troy Brown Jr.
-        </text>
-        <text font-size="24" x="57.68763" y="384.53757" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Lonnie_Walker_IV">
-            Lonnie Walker IV
-        </text>
-        <text font-size="20" x="-345.4049" y="116.32249" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Austin_Reaves">
-            Austin Reaves
-        </text>
-        <text font-size="12" x="262.7261" y="526.6983" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Damian_Jones">
-            Damian Jones
-        </text>
-        <text font-size="14" x="-454.0166" y="-361.69037" fill="#ffffff"
+        <text font-size="41" x="518.9742" y="645.31604" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Juan_Toscano-Anderson">
             Juan Toscano-Anderson
         </text>
-        <text font-size="18" x="-13.0499735" y="-591.111" fill="#ffffff"
+        <text font-size="47" x="693.1488" y="87.79956" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Thomas_Bryant">
-            Thomas Bryant
+              font-family="Arial" class="id_Austin_Reaves">
+            Austin Reaves
         </text>
-        <text font-size="40" x="-133.81117" y="-5.3406878" fill="#ffffff"
+        <text font-size="45" x="-715.8285" y="70.51532" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_LeBron_James">
-            LeBron James
+              font-family="Arial" class="id_Troy_Brown_Jr.">
+            Troy Brown Jr.
         </text>
-        <text font-size="11" x="289.40765" y="-251.64647" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Matt_Ryan">
-            Matt Ryan
-        </text>
-        <text font-size="13" x="-164.9981" y="-292.1624" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Cole_Swider">
-            Cole Swider
-        </text>
-        <text font-size="16" x="56.242233" y="-371.09772" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Wenyen_Gabriel">
-            Wenyen Gabriel
-        </text>
-        <text font-size="11" x="574.36914" y="-114.66111" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Paris_Bass">
-            Paris Bass
-        </text>
-        <text font-size="12" x="485.25653" y="-361.14816" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Scotty_Pippen_Jr.">
-            Scotty Pippen Jr.
-        </text>
-        <text font-size="10" x="-11.641635" y="604.72095" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Shareef_O&apos;Neal">
-            Shareef O&apos;Neal
-        </text>
-        <text font-size="20" x="-172.54219" y="287.27112" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Dennis_Schroder">
-            Dennis Schroder
-        </text>
-        <text font-size="20" x="556.7658" y="129.29068" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Patrick_Beverley">
-            Patrick Beverley
-        </text>
-        <text font-size="11" x="-579.79144" y="154.4122" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Javante_McCoy">
-            Javante McCoy
-        </text>
-        <text font-size="11" x="478.25665" y="371.58582" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Sacha_Killeya-Jones">
-            Sacha Killeya-Jones
-        </text>
-        <text font-size="11" x="-255.05429" y="529.44025" fill="#ffffff"
-              style="text-anchor: middle; dominant-baseline: central;"
-              font-family="Arial" class="id_Vitto_Brown">
-            Vitto Brown
-        </text>
-        <text font-size="35" x="328.9871" y="-4.77005" fill="#ffffff"
+        <text font-size="65" x="120.40265" y="-65.07697" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Russell_Westbrook">
             Russell Westbrook
         </text>
-        <text font-size="11" x="-443.1183" y="373.5645" fill="#ffffff"
+        <text font-size="42" x="-627.68024" y="425.0408" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Max_Christie">
+            Max Christie
+        </text>
+        <text font-size="72" x="36.805237" y="-369.9155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_LeBron_James">
+            LeBron James
+        </text>
+        <text font-size="51" x="-61.23074" y="-741.3643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lonnie_Walker_IV">
+            Lonnie Walker IV
+        </text>
+        <text font-size="43" x="-896.14484" y="262.37048" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kendrick_Nunn">
+            Kendrick Nunn
+        </text>
+        <text font-size="37" x="-827.18024" y="-359.24265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Matt_Ryan">
+            Matt Ryan
+        </text>
+        <text font-size="46" x="-689.0219" y="-245.19183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Bryant">
+            Thomas Bryant
+        </text>
+        <text font-size="47" x="499.76147" y="-209.8342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dennis_Schroder">
+            Dennis Schroder
+        </text>
+        <text font-size="43" x="-421.28467" y="-569.1874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wenyen_Gabriel">
+            Wenyen Gabriel
+        </text>
+        <text font-size="38" x="384.5404" y="445.25986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Damian_Jones">
+            Damian Jones
+        </text>
+        <text font-size="39" x="-384.22943" y="577.5636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cole_Swider">
+            Cole Swider
+        </text>
+        <text font-size="39" x="574.58154" y="-665.7668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Scotty_Pippen_Jr.">
+            Scotty Pippen Jr.
+        </text>
+        <text font-size="36" x="915.15356" y="275.59506" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shareef_O&apos;Neal">
+            Shareef O&apos;Neal
+        </text>
+        <text font-size="37" x="798.6672" y="463.7781" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paris_Bass">
+            Paris Bass
+        </text>
+        <text font-size="48" x="345.60547" y="191.84837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Patrick_Beverley">
+            Patrick Beverley
+        </text>
+        <text font-size="37" x="1052.4587" y="-91.14873" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Javante_McCoy">
+            Javante McCoy
+        </text>
+        <text font-size="37" x="339.24823" y="-517.40735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vitto_Brown">
+            Vitto Brown
+        </text>
+        <text font-size="37" x="-996.4203" y="-101.66468" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sacha_Killeya-Jones">
+            Sacha Killeya-Jones
+        </text>
+        <text font-size="37" x="771.93365" y="-368.4592" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Mason_Jones">
             Mason Jones
         </text>
-        <text font-size="11" x="65.02747" y="141.1961" fill="#ffffff"
+        <text font-size="37" x="-60.584087" y="769.6857" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Nate_Pierre-Louis">
             Nate Pierre-Louis
         </text>
-        <text font-size="10" x="-592.0223" y="-112.35539" fill="#ffffff"
+        <text font-size="36" x="-787.1317" y="-462.38553" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_R.J._Cole">
             R.J. Cole
         </text>
-        <text font-size="10" x="-266.00323" y="-532.62256" fill="#ffffff"
+        <text font-size="36" x="820.46045" y="-561.73535" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_Sterling_Brown">
             Sterling Brown
